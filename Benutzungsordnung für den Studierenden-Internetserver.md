@@ -1,7 +1,11 @@
 # Benutzungsordnung für den Studierenden-Internetserver der Universität Potsdam
 **Vom 16. November 1999**
 
-Der Allgemeine Studierendenausschuss (AStA) der Universität Potsdam und das Studierendenparlament (StuPa) der Universität Potsdam haben am 16. November 1999 nach § 62 Abs. 3 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG vom 20. Mai 1999 (GVBl. I S. 130) die folgende Benutzungsordnung für den Studierenden-Internetserver als Satzung beschlossen:
+i.d.F. der Ersten Änderungssatzung der Benutzungsordnung für den Studierenden-Internetserver der Universität Potsdam
+
+**Vom 11. Januar 2005**
+
+Das Studierendenparlament der Universität Potsdam hat gemäß § 62 Abs. 3 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG) in der Fassung vom 6. Juli 2004 (GVBl. I S. 394) folgende Benutzungsordnung für den Studierenden-Internetserver der Universität Potsdam beschlossen:
 
 
 ----------
@@ -35,7 +39,9 @@ Der AStA betreibt den Studierenden-Internetserver im Auftrag der Studierendensch
 
 1. alle Mitglieder der Studierendenschaft der Universität Potsdam.
 2. Organe der Studierendenschaft der Universität Potsdam.
-3. Sonstige juristische oder natürliche Personen, sofern hierdurch die Belange der unter 1. und 2. genannten Nutzer nicht beeinträchtigt werden.
+3. alle Mitglieder der Studierendenschaft der Fachhochschule Potsdam und der Studierendenschaft der Hochschule für Film und Fernsehen Konrad Wolf.
+4. Organe der Studierendenschaft der Fachhochschule Potsdam und der Hochschule für Film und Fernsehen Konrad Wolf.
+5. Sonstige juristische oder natürliche Personen, sofern hierdurch die Belange der unter 1. bis 4. genannten Nutzer nicht beeinträchtigt werden.
 
 (2) Die Zulassung erfolgt ausschließlich zu Zwecken, die den Aufgaben der Studierendenschaft nicht widersprechen.
 
@@ -158,3 +164,8 @@ Der Nutzer/die Nutzerin ist bei Antragstellung auf die Möglichkeiten einer Doku
 (2) Die Studierendenschaft übernimmt keine Verantwortung für die Richtigkeit der zur Verfügung gestellten Programme. Die Studierendenschaft haftet auch nicht für den Inhalt, insbesondere für die Richtigkeit, Vollständigkeit und Aktualität der Informationen, zu denen sie lediglich den Zugang zur Nutzung vermittelt.
 
 (3) Im übrigen haftet die Studierendenschaft nur bei Vorsatz oder grober Fahrlässigkeit ihrer Mitarbeiter. In diesem Fall ist die Haftung der Studierendenschaft auf typische, bei Begründung des Nutzungsverhältnisses vorhersehbare Schäden begrenzt, soweit nicht vorsätzliches oder grob fahrlässiges Handeln vorliegt.
+
+
+## 10 Inkrafttreten
+
+Diese Benutzungsordnung tritt am Tage nach ihrer Veröffentlichung in den Amtlichen Bekanntmachungen der Universität Potsdam in Kraft.
