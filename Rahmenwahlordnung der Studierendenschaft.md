@@ -1,11 +1,11 @@
 # Rahmenwahlordnung der Studierendenschaft der Universität Potsdam
 **Vom 6. Dezember 2005**
 
-i.d.F. der Ersten Änderungssatzung der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam
+i.d.F. der Zweiten Änderungssatzung der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam
 
-**Vom 18. Mai 2010**
+**Vom 8. Mai 2012**
 
-Das Studierendenparlament der Universität Potsdam hat gemäß § 15 Abs. 3 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG) in der Fassung vom 18. Dezember 2008 (GVBl. I/08, S. 318), zuletzt geändert durch Artikel 16 des Gesetzes vom 3. April 2009 (GVBl. I/09, S. 26, 59), i.V.m. § 8 Abs. 4 der Satzung der Studierendenschaft der Universität Potsdam vom 13. Juli 2005 (AmBek UP S. 637), auf seiner Sitzung am 18. Mai 2010 folgende Rahmenwahlordnung beschlossen:
+Das Studierendenparlament der Universität Potsdam hat gemäß § 15 Abs. 3 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG) in der Fassung vom 18. Dezember 2008 (GVBl. I/08, S. 318), zuletzt geändert durch Gesetz vom 26. Oktober 2010 (GVBl. I/10, Nr. 35), i. V. m. § 8 Abs. 4 der Satzung der Studierendenschaft der Universität Potsdam vom 13. Juli 2005 (AmBek UP 2005, S. 637), auf seinen Sitzungen vom 26. Juli 2011 und 08. Mai 2012 folgende Rahmenwahlordnung beschlossen:
 
 
 ----------
@@ -66,7 +66,7 @@ Die Mitglieder der Organe der Studierendenschaft werden von den Studierenden in 
 (3) Alle Wahlberechtigten haben die Möglichkeit zu wählen, indem sie einen oder mehrere sich Bewerbende einer oder mehrerer Listen ankreuzen, jedoch höchstens drei Bewerbende. Die Kennzeichnung gilt zunächst für die entsprechende
 Liste, auf der die sich Bewerbenden kandidieren, zweitrangig auch für die Festlegung der listeninternen Reihenfolge. Stimmenhäufung ist unzulässig. Die weiteren sich für die Listen Bewerbenden sind in absteigender Reihenfolge nach der von ihnen erreichten Stimmenzahl als Stellvertretungsberechtigte gewählt (Reserveliste).
 
-(4) Die Sitze werden auf die Listen im Verhältnis der für sie abgegebenen Listenstimmen nach dem Hare-Niemeyer-Zählverfahren verteilt. Die danach auf die einzelnen Listen entfallenden Sitze werden den in den Listen aufgeführten Kandidierenden in der Reihenfolge der von ihnen erreichten Stimmenzahlen zugeteilt. Die Wahlleitung entscheidet bei Stimmengleichheit zwischen mehreren Listen über die Zuteilung des letzten Sitzes durch Los. Bei Stimmengleichheit innerhalb einer Liste ist die Reihenfolge der Liste maßgebend.
+(4) Jede Liste erhält so viele Sitze, wie sich nach Teilung der Summe ihrer im Wahlgebiet erhaltenen Stimmen durch einen Zuteilungsdivisor ergeben. Der Zuteilungsdivisor ist so zu bestimmen, dass so viele Sitze auf die Listen entfallen, wie Sitze zu vergeben sind. Dazu wird die Gesamtzahl der abgegebenen Stimmen aller angetretenen Listen durch die Gesamtzahl der Sitze nach § 10 I 1 der Satzung der Studierendenschaft geteilt. Entfallen danach mehr Sitze auf die Listen als Sitze zu vergeben sind, ist der Zuteilungsdivisor so heraufzusetzen, dass sich bei der Berechnung die zu vergebende Sitzzahl ergibt. Entfallen zu wenig Sitze auf die Listen, ist der Zuteilungsdivisor entsprechend herunterzusetzen. Zahlenbruchteile unter 0,5 werden auf die darunter liegende ganze Zahl abgerundet, solche über 0,5 werden auf die darüber liegende ganze Zahl aufgerundet. Zahlenbruchteile, die gleich 0,5 sind, werden so aufgerundet oder abgerundet, dass die Gesamtzahl der zu vergebenden Sitze eingehalten wird. Ergeben sich dabei mehrere mögliche Sitzzuteilungen, so entscheidet das vom Wahlausschuss zu ziehende Los. Die danach auf die einzelnen Listen entfallenden Sitze werden den in den Listen aufgeführten Kandidierenden in der Reihenfolge der von ihnen erreichten Stimmenzahlen zugeteilt. Bei Stimmengleichheit innerhalb einer Liste ist die Reihenfolge der Liste maßgebend.
 
 (5) Werden für das StuPa zu wenig Kandidierende aufgestellt oder höchstens doppelt so viele Kandidierende, wie das StuPa nach § 2 Abs. 1 Sitze hat, so findet die Wahl zum StuPa als einfache Personenwahl mit drei Stimmen statt.
 
@@ -76,7 +76,7 @@ danach nicht zum Zuge gekommenen Personen mit gültigen Stimmen sind in absteige
 
 ## § 9 Wahlausschuss
 
-(1) Für die ordnungsgemäße Vorbereitung und Durchführung der Wahlen wird ein Studentischer Wahlausschuss (StWA) gemäß § 16 der Satzung der Studierendenschaft bestellt. Das StuPa hat den StWA bei der Erfüllung seiner Aufgaben zu unterstützen.
+(1) Für die ordnungsgemäße Vorbereitung und Durchführung der Wahlen wird ein Studentischer Wahlausschuss (StWA) gemäß § 16 der Satzung der Studierendenschaft bestellt. Das StuPa und der AStA haben den Wahlausschuss organisatorisch bei der Erfüllung seiner Aufgaben zu unterstützen.
 
 (2) Die Amtszeit des StWA endet mit dem Zusammentritt des neu gewählten StWA für die turnusmäßig durchzuführenden Wahlen.
 
@@ -212,7 +212,7 @@ Briefwahlumschläge zu öffnen und die Briefwahl im Wahlberechtigtenverzeichnis 
 
 ## § 18 Ermittlung und Bekanntgabe des Wahlergebnisses
 
-(1) Zur Ermittlung des Wahlergebnisses werden unverzüglich nach Schließung der Wahllokale zentral an einem Ort die Stimmzettel den Wahlurnen entnommen und gezählt. Ihre Zahl ist mit der Zahl der im Wahlberechtigtenverzeichnis vermerkten Stimmabgaben zu vergleichen. In der Wahlniederschrift ist festzuhalten, wenn die Zahlen nicht übereinstimmen. Danach werden die Stimmen ausgezählt. Die Ermittlung des Wahlergebnisses findet universitätsöffentlich statt.
+(1) Zur Ermittlung des Wahlergebnisses werden unverzüglich nach Schließung der Wahllokale, spätestens am darauf folgenden Tag, zentral an einem Ort die Stimmzettel den Wahlurnen entnommen und gezählt. Ihre Zahl ist mit der Zahl der im Wahlberechtigtenverzeichnis vermerkten Stimmabgaben zu vergleichen. In der Wahlniederschrift ist festzuhalten, wenn die Zahlen nicht übereinstimmen. Danach werden die Stimmen ausgezählt. Die Ermittlung des Wahlergebnisses findet universitätsöffentlich statt.
 
 (2) Ungültig sind Stimmzettel,
 
