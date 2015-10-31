@@ -1,6 +1,10 @@
 #Satzung der Studierendenschaft der Universität Potsdam
 **Vom 13. Juli 2005**
 
+i.d.F. der Ersten Änderungssatzung der Satzung der Studierendenschaft der Universität Potsdam
+
+**Vom 24. Mai 2011**
+
 
 ----------
 
@@ -166,7 +170,7 @@ Scheidet ein Mitglied aus, rückt automatisch eine Kandidatin oder ein Kandidat 
 
 An Sonnabenden und Sonntagen finden keine Sitzungen statt.
 
-(2) Ordnungsgemäß eingeladen ist, wenn mindestens neun Tage vor der Sitzung die Einladungen abgesendet werden (Datum des Poststempels). Zusätzlich ist die Tagesordnung per Email an die Mitglieder des Parlaments und des AStA zu versenden. Eine solche Email ist keine Einladung im Sinne von Satz 1. Bei außerordentlichen Sitzungen sind die Einladungen fünf Tage vorher per Email und Brief abzusenden. Außerordentliche Sitzungen sind vier Tage vorher im Internetauftritt der Studierendenschaft anzukündigen.
+(2) Ordnungsgemäß eingeladen ist, wenn mindestens neun Tage vor der Sitzung die Einladungen abgesendet werden. Die Einladung kann per E-Mail oder per Brief erfolgen und muss die Tagesordnung enthalten. Bei außerordentlichen Sitzungen sind die Einladungen fünf Tage vorher per Email oder Brief abzusenden. Außerordentliche Sitzungen sind vier Tage vorher im Internetauftritt der Studierendenschaft anzukündigen.
 
 (3) Näheres regelt die Geschäftsordnung des Studierendenparlaments der Universität Potsdam.
 
