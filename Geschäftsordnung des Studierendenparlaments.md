@@ -84,6 +84,8 @@ Das Präsidium bestimmt aus seiner Mitte die Sitzungsleitung und Protokollführu
 
 Über den weitergehenden Antrag ist grundsätzlich zuerst abzustimmen. Bei Zeitbestimmungen ist über die längere Zeit zuerst zu entscheiden.
 
+(3) Bestehen Zweifel über das Auszählergebnis einer offenen Abstimmung, so erfolgt auf Verlangen eines StuPa-Mitglieds eine einmalige Wiederholung der Abstimmung direkt im Anschluss. In diesem Fall kann das StuPa-Präsidium eine Abstimmung mit Namensaufruf durchführen.
+
 
 ##§ 10 Persönliche Erklärung
 
