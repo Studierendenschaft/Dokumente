@@ -44,9 +44,15 @@ Die Geschäftsordnung gilt für das Studierendenparlament (StuPa) der Universit�
 (2) Tagesordnungen und Zeitplan werden zu Beginn der Sitzungen des Studierendenparlaments beschlossen. In Aussprachen zur Tagesordnung, zum Zeitplan und zur Geschäftsordnung haben nur Mitglieder des Studierendenparlaments und des AStA Rede- und Antragsrecht.
 
 
-##§ 6 Tagesordnung
+##§ 6 Sitzungsablauf
 
-Das Präsidium bestimmt aus seiner Mitte die Sitzungsleitung und Protokollführung. Die Sitzungsleitung ruft die Tagesordnungspunkte und die dazu gehörenden Beschlussvorlagen auf und leitet die Beschlussfassung. Es kann jederzeit das Wort zu Verfahrensfragen ergreifen. Das Präsidium erteilt das Wort, kann Rednerinnen und Redner zur Sache aufrufen und ihnen das Wort entziehen, wenn sie die Redezeit überschreiten oder vom aufgerufenen Thema abweichen. Über die Redezeiten beschließt das Studierendenparlament am Beginn jedes Tagesordnungspunktes auf Vorschlag des Präsidiums.
+(1) Das Präsidium bestimmt aus seiner Mitte die Sitzungsleitung und Protokollführung.
+
+(2) Die Sitzungsleitung ruft die Tagesordnungspunkte und die dazu gehörenden Beschlussvorlagen auf und leitet die Beschlussfassung.
+
+(3) Abweichend von Absatz 1 ist es dem Präsidium freigestellt, eine Person mit der Führung des Protokolls zu beauftragen, die nicht dem Studierendenparlament oder Allgemeinen Studierendenausschuss (AStA) angehören muss. Die Verantwortung für die Richtigkeit des Protokolls obliegt dabei weiterhin dem Präsidium.
+
+(4) Das Präsidium kann jederzeit das Wort zu Verfahrensfragen ergreifen. Es erteilt das Wort, kann zur Ordnung und Redende zur Sache aufrufen und ihnen das Wort entziehen, wenn sie die Redezeit überschreiten oder vom aufgerufenen Thema abweichen. Über die Redezeiten beschließt das Studierendenparlament am Beginn jedes Tagesordnungspunktes auf Vorschlag des Präsidiums.
 
 
 ##§ 7 Stimm-, Rede- und Antragsrecht
@@ -156,4 +162,4 @@ Weitere Anträge zum Verfahren bedürfen einer 2/3-Mehrheit der anwesenden Mitgl
 
 ##§ 17 In-Kraft-Treten
 
-Diese Geschäftsordnung tritt am Tage nach dem Beschluss des Studierendenparlaments am 07. Dezember 2005 in Kraft.
+Diese Geschäftsordnung tritt am Tage nach dem Beschluss des Studierendenparlaments am 15. Dezember 2015 in Kraft.
