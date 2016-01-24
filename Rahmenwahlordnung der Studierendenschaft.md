@@ -1,33 +1,33 @@
-#Rahmenwahlordnung der Studierendenschaft der Universität Potsdam
+# Rahmenwahlordnung der Studierendenschaft der Universität Potsdam
 **Vom 6. Dezember 2005**
 
-i.d.F. der Ersten Änderungssatzung der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam
+i.d.F. der Zweiten Änderungssatzung der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam
 
-**Vom 18. Mai 2010**
+**Vom 8. Mai 2012**
 
-Das Studierendenparlament der Universität Potsdam hat gemäß § 15 Abs. 3 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG) in der Fassung vom 18. Dezember 2008 (GVBl. I/08, S. 318), zuletzt geändert durch Artikel 16 des Gesetzes vom 3. April 2009 (GVBl. I/09, S. 26, 59), i.V.m. § 8 Abs. 4 der Satzung der Studierendenschaft der Universität Potsdam vom 13. Juli 2005 (AmBek UP S. 637), auf seiner Sitzung am 18. Mai 2010 folgende Rahmenwahlordnung beschlossen:
+Das Studierendenparlament der Universität Potsdam hat gemäß § 15 Abs. 3 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG) in der Fassung vom 18. Dezember 2008 (GVBl. I/08, S. 318), zuletzt geändert durch Gesetz vom 26. Oktober 2010 (GVBl. I/10, Nr. 35), i. V. m. § 8 Abs. 4 der Satzung der Studierendenschaft der Universität Potsdam vom 13. Juli 2005 (AmBek UP 2005, S. 637), auf seinen Sitzungen vom 26. Juli 2011 und 08. Mai 2012 folgende Rahmenwahlordnung beschlossen:
 
 
 ----------
 
 
-##§ 1 Geltungsbereich
+## § 1 Geltungsbereich
 
 Diese Rahmenwahlordnung gilt für die Wahlen zu den Organen der Studierendenschaft, insbesondere für die Wahl zum Studierendenparlament (StuPa) der Universität Potsdam. Soweit anwendbar gilt diese Ordnung auch für eine Urabstimmung. Sie gilt entsprechend für Wahlen in den Fachschaften – insbesondere für Wahlen zum Fachschaftsrat,
 sofern sich eine Fachschaft nicht eine eigene Wahlordnung gegeben hat. Eine solche muss jedoch den Grundsätzen dieser Rahmenwahlordnung nach § 7 entsprechen.
 
 
-##§ 2 Sitzverteilung
+## § 2 Sitzverteilung
 
 Für das StuPa sind nach § 9 Abs. 1 der Satzung der Studierendenschaft 27 Mitglieder zu wählen.
 
 
-##§ 3 Wahlbezirke
+## § 3 Wahlbezirke
 
 Wahlbezirke, in denen an den Wahltagen an zentraler Stelle ein Wahllokal einzurichten ist, sind die Standorte Griebnitzsee, Neues Palais und Golm.
 
 
-##§ 4 Wahltermin
+## § 4 Wahltermin
 
 (1) Die Wahlen zum StuPa finden an drei aufeinander folgenden Tagen im Sommersemester statt. Die Wahl zum StuPa soll gleichzeitig mit den Wahlen der Organe der Universität Potsdam durchgeführt werden.
 
@@ -36,14 +36,14 @@ Wahlbezirke, in denen an den Wahltagen an zentraler Stelle ein Wahllokal einzuri
 (3) Die Wahlzeit dauert mindestens von 10.00 Uhr bis 15.00 Uhr.
 
 
-##§ 5 Wahlberechtigung
+## § 5 Wahlberechtigung
 
 (1) Wahlberechtigt sind alle immatrikulierten Studierenden der Universität Potsdam.
 
 (2) Die Zuordnung der Wahlberechtigten zu einem Wahlbezirk richtet sich nach dem ersten Studienfach.  Wahlberechtigte, die Mitglieder mehrerer Fakultäten sind, können bis zum Tage des Ablaufs für Einwendungen gegen das Wahlberechtigtenverzeichnis gegenüber dem Studentischen Wahlausschuss (StWA) eine formlose Erklärung abgeben, dass sie in einer anderen Fakultät, als der in Satz 1 festgelegten, wählen wollen.
 
 
-##§ 6 Wählbarkeit
+## § 6 Wählbarkeit
 
 (1) Wählbar sind alle immatrikulierten Studierenden der Universität Potsdam. Jede Studentin und jeder Student hat die Möglichkeit, andere oder sich selbst zur Wahl vorzuschlagen.
 
@@ -52,7 +52,7 @@ Wahlbezirke, in denen an den Wahltagen an zentraler Stelle ein Wahllokal einzuri
 (3) Die Wählbarkeit der Kandidierenden überprüft der Studentische Wahlausschuss.
 
 
-##§ 7 Wahlgrundsätze
+## § 7 Wahlgrundsätze
 
 Die Mitglieder der Organe der Studierendenschaft werden von den Studierenden in unmittelbarer, freier, gleicher und geheimer Wahl gewählt.
 
@@ -66,7 +66,7 @@ Die Mitglieder der Organe der Studierendenschaft werden von den Studierenden in 
 (3) Alle Wahlberechtigten haben die Möglichkeit zu wählen, indem sie einen oder mehrere sich Bewerbende einer oder mehrerer Listen ankreuzen, jedoch höchstens drei Bewerbende. Die Kennzeichnung gilt zunächst für die entsprechende
 Liste, auf der die sich Bewerbenden kandidieren, zweitrangig auch für die Festlegung der listeninternen Reihenfolge. Stimmenhäufung ist unzulässig. Die weiteren sich für die Listen Bewerbenden sind in absteigender Reihenfolge nach der von ihnen erreichten Stimmenzahl als Stellvertretungsberechtigte gewählt (Reserveliste).
 
-(4) Die Sitze werden auf die Listen im Verhältnis der für sie abgegebenen Listenstimmen nach dem Hare-Niemeyer-Zählverfahren verteilt. Die danach auf die einzelnen Listen entfallenden Sitze werden den in den Listen aufgeführten Kandidierenden in der Reihenfolge der von ihnen erreichten Stimmenzahlen zugeteilt. Die Wahlleitung entscheidet bei Stimmengleichheit zwischen mehreren Listen über die Zuteilung des letzten Sitzes durch Los. Bei Stimmengleichheit innerhalb einer Liste ist die Reihenfolge der Liste maßgebend.
+(4) Jede Liste erhält so viele Sitze, wie sich nach Teilung der Summe ihrer im Wahlgebiet erhaltenen Stimmen durch einen Zuteilungsdivisor ergeben. Der Zuteilungsdivisor ist so zu bestimmen, dass so viele Sitze auf die Listen entfallen, wie Sitze zu vergeben sind. Dazu wird die Gesamtzahl der abgegebenen Stimmen aller angetretenen Listen durch die Gesamtzahl der Sitze nach § 10 I 1 der Satzung der Studierendenschaft geteilt. Entfallen danach mehr Sitze auf die Listen als Sitze zu vergeben sind, ist der Zuteilungsdivisor so heraufzusetzen, dass sich bei der Berechnung die zu vergebende Sitzzahl ergibt. Entfallen zu wenig Sitze auf die Listen, ist der Zuteilungsdivisor entsprechend herunterzusetzen. Zahlenbruchteile unter 0,5 werden auf die darunter liegende ganze Zahl abgerundet, solche über 0,5 werden auf die darüber liegende ganze Zahl aufgerundet. Zahlenbruchteile, die gleich 0,5 sind, werden so aufgerundet oder abgerundet, dass die Gesamtzahl der zu vergebenden Sitze eingehalten wird. Ergeben sich dabei mehrere mögliche Sitzzuteilungen, so entscheidet das vom Wahlausschuss zu ziehende Los. Die danach auf die einzelnen Listen entfallenden Sitze werden den in den Listen aufgeführten Kandidierenden in der Reihenfolge der von ihnen erreichten Stimmenzahlen zugeteilt. Bei Stimmengleichheit innerhalb einer Liste ist die Reihenfolge der Liste maßgebend.
 
 (5) Werden für das StuPa zu wenig Kandidierende aufgestellt oder höchstens doppelt so viele Kandidierende, wie das StuPa nach § 2 Abs. 1 Sitze hat, so findet die Wahl zum StuPa als einfache Personenwahl mit drei Stimmen statt.
 
@@ -74,9 +74,9 @@ Liste, auf der die sich Bewerbenden kandidieren, zweitrangig auch für die Festl
 danach nicht zum Zuge gekommenen Personen mit gültigen Stimmen sind in absteigender Reihenfolge nach der von ihnen erreichten Stimmenzahl in die Reserveliste aufgenommen (siehe § 21 Abs. 1). Bei Stimmengleichheit entscheidet das Los über die Reihenfolge.
 
 
-##§ 9 Wahlausschuss
+## § 9 Wahlausschuss
 
-(1) Für die ordnungsgemäße Vorbereitung und Durchführung der Wahlen wird ein Studentischer Wahlausschuss (StWA) gemäß § 16 der Satzung der Studierendenschaft bestellt. Das StuPa hat den StWA bei der Erfüllung seiner Aufgaben zu unterstützen.
+(1) Für die ordnungsgemäße Vorbereitung und Durchführung der Wahlen wird ein Studentischer Wahlausschuss (StWA) gemäß § 16 der Satzung der Studierendenschaft bestellt. Das StuPa und der AStA haben den Wahlausschuss organisatorisch bei der Erfüllung seiner Aufgaben zu unterstützen.
 
 (2) Die Amtszeit des StWA endet mit dem Zusammentritt des neu gewählten StWA für die turnusmäßig durchzuführenden Wahlen.
 
@@ -86,12 +86,12 @@ einfacher Mehrheit der anwesenden Mitglieder. Bei Stimmengleichheit ist der Sach
 (4) Der StWA entscheidet in allen Fragen der Auslegung der studentischen Rahmenwahlordnung, auch im Hinblick auf die Festlegung der Wahlberechtigung.
 
 
-##§ 10 Wahlhelfende Personen
+## § 10 Wahlhelfende Personen
 
 Der StWA bestimmt für die Beaufsichtigung der Wahlhandlung sowie für die Auszählung wahlhelfende Personen. Diese Personen dürfen bei der entsprechenden Wahl nicht selbst zur Wahl stehen.
 
 
-##§ 11 Wahlausschreibung
+## § 11 Wahlausschreibung
 
 (1) Der StWA schreibt die Wahlen während der Vorlesungszeit spätestens am 49. Tag vor dem ersten Wahltag aus und macht die Wahlen im Internet, durch Aushang und in sonst geeigneter Weise universitätsöffentlich bekannt.
 
@@ -109,7 +109,7 @@ Der StWA bestimmt für die Beaufsichtigung der Wahlhandlung sowie für die Ausz�
 10. die Art der Veröffentlichung des Wahlergebnisses.
 
 
-##§ 12 Wahlberechtigtenverzeichnis
+## § 12 Wahlberechtigtenverzeichnis
 
 (1) Wahlberechtigte dürfen nur wählen, wenn sie im Wahlberechtigtenverzeichnis geführt werden. Das Wahlberechtigtenverzeichnis wird aus dem Immatrikulationsverzeichnis der Universität ermittelt.
 
@@ -120,7 +120,7 @@ Der StWA bestimmt für die Beaufsichtigung der Wahlhandlung sowie für die Ausz�
 (4) Die Mitglieder des StWA können das Wahlberechtigtenverzeichnis von Amts wegen berichtigen.
 
 
-##§ 13 Wahlvorschläge und Wahllisten
+## § 13 Wahlvorschläge und Wahllisten
 
 (1) Begriffsklärung
 
@@ -147,14 +147,14 @@ einzureichen.
 (3) Alle Kandidierenden können sich zur Wahl nur auf einer Wahlliste bewerben; Kandidierende, die auf mehreren Wahllisten genannt sind, werden auf allen Wahllisten gestrichen.
 
 
-##§ 14 Prüfung und Veröffentlichung der Wahlvorschläge und Wahllisten
+## § 14 Prüfung und Veröffentlichung der Wahlvorschläge und Wahllisten
 
 (1) Entsprechen einzelne Wahlvorschläge oder ganze Wahllisten nicht den Anforderungen des § 13, so sind sie unter Angabe der Gründe unverzüglich an die Listensprecherin bzw. den Listensprecher zurückzuweisen. Damit ist die Aufforderung zu verbinden, die Mängel innerhalb der Vorschlagsfrist des § 13 Abs. 3, erforderlichenfalls in einer zu setzenden Nachfrist von zwei Werktagen, zu beseitigen. Maßgeblich ist dann der Eingang des berichtigten Wahlvorschlags bzw. der Wahlliste. Werden die Mängel nicht oder nicht innerhalb dieser Frist beseitigt, so entscheidet der StWA ob und in welchem Umfang der Wahlvorschlag bzw. die Wahlliste als gültig anzusehen ist.
 
 (2) Unverzüglich nach Ablauf der Nominationsfrist beziehungsweise der gewährten Nachfrist, spätestens jedoch 14 Tage vor dem ersten Wahltag, sind die als gültig anerkannten Wahllisten vom StWA universitätsöffentlich, insbesondere auch im Internet bekannt zu geben.
 
 
-##§ 15 Vorbereitung des Wahlgangs
+## § 15 Vorbereitung des Wahlgangs
 
 (1) Bei der Wahl sind amtliche Wahlunterlagen, insbesondere amtliche Stimmzettel zu verwenden. Die Stimmzettel müssen einheitlich sein.
 
@@ -163,7 +163,7 @@ einzureichen.
 (3) Die Wahllokale müssen ständig jeweils mit mindestens zwei wahlhelfenden Personen besetzt sein.
 
 
-##§ 16 Wahlgang
+## § 16 Wahlgang
 
 (1) Die Stimmabgabe richtet sich nach dem Verfahren nach § 8 dieser Rahmenwahlordnung. Die Stimmabgabe ist geheim. Wählende, die körperlich beeinträchtigt sind, können sich der Hilfe einer Vertrauensperson bedienen, die den
 Stimmzettel kennzeichnen und/oder in die Wahlurne werfen kann.
@@ -177,7 +177,7 @@ kennzeichnen können.
 (4) Wird die Wahlhandlung unterbrochen, ist die Wahlurne zu verschließen und vor Missbrauch geschützt aufzubewahren.
 
 
-##§ 17 Briefwahl
+## § 17 Briefwahl
 
 (1) Die Stimmabgabe ist auch durch Briefwahl möglich. Sollen die Briefwahlunterlagen dem/der Wahlberechtigten vor der Wahl ausgehändigt oder übersandt werden, muss bis spätestens 4 Werktage vor der Wahl ein Antrag beim StWA eingegangen sein. Über gesonderte Fristen bei einer Urabstimmung entscheidet der StWA bei Bedarf und weist auf eine Veränderung der Fristen bei der Bekanntgabe der Urabstimmung hin. Nach Ablauf dieser Frist ist eine Briefwahl lediglich während der Wahl in einem der Wahllokale möglich. Bei der Übersendung oder Aushändigung der Briefwahlunterlagen gilt § 16 Abs. 2 entsprechend. Wird der Antrag auf Briefwahl während der Wahl in den Wahllokalen gestellt, ist die Wahlberechtigung mit einem gültigen Personalausweis oder Pass in Verbindung mit einer aktuellen Immatrikulationsbescheinigung zu prüfen.
 
@@ -210,9 +210,9 @@ Briefwahlumschläge zu öffnen und die Briefwahl im Wahlberechtigtenverzeichnis 
 (10) Die zurückgewiesenen Wahlbriefe sind in der Wahlniederschrift zu vermerken. Sie sind mit dem Vermerk über die Zurückweisung zu versehen und der Wahlniederschrift in einem versiegelten Paket beizufügen.
 
 
-##§ 18 Ermittlung und Bekanntgabe des Wahlergebnisses
+## § 18 Ermittlung und Bekanntgabe des Wahlergebnisses
 
-(1) Zur Ermittlung des Wahlergebnisses werden unverzüglich nach Schließung der Wahllokale zentral an einem Ort die Stimmzettel den Wahlurnen entnommen und gezählt. Ihre Zahl ist mit der Zahl der im Wahlberechtigtenverzeichnis vermerkten Stimmabgaben zu vergleichen. In der Wahlniederschrift ist festzuhalten, wenn die Zahlen nicht übereinstimmen. Danach werden die Stimmen ausgezählt. Die Ermittlung des Wahlergebnisses findet universitätsöffentlich statt.
+(1) Zur Ermittlung des Wahlergebnisses werden unverzüglich nach Schließung der Wahllokale, spätestens am darauf folgenden Tag, zentral an einem Ort die Stimmzettel den Wahlurnen entnommen und gezählt. Ihre Zahl ist mit der Zahl der im Wahlberechtigtenverzeichnis vermerkten Stimmabgaben zu vergleichen. In der Wahlniederschrift ist festzuhalten, wenn die Zahlen nicht übereinstimmen. Danach werden die Stimmen ausgezählt. Die Ermittlung des Wahlergebnisses findet universitätsöffentlich statt.
 
 (2) Ungültig sind Stimmzettel,
 
@@ -239,7 +239,7 @@ Briefwahlumschläge zu öffnen und die Briefwahl im Wahlberechtigtenverzeichnis 
 (6) Die Wahl ist mit der Bekanntgabe des Ergebnisses unbeschadet eines Wahlprüfungsverfahrens gültig.
 
 
-##§ 19 Wahlniederschrift
+## § 19 Wahlniederschrift
 
 (1) Über die Wahlhandlung und das Wahlergebnis ist eine Wahlniederschrift anzufertigen, die von den Mitgliedern des StWA zu unterzeichnen ist. Die Wahlunterlagen werden bis zur Unanfechtbarkeit des Wahlergebnisses in der Geschäftsstelle des StWA unter Verschluss aufbewahrt.
 
@@ -253,7 +253,7 @@ Briefwahlumschläge zu öffnen und die Briefwahl im Wahlberechtigtenverzeichnis 
 (3) Das Wahlergebnis muss binnen 7 Tagen im Internet und mittels Aushängen an den einzelnen Fakultäten hochschulöffentlich gemacht werden.
 
 
-##§ 20 Wahlprüfung und Wiederholung der Wahl
+## § 20 Wahlprüfung und Wiederholung der Wahl
 
 (1) Gegen die Gültigkeit kann bis um 15.00 Uhr des 14. Tages nach der Bekanntgabe des Wahlergebnisses schriftlich beim StWA Einspruch erhoben werden. Der StWA kann von Amts wegen eine Wahlprüfung einleiten.
 
@@ -270,7 +270,7 @@ Briefwahlumschläge zu öffnen und die Briefwahl im Wahlberechtigtenverzeichnis 
 (5) Bei der Wiederholung der Wahl ist nach denselben Wahlvorschlägen und aufgrund desselben Wahlberechtigtenverzeichnisses wie bei der für ungültig erklärten Wahl zu wählen, wenn die Wiederholung in demselben Semester wie die erste Wahl stattfindet; ansonsten ist die Wahl mit verkürzten, öffentlich bekannt zu gebenden Fristen nach den allgemeinen Vorschriften dieser Rahmenwahlordnung.
 
 
-##§ 21 Amtszeit
+## § 21 Amtszeit
 
 (1) Die Amtszeit der Mitglieder des StuPa beträgt ein Jahr.
 
@@ -280,6 +280,6 @@ Amt weiter aus. Die Amtszeit des neuen Mitglieds beginnt in diesem Falle am Tage
 (3) Die Festlegung des Wahltermins einer Nachwahl und der damit verbundenen Fristen erfolgt durch den StWA.
 
 
-##§ 22 In-Kraft-Treten
+## § 22 In-Kraft-Treten
 
 Diese Ordnung tritt am Tage nach ihrer Veröffentlichung in den Amtlichen Bekanntmachungen der Universität Potsdam in Kraft.
