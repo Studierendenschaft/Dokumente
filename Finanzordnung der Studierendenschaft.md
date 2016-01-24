@@ -1,11 +1,11 @@
 #Finanzordnung der Studierendenschaft der Universität Potsdam
 **Vom 14. März 2000**
 
-i.d.F. der Zweiten Änderungssatzung der Finanzordnung der Studierendenschaft der Universität Potsdam
+i.d.F. der Dritten Änderungssatzung der Finanzordnung der Studierendenschaft der Universität Potsdam
 
-**Vom 12. Oktober 2004**
+**Vom 14. Dezember 2004**
 
-Das Studierendenparlament der Universität Potsdam hat gemäß § 62 Abs. 3 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz - BbgHG) vom 20. Mai 1999, zuletzt geändert durch Gesetz vom 22. März 2004, und gemäß § 7 Abs. 4 Nr. 1 der Satzung der Studierendenschaft vom 9. Dezember 1999 (AmBek. UP 2000 S. 65), zuletzt geändert durch Satzung vom 4. November 2003, (AmBek. UP 2004 S. 7), folgende Finanzordnung beschlossen:
+Das Studierendenparlament der Universität Potsdam hat gemäß § 62 Abs. 3 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz - BbgHG) in der Fassung vom 6. Juli 2004 (GVBl. I S. 394) und gemäß § 7 Abs. 4 Nr. 1 der Satzung der Studierendenschaft vom 9. Dezember 1999 (AmBek. UP 2000 Nr. 5 S. 65), in der Fassung vom 2. November 2004, (AmBek. UP 2004 Nr. 9 S. 101) folgende Finanzordnung beschlossen:
 
 
 ----------
@@ -42,7 +42,7 @@ Das Studierendenparlament der Universität Potsdam hat gemäß § 62 Abs. 3 des 
 
 (3) Eine Weisung ist im Zweifel durch den AStA zu überprüfen.
 
-(4) Der/die Finanzreferent/in des AStA hat bis spätestens 15. Oktober für das folgende Kalenderjahr einen Haushaltsplan auszuarbeiten und dem AStA sowie dem StuPa zur Beschlussfassung vorzulegen. Bis zum In-Kraft-Treten des neuen Haushaltes gilt der des Vorjahres, wobei pro Monat ein Zwölftel der im Vorjahreshaushalt vorgesehenen Gesamtausgaben ausgegeben werden darf.
+(4) Der/die Finanzreferent/in des AStA hat zur Verschickung zu der dem § 23 Abs. 5. der Satzung der Studierendenschaft entsprechenden Sondersitzung einen Haushaltsplan für das neue Haushaltsjahr vorzulegen.
 
 
 ##§ 5 Fachschaft - Finanzreferent/in der Fachschaft
@@ -55,7 +55,7 @@ Das Studierendenparlament der Universität Potsdam hat gemäß § 62 Abs. 3 des 
 
 (4) Innerhalb einer Fachschaft verwaltet der/die Finanzreferent/in Mittel der Fachschaft eigenverantwortlich.
 
-(5) Am Ende eines Haushaltsjahres bzw. bei Neuwahl des Fachschaftsrates hat der/die Finanzreferent/in der Fachschaft dem/der Finanzreferenten/in des AStA eine Abrechnung vorzulegen. Der Jahresabschluss für das vorangegangene Jahr ist bis zum 31. Januar beim AStA durch den jeweiligen Fachschaftsrat vorzulegen.
+(5) Am Ende eines Haushaltsjahres bzw. bei Neuwahl des Fachschaftsrates hat der/die Finanzreferent/in der Fachschaft dem/der Finanzreferenten/in des AStA eine Abrechnung vorzulegen. Der Jahresabschluss für das vorangegangene Jahr ist bis zum Ende des ersten Monats des neuen Haushaltsjahres beim AStA durch den jeweiligen Fachschaftsrat vorzulegen.
 
 
 ##§ 6 Studierendeninitiativen
@@ -143,7 +143,7 @@ Das Studierendenparlament der Universität Potsdam hat gemäß § 62 Abs. 3 des 
 
 (1) Der/die Finanzreferent/in des AStA hat im ersten Quartal des neuen Haushaltsjahres eine Endabrechnung des abgelaufenen Haushaltsjahres vorzulegen. Diese enthält neben einer Aufstellung über das Sach- und das Barvermögen der Studierendenschaft, eine Aufstellung über die tatsächlichen Einnahmen und Ausgaben, die einen SolI-Ist-Vergleich mit dem Haushaltsplan ermöglichen.
 
-(2) Jegliche Belege des abgelaufenen Haushaltsjahres müssen zur Erstattung bis spätestens zum 31. Januar des neuen Haushaltsjahres eingereicht werden.
+(2) Jegliche Belege des abgelaufenen Haushaltsjahres müssen zur Erstattung spätestens bis zum Ende des ersten Monats des neuen Haushaltsjahres eingereicht werden.
 
 
 ##§ 13 Verwaltungsgebühr
