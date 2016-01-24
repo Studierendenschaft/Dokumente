@@ -1,11 +1,12 @@
 #Finanzordnung der Studierendenschaft der Universität Potsdam
 **Vom 14. März 2000**
 
-i.d.F. der Ersten Änderungssatzung der Finanzordnung der Studierendenschaft der Universität Potsdam
+i.d.F. der Zweiten Änderungssatzung der Finanzordnung der Studierendenschaft der Universität Potsdam
 
-**Vom 22. November 2001**
+**Vom 12. Oktober 2004**
 
-Das Studierendenparlament der Universität Potsdam hat gemäß § 61 Abs. 3 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG) vom 20. Mai 1999 und gemäß § 7 Abs. 4 Nr. 1 der Satzung der Studierendenschaft vom 9. Dezember 1999 (AmBek. UP 2000 S. 65), zuletzt geändert durch Satzung vom 14. Oktober 2003, AmBek. UP S. 122), folgende Finanzordnung beschlossen:
+Das Studierendenparlament der Universität Potsdam hat gemäß § 62 Abs. 3 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz - BbgHG) vom 20. Mai 1999, zuletzt geändert durch Gesetz vom 22. März 2004, und gemäß § 7 Abs. 4 Nr. 1 der Satzung der Studierendenschaft vom 9. Dezember 1999 (AmBek. UP 2000 S. 65), zuletzt geändert durch Satzung vom 4. November 2003, (AmBek. UP 2004 S. 7), folgende Finanzordnung beschlossen:
+
 
 ----------
 
@@ -83,7 +84,7 @@ Das Studierendenparlament der Universität Potsdam hat gemäß § 61 Abs. 3 des 
 
 (1) Für jede entgeltliche Beschäftigung ist ein entsprechender Vertrag abzuschließen. Hierbei ist auf eventuelle Sozialversicherungspflicht zu achten.
 
-(2) Beschäftigungsverträge mit Personen, die für ihre Arbeit in der studentischen Selbstverwaltung an der Universität Potsdam Aufwandsentschädigungen erhalten, bedürfen der Zustimmung des StuPa.
+(2) Beschäftigungsverträge können durch den Allgemeinen Studierendenausschuss nur geschlossen werden, wenn sie im Haushalt vorgesehen sind. Stellenausschreibungen für nicht berücksichtigte Stellen erfolgen nur unter Genehmigungsvorbehalt des StuPa. ReferentInnen dürfen keine Dienstverträge vom AStA erhalten.
 
 
 ##§ 9 Antrag beim AStA bzw. StuPa
@@ -101,7 +102,9 @@ Das Studierendenparlament der Universität Potsdam hat gemäß § 61 Abs. 3 des 
 7. Ort, Datum,
 8. Unterschrift.
 
-(3) Über einen Antrag beschließt der AStA bzw. das StuPa. Ein Antrag, der nicht diesen Anforderungen entspricht, ist nicht behandlungsfähig.
+(3) Für Anträge gelten die Antragsfristen der Geschäftsordnung des AStA bzw. StuPa.
+
+(4) Über einen Antrag beschließt der AStA bzw. das StuPa. Ein Antrag, der nicht diesen Anforderungen entspricht, ist nicht behandlungsfähig.
 
 
 ##§ 10 Ausgabe des Geldes
@@ -118,7 +121,9 @@ Das Studierendenparlament der Universität Potsdam hat gemäß § 61 Abs. 3 des 
 6. Unterschrift des/der Empfängers/in,
 7. wenn vorhanden, Stempel des/der Empfängers/in.
 
-(3) Bei Nichteinreichung der geforderten Belege erfolgt keine Erstattung von Ausgaben.
+(3) Die Abrechnung muss spätestens 6 Wochen nach Beendigung der geförderten Veranstaltungen, Projekte bzw. Durchführung einer beantragten Anschaffung eingereicht werden. Diese Frist kann in begründeten Fällen durch den/die Finanzreferent/in verlängert werden.
+
+(4) Bei Nichteinreichung der geforderten Belege und Einhaltung der geforderten Fristen erfolgt keine Erstattung von Ausgaben. Einspruch gegen die Ablehnung kann bis zur übernächsten AStA-Sitzung beim AStA eingelegt werden.
 
 
 ##§ 11 Abrechnung mit dem AStA
