@@ -1,7 +1,11 @@
 #Rahmenwahlordnung der Studierendenschaft der Universität Potsdam
 **Vom 6. Dezember 2005**
 
-Das Studierendenparlament hat gemäß § 8 Abs. 4 der Satzung der Studierendenschaft vom 13. Juli 2005 (AmBek UP S. 637) nachfolgende Rahmenwahlordnung auf seiner Sitzung am 6. Dezember 2005 erlassen. 
+i.d.F. der Ersten Änderungssatzung der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam
+
+**Vom 18. Mai 2010**
+
+Das Studierendenparlament der Universität Potsdam hat gemäß § 15 Abs. 3 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG) in der Fassung vom 18. Dezember 2008 (GVBl. I/08, S. 318), zuletzt geändert durch Artikel 16 des Gesetzes vom 3. April 2009 (GVBl. I/09, S. 26, 59), i.V.m. § 8 Abs. 4 der Satzung der Studierendenschaft der Universität Potsdam vom 13. Juli 2005 (AmBek UP S. 637), auf seiner Sitzung am 18. Mai 2010 folgende Rahmenwahlordnung beschlossen:
 
 
 ----------
@@ -44,6 +48,8 @@ Wahlbezirke, in denen an den Wahltagen an zentraler Stelle ein Wahllokal einzuri
 (1) Wählbar sind alle immatrikulierten Studierenden der Universität Potsdam. Jede Studentin und jeder Student hat die Möglichkeit, andere oder sich selbst zur Wahl vorzuschlagen.
 
 (2) Für die Wählbarkeit gilt § 5 Abs. 2 dieser Rahmenwahlordnung entsprechend.
+
+(3) Die Wählbarkeit der Kandidierenden überprüft der Studentische Wahlausschuss.
 
 
 ##§ 7 Wahlgrundsätze
@@ -128,9 +134,8 @@ Jeder Wahlvorschlag muss in erkennbarer Reihenfolge:
 
 1. den Namen, Vornamen, Fachrichtung
 2. die genaue Anschrift
-3. den Nachweis der Immatrikulation im laufenden Semester
-4. den Namen der Wahlliste
-5. die persönliche Unterschrift der bzw. des Kandidierenden enthalten. Mit der persönlichen Unterschrift erklärt der bzw. die Kandidierende unwiderruflich, dass sie bzw. er mit der Nominierung einverstanden und bereit ist, das erstrebte Mandat im Falle einer Wahl anzunehmen.
+3. den Namen der Wahlliste
+4. die persönliche Unterschrift der bzw. des Kandidierenden enthalten. Mit der persönlichen Unterschrift erklärt der bzw. die Kandidierende unwiderruflich, dass sie bzw. er mit der Nominierung einverstanden und bereit ist, das erstrebte Mandat im Falle einer Wahl anzunehmen.
 
 (3) Wahllisten
 
@@ -277,4 +282,4 @@ Amt weiter aus. Die Amtszeit des neuen Mitglieds beginnt in diesem Falle am Tage
 
 ##§ 22 In-Kraft-Treten
 
-Diese Ordnung tritt am Tage nach ihrer universitätsöffentlichen Bekanntmachung in Kraft. Die Rahmenwahlordnung vom 4. April 2000 tritt somit außer Kraft.
+Diese Ordnung tritt am Tage nach ihrer Veröffentlichung in den Amtlichen Bekanntmachungen der Universität Potsdam in Kraft.
