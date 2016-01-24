@@ -1,8 +1,11 @@
 #Finanzordnung der Studierendenschaft der Universität Potsdam
 **Vom 14. März 2000**
 
-Das Studierendenparlament (StuPa) der Universität Potsdam hat gemäß § 61 Abs. 3 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG) vom 20. Mai 1999 und gemäß § 7 Abs. 4 Nr. 1 der Satzung der Studierendenschaft vom 9. Dezember 1999 folgende Finanzordnung beschlossen:
+i.d.F. der Ersten Änderungssatzung der Finanzordnung der Studierendenschaft der Universität Potsdam
 
+**Vom 22. November 2001**
+
+Das Studierendenparlament der Universität Potsdam hat gemäß § 61 Abs. 3 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG) vom 20. Mai 1999 und gemäß § 7 Abs. 4 Nr. 1 der Satzung der Studierendenschaft vom 9. Dezember 1999 (AmBek. UP 2000 S. 65), zuletzt geändert durch Satzung vom 14. Oktober 2003, AmBek. UP S. 122), folgende Finanzordnung beschlossen:
 
 ----------
 
@@ -138,7 +141,12 @@ Das Studierendenparlament (StuPa) der Universität Potsdam hat gemäß § 61 Abs
 (2) Jegliche Belege des abgelaufenen Haushaltsjahres müssen zur Erstattung bis spätestens zum 31. Januar des neuen Haushaltsjahres eingereicht werden.
 
 
-##§ 13 In-Kraft-Treten
+##§ 13 Verwaltungsgebühr
+
+Der AStA erhebt eine Verwaltungsgebühr in Höhe von 5 € für jeden Ausstellungsvorgang, wenn einem Studierenden sein Semesterticket oder sein Berechtigungsschein unwiderruflich abhanden gekommen ist und er für dieses eine Neuausstellung beim AStA beantragt.
+
+
+##§ 14 In-Kraft-Treten
 
 (1) Die Finanzordnung tritt am Tage ihrer Veröffentlichung in Kraft.
 
