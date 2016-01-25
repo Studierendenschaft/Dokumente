@@ -2,7 +2,11 @@
 
 **Vom 11. Januar 2011**
 
-Das Studierendenparlament der Universität Potsdam hat gemäß § 15 Abs. 1 Nr. 4, des Brandenburgischen Hochschulgesetzes (BbgHG) vom 18. Dezember 2008 (GVBl. I/08, [Nr. 17], S. 318), zuletzt geändert durch Artikel 1 des Gesetzes vom 26. Oktober 2010 (GVBl. I/10, [Nr. 35]), am 11. Januar 2011 folgende Neufassung der Ordnung zum Potsdamer Semesterticket und zum Sozialfonds der Studierendenschaft der Universität Potsdam beschlossen:
+i.d.F. der Ersten Änderungssatzung der Ordnung zum Potsdamer Semesterticket und zum Sozialfonds der Studierendenschaft der Universität Potsdam (SemtixO)
+
+**Vom 8. Januar 2013**
+
+Das Studierendenparlament der Universität Potsdam hat gemäß § 15 Abs. 1 Nr. 4, des Brandenburgischen Hochschulgesetzes (BbgHG) vom 18. Dezember 2008 (GVBl. I/08, [Nr. 17], S. 318), zuletzt geändert durch Artikel 1 des Gesetzes vom 26. Oktober 2010 (GVBl. I/10, [Nr. 35]), am 08. Januar 2013 folgende Ordnung zum Potsdamer Semesterticket und zum Sozialfonds der Studierendenschaft der Universität Potsdam beschlossen:
 
 
 ----------
@@ -19,9 +23,11 @@ Das Studierendenparlament der Universität Potsdam hat gemäß § 15 Abs. 1 Nr. 
 
 (1) Die Möglichkeit der Beantragung einer Förderung durch den Sozialfonds bzw. einer Befreiung aus sozialen Gründen vom Semesterticket besteht für Personen, die nach dem Semesterticketvertrag für das entsprechende gesamte Semester zum Bezug eines Semestertickets berechtigt sind.
 
-(2) Studierende, denen der Erwerb des Semestertickets nicht zuzumuten ist, können das Semesterticket durch den Sozialfonds gefördert bekommen oder können von der Pflicht zur Abnahme des Semestertickets befreit werden. Der Erwerb des Semestertickets ist den Studierenden nicht zuzumuten, wenn das Aufbringen des Kostenbeitrags ihnen den Ausgleich einer im Berechnungszeitraum auftretenden besonderen Härte im Sinne von Absatz 3 erheblich erschwert, das monatliche Einkommen den Bedarf im Sinne der Absätze 4, 5 und 6 nicht überschreitet und sie nicht über Vermögen verfügen. Maßgeblich für die Feststellung des Vorliegens der Voraussetzungen ist der Zeitraum des der Antragstellung vorangegangenen Semesters mithin für das Sommersemester Oktober bis Ende März und für das Wintersemester jeweils April bis September.
+(2) Studierende, denen der Erwerb des Semestertickets nicht zuzumuten ist, können das Semesterticket durch den Sozialfonds gefördert bekommen oder können von der Pflicht zur Abnahme des Semestertickets befreit werden. Der Erwerb des Semestertickets ist den Studierenden nicht zuzumuten, wenn das monatliche Einkommen im Berechnungszeitraum den Bedarf im Sinne der Abs. 3, 4 und 5 nicht überschreitet und sie nicht über Vermögen verfügen. Maßgeblich für die Feststellung des Vorliegens der Voraussetzungen ist der Zeitraum des der Antragstellung vorangegangenen Semesters mithin für das Sommersemester Oktober bis Ende März und für das Wintersemester jeweils April bis September.
 
-(3) Als besondere Härten gelten insbesondere:
+(3) Sollte Studierenden das Aufbringen des Kostenbeitrages im Berechnungszeitraum aufgrund Vorliegens einer besonderen Härte erheblich erschwert werden, wird ein monatlicher Mehrbedarf gemäß Abs. 4 angerechnet.
+
+Als besondere Härten gelten insbesondere:
 
 1. ausländische Studierende, die eine Einschränkung der Arbeitserlaubnis auf weniger als 180 Tage im Jahr haben,
 2. werdende Mütter,
@@ -56,18 +62,16 @@ Das Studierendenparlament der Universität Potsdam hat gemäß § 15 Abs. 1 Nr. 
 
 ##§ 4 Antragstellung soziale und sonstige Gründe
 
-(1) Der Antrag bedarf der Schriftform. Die Antragseingabe erfolgt im Internet auf dem bereitgestellten Formblatt des AStA. Der Antrag muss unterschrieben an den AStA gesandt werden. Als Tag des Antragseingangs gilt der Tag des Posteingangs bei dem AStA (Ausschlussfrist).
+(1) Der Antrag bedarf der Schriftform. Die Antragseingabe erfolgt online über die auf der Homepage des AStA bereit gestellte Eingabemaske. Der Antrag (PDF-Dokument) muss unterschrieben an den AStA gesandt werden. Als Tag des Antragseingangs gilt der Tag des Posteingangs bei dem AStA.
 
-(2) Bei Verlust oder Diebstahl des Fahrtberechtigungsausweises ist eine Rückerstattung ausgeschlossen.
+(2) Über Anträge aus sozialen Gründen entscheidet die Sozialfonds-Kommission (§ 9).
 
-(3) Über Anträge aus sozialen Gründen entscheidet die Sozialfonds-Kommission (§ 9).
-
-(4) Über Anträge aus sonstigen Gründen entscheidet der AStA.
+(3) Über Anträge aus sonstigen Gründen entscheidet der AStA.
 
 
 ##§ 5 Bestandteile des Antrages
 
-1. soziale Gründe: Anträge auf Förderung durch den Sozialfonds oder Befreiung vom Semesterticket
+1. Anträge auf Förderung durch den Sozialfonds oder Befreiung vom Semesterticket (Antrag aus sozialen Gründen) bedürfen insbesondere:
  - Formblatt, bereitgestellt auf der AStA-Homepage (www.asta.uni-potsdam.de/semesterticket),
  - Nachweis der Einzahlung des Semesterticketbeitrages,
  - Einkommensnachweise über Einkünfte nach dem Einkommenssteuergesetz im Zeitraum des vorangegangenen Semesters,
@@ -77,19 +81,19 @@ Das Studierendenparlament der Universität Potsdam hat gemäß § 15 Abs. 1 Nr. 
  - Nachweis über Zahlung von Beiträgen zur Kranken- und Pflegeversicherung,
  - Erklärung an Eides statt über das Vermögen,
  - sonstige Dokumente, aus denen Einkommen bzw. Vermögen gemäß der BAföG-Einkommensverordnung hervorgeht, insbesondere Einkünfte aus Waisenrenten, Unterhaltszahlungen und sonstige Einnahmen zur Deckung des Lebensunterhaltes.
-2. sonstige Gründe: Anträge auf Befreiung vom Semesterticket bzw. Rückerstattung des Semesterticketbetrages
+2. Anträge auf Befreiung vom Semesterticket bzw. Rückerstattung des Semesterticketbetrages (Antrag aus sonstigen Gründen) bedürfen insbesondere:
  - Formblatt, bereitgestellt auf der AStA-Homepage (www.asta.uni-potsdam.de/semesterticket),
  - Nachweis der Einzahlung des Semesterticketbeitrages,
  - Nachweis des geltend gemachten Grundes (Schwerbehindertenausweis, Urlaubssemesterantrag, Nachweis des Aufenthalts außerhalb des VBB-Tarifgebietes, des Widerrufs der Immatrikulation, Exmatrikulationsurkunde, Bescheinigung aus dem Studierendensekretariat über Abgabe der Chipkarte oder Semesterticketaufdrucklöschung.)
 
 
-##§ 6 Folgen fehlender Mitwirkung
+##§ 6 Mitwirkungspflicht der Antragsteller
 
 (1) Antragstellerinnen sind verpflichtet, die in § 5 aufgeführten Unterlagen und Nachweise zum Antrag unverzüglich einzureichen.
 
 (2) Liegen die für eine Antragsbearbeitung erforderlichen Unterlagen nicht vollständig vor, wird der Antragstellerin für die Beibringung der fehlenden Unterlagen schriftlich oder per E-Mail eine angemessene Frist gesetzt.
 
-(3) Kommt die Antragstellerin ihren Mitwirkungspflichten innerhalb dieser Frist nicht nach, wird der Antrag wegen fehlender Mitwirkung abgelehnt.
+(3) Kommt die Antragstellerin ihren Mitwirkungspflichten innerhalb dieser Frist nicht nach, soll der Antrag wegen fehlender Mitwirkung abgelehnt werden.
 
 
 ##§ 7 Fristen
@@ -103,31 +107,48 @@ Anspruch auf Berücksichtigung haben nur fristgerecht eingereichte Anträge. Nic
 
 (2) Die Anlagen zum Antrag gemäß § 7a Abs. 1 müssen spätestens bis zum 30. September für das kommende Wintersemester bzw. bis zum 31. März für das kommende Sommersemester nachgereicht werden.
 
-(3) Für regulär neuimmatrikulierte Studierende beginnt die Antragsfrist mit der Immatrikulation (Einzahlung der Semestergebühr) und endet zwei Wochen später. Für ausländische Studierende, die ein Auslandssemester an der Universität Potsdam absolvieren, beginnt die Frist mit dem Vorlesungsbeginn und endet zwei Wochen später.
+(3) Für neuimmatrikulierte Studierende beginnt die Antragsfrist mit Beginn des Semesters und endet vier Wochen später. Bei Immatrikulation im laufenden Semester endet die Frist vier Wochen nach Einzahlung des Semesterbeitrags.
 
-(4) Die Anlagen zum Antrag gemäß § 7a Abs. 3 müssen innerhalb des ersten Monats nach Antragstellung nachgereicht werden.
+(4) Die Anlagen zum Antrag gemäß § 5 1. müssen innerhalb von vier Wochen nach Antragstellung nachgereicht werden.
 
 
 ##§ 7b Fristen für Anträge zur Rückerstattung und Befreiung gem. § 1 Abs. 4 Nr. 5, Abs. 5 Nr. 1-4 und § 3 des Semesterticketvertrags (Anträge aus sonstigen Gründen)
 
-(1) Für Anträge auf Befreiung bzw. Rückerstattung nach § 1 Abs. 4 Nr. 5, Abs. 5 Nr. 1 - 4 und § 3 des Semesterticketvertrages muss der Antrag unverzüglich nach Bekanntwerden des Grundes gestellt werden, spätestens jedoch 4 Wochen nach Vorliegen schriftlicher Nachweise für die Geltendmachung des Grundes.
+(1) Für Anträge auf Befreiung bzw. Rückerstattung nach § 1 Abs. 4 Nr. 5, Abs. 5 Nr. 1 - 4 des Semesterticketvertrages muss der Antrag unverzüglich nach Bekanntwerden des Grundes gestellt werden, spätestens jedoch bis vier Wochen vor Beginn des Semesters.
 
-(2) Studierende, die ein Urlaubs- oder Auslandssemester antreten, werden von der Zahlung zum Semesterticket befreit, wenn sie nicht erklären, das Semesterticket dennoch in Anspruch nehmen zu wollen. Sie müssen zur Befreiung von der Semesterticketgebühr bis zehn Tage vor Ende der Rückmeldefrist beim Studierendensekretariat Anträge auf Urlaubssemester (Formblatt) stellen oder Nachweis über ein Auslandssemester führen (wenn Beurlaubung nicht beantragt wird).
+(2) Für Anträge auf Rückerstattung nach § 3 des Semesterticketvertrages muss der Antrag unverzüglich nach Bekanntwerden des Grundes gestellt werden, spätestens jedoch vier Wochen vor Ende des Semesters, für das die Rückerstattung beansprucht wird. Abweichend davon können Studierende, deren Exmatrikulation im vorletzten Monat eines Semesters erfolgte, einen Antrag bis zum letzten Tag des jeweiligen Semesters stellen.
 
-(3) Die Anlagen zum Antrag müssen innerhalb von sechs Wochen nach Antragseingang nachgereicht werden. Ggf. wird dazu eine abweichende Frist nach § 7a Abs. 2 gesetzt.
+(3) Studierende, die ein Urlaubs- oder Auslandssemester antreten, werden von der Zahlung zum Semesterticket befreit, wenn sie nicht erklären, das Semesterticket dennoch in Anspruch nehmen zu wollen. Sie müssen zur Befreiung von der Semesterticketgebühr bis zehn Tage vor Ende der Rückmeldefrist beim Studierendensekretariat Anträge auf Urlaubssemester (Formblatt) stellen oder Nachweis über ein Auslandssemester führen (wenn Beurlaubung nicht beantragt wird).
+
+(4) Die Anlagen zum Antrag müssen  innerhalb von sechs Wochen nach Antragseingang nachgereicht werden. Ggf. wird dazu eine abweichende Frist nach § 6 Abs. 2 gesetzt.
 
 
 ##§ 8 Anträge aus sonstigen Gründen: Semesterticketaufdruck/Chipkarte
 
-(1) Zur Rückerstattung oder Befreiung muss die Chipkarte grundsätzlich im Studierendensekretariat/Akademischen Auslandsamt vorliegen bzw. der Semesterticketaufdruck entfernt werden. Darüber wird ein Nachweis ausgestellt.
+(1) Eine Rückerstattung oder Befreiung erfolgt nur für ungenutzte volle Monate des beantragten Semesters, wenn
 
-(2) Wird die Chipkarte mit Semesterticketaufdruck nach dem zweiten Werktag eines Monats eingereicht bzw. der Semesterticketaufdruck gelöscht, erfolgt eine Erstattung nur für nachfolgende volle Monate, in denen das Semesterticket seine Gültigkeit laut Aufdruck hatte.
+1. nach dem zweiten Werktag eines Monats
+ - die PUCK im Dezernat 2 abgegeben oder
+ - der Semesterticketaufdruck von der PUCK entfernt oder
+ - die PUCK mit dem Exmatrikulationsdatum aktualisiert wurde.
+
+2. die Bekanntgabe der Erstellung der PUCK nicht vor dem zweiten Werktag eines Monats erfolgte.
+
+Darüber wird ein Nachweis ausgestellt.
+
+(2) Für die Höhe der Erstattung ist weiterhin maßgeblich das Datum
+
+- zu dem die Exmatrikulation ihre  Wirkung entfaltet oder
+- zu dem der Widerruf der Immatrikulation wirksam wird oder
+- das Ende eines entsprechenden Nachweises des Grundes der Antragstellung.
 
 (3) Eine rückwirkende Bewilligung eines Aufenthaltes außerhalb des VBB-Tarifraumes oder des Urlaubssemesters berechtigt nicht zur Rückerstattung.
 
 (4) Wurde im Falle des Widerrufs der Immatrikulation die Chipkarte nicht abgeholt, wird der volle Semesterticketbeitrag erstattet.
 
 (5) In Fällen einer Schwerbehinderung oder schweren Erkrankung, die nicht nach § 2 Abs. 4 Semesterticketvertrag von vornherein vom Semesterticket befreit sind, kann die Aufdrucklöschung erst nach der Meldung des AStA an das Studierendensekretariat erfolgen. Gleiches gilt bei einem Aufenthalt außerhalb des VBB-Tarifraumes. Die Löschung ist dem AStA gegenüber nachzuweisen. § 8 Abs. 2 gilt entsprechend.
+
+(6) Bei Diebstahl oder Verlust des Fahrtberechtigungsausweises ohne Abgabe einer Diebstahlanzeige oder Versicherung an Eides statt, ist eine Rückerstattung ausgeschlossen.
 
 
 ##§ 9 Die Sozialfondskommission
@@ -151,7 +172,7 @@ Anspruch auf Berücksichtigung haben nur fristgerecht eingereichte Anträge. Nic
 (7) Die Kommission erhält das Recht, dem Studierendenparlament Anträge für die Kriterien der Vergabe der Mittel des Sozialfonds vorzulegen.
 
 
-##§ 10 Rückerstattung
+##§ 10 Zeitpunkt der Rückerstattung
 
 (1) Die Rückerstattung erfolgt in der Regel durch Überweisung vom AStA innerhalb von 4 Wochen nach Ergehen eines Bewilligungsbescheides.
 
@@ -160,6 +181,4 @@ Anspruch auf Berücksichtigung haben nur fristgerecht eingereichte Anträge. Nic
 
 ##§ 11 In-Kraft-Treten und Außer-Kraft-Treten
 
-(1) Diese Ordnung tritt am Tage nach der Veröffentlichung in den Amtlichen Bekanntmachungen der Universität Potsdam in Kraft.
-
-(2) Gleichzeitig tritt die Ordnung vom 24. Juni 2008 in der Fassung der 1. Änderungssatzung vom 29. Juni 2010, veröffentlicht in den Amtlichen Bekanntmachungen der Universität Potsdam (AmBek. UP Nr. 7/2008 und 12/2010) außer Kraft.
+Diese Ordnung tritt am Tage nach der Veröffentlichung in den Amtlichen Bekanntmachungen der Universität Potsdam in Kraft.
