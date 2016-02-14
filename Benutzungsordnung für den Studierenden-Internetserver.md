@@ -1,23 +1,27 @@
-#Benutzungsordnung für den Studierenden-Internetserver der Universität Potsdam
+# Benutzungsordnung für den Studierenden-Internetserver der Universität Potsdam
 **Vom 16. November 1999**
 
-Der Allgemeine Studierendenausschuss (AStA) der Universität Potsdam und das Studierendenparlament (StuPa) der Universität Potsdam haben am 16. November 1999 nach § 62 Abs. 3 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG vom 20. Mai 1999 (GVBl. I S. 130) die folgende Benutzungsordnung für den Studierenden-Internetserver als Satzung beschlossen:
+i.d.F. der Ersten Änderungssatzung der Benutzungsordnung für den Studierenden-Internetserver der Universität Potsdam
+
+**Vom 11. Januar 2005**
+
+Das Studierendenparlament der Universität Potsdam hat gemäß § 62 Abs. 3 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG) in der Fassung vom 6. Juli 2004 (GVBl. I S. 394) folgende Benutzungsordnung für den Studierenden-Internetserver der Universität Potsdam beschlossen:
 
 
 ----------
 
 
-##§ 1 Geltungsbereich
+## § 1 Geltungsbereich
 
 Diese Benutzungsordnung gilt für die Nutzung des Internetservers der Studierendenschaft der Universität Potsdam.
 
 
-##§ 2 Rechtsstellung und Betreiber
+## § 2 Rechtsstellung und Betreiber
 
 Der AStA betreibt den Studierenden-Internetserver im Auftrag der Studierendenschaft.
 
 
-##§ 3 Aufgaben des Allgemeinen Studierendenausschusses in Bezug auf den Internetserver
+## § 3 Aufgaben des Allgemeinen Studierendenausschusses in Bezug auf den Internetserver
 
 (1) Der AStA hat in Bezug auf den Studierenden-Internetserver insbesondere folgende Aufgaben:
 
@@ -29,13 +33,15 @@ Der AStA betreibt den Studierenden-Internetserver im Auftrag der Studierendensch
 (2) Zur Gewährleistung des ordnungsgemäßen Betriebes des Studierenden-Internetservers kann der AStA weitere Regeln für die Nutzung des Studierenden-Internetservers erlassen.
 
 
-##§ 4 Nutzungsberechtigung und Zulassung zur Nutzung
+## § 4 Nutzungsberechtigung und Zulassung zur Nutzung
 
 (1) Zur Nutzung des Studierenden-Internetservers können zugelassen werden:
 
 1. alle Mitglieder der Studierendenschaft der Universität Potsdam.
 2. Organe der Studierendenschaft der Universität Potsdam.
-3. Sonstige juristische oder natürliche Personen, sofern hierdurch die Belange der unter 1. und 2. genannten Nutzer nicht beeinträchtigt werden.
+3. alle Mitglieder der Studierendenschaft der Fachhochschule Potsdam und der Studierendenschaft der Hochschule für Film und Fernsehen Konrad Wolf.
+4. Organe der Studierendenschaft der Fachhochschule Potsdam und der Hochschule für Film und Fernsehen Konrad Wolf.
+5. Sonstige juristische oder natürliche Personen, sofern hierdurch die Belange der unter 1. bis 4. genannten Nutzer nicht beeinträchtigt werden.
 
 (2) Die Zulassung erfolgt ausschließlich zu Zwecken, die den Aufgaben der Studierendenschaft nicht widersprechen.
 
@@ -70,7 +76,7 @@ Der Nutzer/die Nutzerin ist bei Antragstellung auf die Möglichkeiten einer Doku
 7. zu erwarten ist, dass durch die beantragte Nutzung andere berechtigte Vorhaben in unangemessener Weise beeinträchtigt werden.
 
 
-##§ 5 Rechte und Pflichten der Nutzer
+## § 5 Rechte und Pflichten der Nutzer
 
 (1) Die nutzungsberechtigten Personen (Nutzer) haben das Recht, den Studierenden-Internetserver im Rahmen der Zulassung und nach Maßgabe dieser Benutzungsordnung sowie der nach § 3 Abs. 2 erlassenen Regeln zu nutzen. Eine hiervon abweichende Nutzung bedarf einer gesonderten Zulassung.
 
@@ -101,7 +107,7 @@ Der Nutzer/die Nutzerin ist bei Antragstellung auf die Möglichkeiten einer Doku
 7. Strafbare Urheberrechtsverletzungen, z.B. durch urheberrechtswidrige Vervielfältigung von Software (§§ 106 ff. UrhG).
 
 
-##§ 6 Ausschluss von der Nutzung
+## § 6 Ausschluss von der Nutzung
 
 (1) Nutzer können vorübergehend oder dauerhaft in der Benutzung des Studierenden-Internetservers beschränkt oder von der Nutzung ausgeschlossen werden, wenn sie insbesondere
 
@@ -116,7 +122,7 @@ Der Nutzer/die Nutzerin ist bei Antragstellung auf die Möglichkeiten einer Doku
 (4) Eine dauerhafte Nutzungseinschränkung oder der vollständige Ausschluss eines Nutzers/einer Nutzerin von der weiteren Nutzung kommt nur bei schwerwiegenden oder wiederholten Verstößen i.S.v. Absatz 1 in Betracht, wenn auch künftig ein ordnungsgemäßes Verhalten nicht mehr zu erwarten ist. Die Entscheidung über einen dauerhaften Ausschluss trifft das StuPa auf Antrag des AStAs. Mögliche Ansprüche des AStAs aus dem Nutzungsverhältnis bleiben unberührt.
 
 
-##§ 7 Rechte und Pflichten des Allgemeinen Studierendenausschusses in Bezug auf den Internetserver
+## § 7 Rechte und Pflichten des Allgemeinen Studierendenausschusses in Bezug auf den Internetserver
 
 (1) Der AStA führt über die erteilten Benutzungsberechtigungen eine Nutzerdatei, in der die Benutzer- und Mailkennungen sowie der Name und die Anschrift der zugelassenen Nutzer aufgeführt werden.
 
@@ -142,7 +148,7 @@ Der Nutzer/die Nutzerin ist bei Antragstellung auf die Möglichkeiten einer Doku
 (8) Nach Maßgabe der gesetzlichen Bestimmungen ist der AStA zur Wahrung des Telekommunikations- und Datengeheimnisses verpflichtet.
 
 
-##§ 8 Haftung des Nutzers/der Nutzerin
+## § 8 Haftung des Nutzers/der Nutzerin
 
 (1) Der Nutzer/die Nutzerin haftet für alle Nachteile, die der Studierendenschaft durch missbräuchliche oder rechtswidrige Verwendung der DV-Ressourcen und Nutzungsberechtigung oder dadurch entstehen, dass der Nutzer/die Nutzerin schuldhaft seinen Pflichten aus dieser Benutzungsordnung nicht nachkommt.
 
@@ -151,10 +157,15 @@ Der Nutzer/die Nutzerin ist bei Antragstellung auf die Möglichkeiten einer Doku
 (3) Der Nutzer/die Nutzerin hat die Hochschule von allen Ansprüchen freizustellen, wenn die Studierendenschaft durch Dritte wegen eines missbräuchlichen oder rechtswidrigen Verhaltens des Nutzers/der Nutzerin auf Schadensersatz, Unterlassung oder in sonstiger Weise in Anspruch genommen wird. Die Studierendenschaft wird dem Nutzer/der Nutzerin den Streit erklären, sofern Dritte gegen den AStA gerichtlich vorgehen.
 
 
-##§ 9 Haftung der Studierendenschaft
+## § 9 Haftung der Studierendenschaft
 
 (1) Die Studierendenschaft übernimmt keine Garantie dafür, dass der Studierenden-Internetserver fehlerfrei und jederzeit ohne Unterbrechung läuft. Eventuelle Datenverluste infolge technischer Störungen sowie die Kenntnisnahme vertraulicher Daten durch unberechtigte Zugriffe Dritter können nicht ausgeschlossen werden.
 
 (2) Die Studierendenschaft übernimmt keine Verantwortung für die Richtigkeit der zur Verfügung gestellten Programme. Die Studierendenschaft haftet auch nicht für den Inhalt, insbesondere für die Richtigkeit, Vollständigkeit und Aktualität der Informationen, zu denen sie lediglich den Zugang zur Nutzung vermittelt.
 
 (3) Im übrigen haftet die Studierendenschaft nur bei Vorsatz oder grober Fahrlässigkeit ihrer Mitarbeiter. In diesem Fall ist die Haftung der Studierendenschaft auf typische, bei Begründung des Nutzungsverhältnisses vorhersehbare Schäden begrenzt, soweit nicht vorsätzliches oder grob fahrlässiges Handeln vorliegt.
+
+
+## 10 Inkrafttreten
+
+Diese Benutzungsordnung tritt am Tage nach ihrer Veröffentlichung in den Amtlichen Bekanntmachungen der Universität Potsdam in Kraft.
