@@ -2,11 +2,11 @@
 
 **Vom 11. Januar 2011**
 
-i.d.F. der Ersten Änderungssatzung der Ordnung zum Potsdamer Semesterticket und zum Sozialfonds der Studierendenschaft der Universität Potsdam (SemtixO)
+i.d.F. der Zweiten Änderungssatzung der Ordnung zum Potsdamer Semesterticket und zum Sozialfonds der Studierendenschaft der Universität Potsdam (SemtixO)
 
-**Vom 8. Januar 2013**
+**Vom 3. Mai 2016**
 
-Das Studierendenparlament der Universität Potsdam hat gemäß § 15 Abs. 1 Nr. 4, des Brandenburgischen Hochschulgesetzes (BbgHG) vom 18. Dezember 2008 (GVBl. I/08, [Nr. 17], S. 318), zuletzt geändert durch Artikel 1 des Gesetzes vom 26. Oktober 2010 (GVBl. I/10, [Nr. 35]), am 08. Januar 2013 folgende Ordnung zum Potsdamer Semesterticket und zum Sozialfonds der Studierendenschaft der Universität Potsdam beschlossen:
+Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 1 Nr. 6, des Brandenburgischen Hochschulgesetzes (BbgHG) vom 28. April 2014 (GVBl. I/14, [Nr. 18]), zuletzt geändert durch Artikel 2 des Gesetzes vom 1. Juli 2015 (GVBl. I/15, [Nr. 18]), am 3. Mai 2016 folgende Ordnung zum Potsdamer Semesterticket und zum Sozialfonds der Studierendenschaft der Universität Potsdam (SemtixO) beschlossen: 
 
 
 ----------
@@ -37,7 +37,7 @@ Als besondere Härten gelten insbesondere:
 
 (4) Als monatlicher Bedarf gelten für Studierende 290,- € sowie ein Mehrbedarf für die Personengruppen des Absatz 3. Der Mehrbedarf beträgt für die Personengruppen in Absatz 3 Nr. 1 und 2 58,- €, für Nr. 3 und 4 116,- € und für Nr. 5 in tatsächlicher Höhe, höchstens jedoch 116,- €. Für Studierende, die verheiratet sind, oder verheiratet sind und zusammen mit einem Kind oder zusammen mit einem Kind oder einem Kind und einer Lebenspartnerin wohnen, treten weitere Beträge auf den Grundbetrag hinzu. Diese sind für die Lebenspartnerin 250,- € und für jedes Kind 200,- €.
 
-(5) Sofern Studierende nicht bei ihren Eltern wohnen, zählen zum Bedarf der Studierenden auch die Kosten der Unterkunft. Studierende wohnen auch dann bei ihren Eltern, wenn der von ihnen bewohnte Raum im Eigentum der Eltern steht. Den Eltern steht hierbei ein Elternteil gleich. Die anrechenbaren Kosten der Unterkunft betreffen die Kaltmiete sowie Heizungskosten, jedoch höchstens bis zu einem Betrag von 220,- €. Für eine weitere nach Absatz 4 Satz 3 zur Bedarfsgemeinschaft zählende Person erhöht sich der Betrag um 130,- €, für jede weitere dann um je 100,- €. Dies gilt auch, wenn zwei im Haushalt lebende Personen Studierende sind. Erhalten Studierende oder weitere zur Bedarfsgemeinschaft zählende Personen im Haushalt Wohngeldleistungen, so verringert sich der Bedarf entsprechend, sofern die ermittelte Gesamtmiete über der Mietdeckelung gem. § 2 Abs. 5 Satz 4 liegt.
+(5) Sofern Studierende nicht bei ihren Eltern wohnen, zählen zum Bedarf der Studierenden auch die Kosten der Unterkunft. Studierende wohnen auch dann bei ihren Eltern, wenn der von ihnen bewohnte Raum im Eigentum der Eltern steht. Den Eltern steht hierbei ein Elternteil gleich. Die anrechenbaren Kosten der Unterkunft betreffen die Kaltmiete sowie Heizungskosten, jedoch höchstens bis zu einem Betrag von 250,- €. Für eine weitere nach Absatz 4 Satz 3 zur Bedarfsgemeinschaft zählende Person erhöht sich der Betrag um 130,- €, für jede weitere dann um je 100,- €. Dies gilt auch, wenn zwei im Haushalt lebende Personen Studierende sind. Erhalten Studierende oder weitere zur Bedarfsgemeinschaft zählende Personen im Haushalt Wohngeldleistungen, so verringert sich der Bedarf entsprechend, sofern die ermittelte Gesamtmiete über der Mietdeckelung gem. § 2 Abs. 5 Satz 4 liegt.
 
 (6) Zusätzlich wird für Studierende, die Beiträge zu einer Kranken- und Pflegeversicherung zahlen, der tatsächliche monatliche Betrag angerechnet. Beträge zur Kranken- und Pflegeversicherung, die vom Bruttoarbeitsentgelt oder Waisenrenten oder anderen Einkünften gezahlt werden, gelten nicht als Bedarf, da diese beim Einkommen entsprechend berücksichtigt werden.
 
