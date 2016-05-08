@@ -1,25 +1,25 @@
-#Ordnung zum Potsdamer Semesterticket und zum Sozialfonds der Studierendenschaft der Universität Potsdam (SemtixO)
+# Ordnung zum Potsdamer Semesterticket und zum Sozialfonds der Studierendenschaft der Universität Potsdam (SemtixO)
 
 **Vom 11. Januar 2011**
 
-i.d.F. der Ersten Änderungssatzung der Ordnung zum Potsdamer Semesterticket und zum Sozialfonds der Studierendenschaft der Universität Potsdam (SemtixO)
+i.d.F. der Zweiten Änderungssatzung der Ordnung zum Potsdamer Semesterticket und zum Sozialfonds der Studierendenschaft der Universität Potsdam (SemtixO)
 
-**Vom 8. Januar 2013**
+**Vom 3. Mai 2016**
 
-Das Studierendenparlament der Universität Potsdam hat gemäß § 15 Abs. 1 Nr. 4, des Brandenburgischen Hochschulgesetzes (BbgHG) vom 18. Dezember 2008 (GVBl. I/08, [Nr. 17], S. 318), zuletzt geändert durch Artikel 1 des Gesetzes vom 26. Oktober 2010 (GVBl. I/10, [Nr. 35]), am 08. Januar 2013 folgende Ordnung zum Potsdamer Semesterticket und zum Sozialfonds der Studierendenschaft der Universität Potsdam beschlossen:
+Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 1 Nr. 6, des Brandenburgischen Hochschulgesetzes (BbgHG) vom 28. April 2014 (GVBl. I/14, [Nr. 18]), zuletzt geändert durch Artikel 2 des Gesetzes vom 1. Juli 2015 (GVBl. I/15, [Nr. 18]), am 3. Mai 2016 folgende Ordnung zum Potsdamer Semesterticket und zum Sozialfonds der Studierendenschaft der Universität Potsdam (SemtixO) beschlossen: 
 
 
 ----------
 
 
-##§ 1 Zweck und Einrichtung des Sozialfonds der Studierendenschaft
+## § 1 Zweck und Einrichtung des Sozialfonds der Studierendenschaft
 
 (1) Die Einrichtung des Sozialfonds der Studierendenschaft erfolgt im Rahmen ihrer Aufgaben gem. § 15 Abs. 1 Nr. 4 BbgHG und soll Studierenden, denen der Erwerb des Semestertickets nicht zuzumuten ist, eine Förderung ermöglichen oder sie von der Abnahmeverpflichtung befreien.
 
 (2) Der Sozialfonds wird durch Beiträge der Studierenden gemäß der Beitragsordnung der Studierendenschaft eingerichtet. Die Mittel werden entsprechend dieser Ordnung verwendet um Studierenden den Beitrag zum Semesterticket erstatten zu können.
 
 
-##§ 2 Voraussetzungen für eine Förderung aus dem Sozialfonds oder Befreiung aus sozialen Gründen
+## § 2 Voraussetzungen für eine Förderung aus dem Sozialfonds oder Befreiung aus sozialen Gründen
 
 (1) Die Möglichkeit der Beantragung einer Förderung durch den Sozialfonds bzw. einer Befreiung aus sozialen Gründen vom Semesterticket besteht für Personen, die nach dem Semesterticketvertrag für das entsprechende gesamte Semester zum Bezug eines Semestertickets berechtigt sind.
 
@@ -37,7 +37,7 @@ Als besondere Härten gelten insbesondere:
 
 (4) Als monatlicher Bedarf gelten für Studierende 290,- € sowie ein Mehrbedarf für die Personengruppen des Absatz 3. Der Mehrbedarf beträgt für die Personengruppen in Absatz 3 Nr. 1 und 2 58,- €, für Nr. 3 und 4 116,- € und für Nr. 5 in tatsächlicher Höhe, höchstens jedoch 116,- €. Für Studierende, die verheiratet sind, oder verheiratet sind und zusammen mit einem Kind oder zusammen mit einem Kind oder einem Kind und einer Lebenspartnerin wohnen, treten weitere Beträge auf den Grundbetrag hinzu. Diese sind für die Lebenspartnerin 250,- € und für jedes Kind 200,- €.
 
-(5) Sofern Studierende nicht bei ihren Eltern wohnen, zählen zum Bedarf der Studierenden auch die Kosten der Unterkunft. Studierende wohnen auch dann bei ihren Eltern, wenn der von ihnen bewohnte Raum im Eigentum der Eltern steht. Den Eltern steht hierbei ein Elternteil gleich. Die anrechenbaren Kosten der Unterkunft betreffen die Kaltmiete sowie Heizungskosten, jedoch höchstens bis zu einem Betrag von 220,- €. Für eine weitere nach Absatz 4 Satz 3 zur Bedarfsgemeinschaft zählende Person erhöht sich der Betrag um 130,- €, für jede weitere dann um je 100,- €. Dies gilt auch, wenn zwei im Haushalt lebende Personen Studierende sind. Erhalten Studierende oder weitere zur Bedarfsgemeinschaft zählende Personen im Haushalt Wohngeldleistungen, so verringert sich der Bedarf entsprechend, sofern die ermittelte Gesamtmiete über der Mietdeckelung gem. § 2 Abs. 5 Satz 4 liegt.
+(5) Sofern Studierende nicht bei ihren Eltern wohnen, zählen zum Bedarf der Studierenden auch die Kosten der Unterkunft. Studierende wohnen auch dann bei ihren Eltern, wenn der von ihnen bewohnte Raum im Eigentum der Eltern steht. Den Eltern steht hierbei ein Elternteil gleich. Die anrechenbaren Kosten der Unterkunft betreffen die Kaltmiete sowie Heizungskosten, jedoch höchstens bis zu einem Betrag von 250,- €. Für eine weitere nach Absatz 4 Satz 3 zur Bedarfsgemeinschaft zählende Person erhöht sich der Betrag um 130,- €, für jede weitere dann um je 100,- €. Dies gilt auch, wenn zwei im Haushalt lebende Personen Studierende sind. Erhalten Studierende oder weitere zur Bedarfsgemeinschaft zählende Personen im Haushalt Wohngeldleistungen, so verringert sich der Bedarf entsprechend, sofern die ermittelte Gesamtmiete über der Mietdeckelung gem. § 2 Abs. 5 Satz 4 liegt.
 
 (6) Zusätzlich wird für Studierende, die Beiträge zu einer Kranken- und Pflegeversicherung zahlen, der tatsächliche monatliche Betrag angerechnet. Beträge zur Kranken- und Pflegeversicherung, die vom Bruttoarbeitsentgelt oder Waisenrenten oder anderen Einkünften gezahlt werden, gelten nicht als Bedarf, da diese beim Einkommen entsprechend berücksichtigt werden.
 
@@ -48,7 +48,7 @@ Als besondere Härten gelten insbesondere:
 (9) Bei einem Gesamteinkommen unter dem Bedarf erfolgt eine Förderung in Höhe des Betrages für das Semesterticket. Bei einem Einkommen über dem Bedarf bis zu einer Höhe, die 1/6 des aktuellen Semesterticketbeitrags nicht überschreitet, entscheidet die Sozialfondskommission im Einzelfall im Rahmen ihres Ermessens.
 
 
-##§ 3 Finanzierungsvorbehalt
+## § 3 Finanzierungsvorbehalt
 
 (1) Die Förderung des Semestertickets im Rahmen dieser Ordnung steht unter dem Finanzierungsvorbehalt des Haushaltes der Studierendenschaft der Universität Potsdam.
 
@@ -60,7 +60,7 @@ Als besondere Härten gelten insbesondere:
 (3) An die in Absatz 2 Nr. 1 und Absatz 2 Nr. 2 genannten Personen wird, wenn der volle Betrag auf Grund des Finanzierungsvorbehaltes nicht bewilligt werden kann, ein Betrag ausgezahlt, der sich aus dem Quotienten der vorhandenen Mittel und der Berechtigten aus Absatz 2 Nr. 1 und Abs. 2 Nr. 2 ergibt.
 
 
-##§ 4 Antragstellung soziale und sonstige Gründe
+## § 4 Antragstellung soziale und sonstige Gründe
 
 (1) Der Antrag bedarf der Schriftform. Die Antragseingabe erfolgt online über die auf der Homepage des AStA bereit gestellte Eingabemaske. Der Antrag (PDF-Dokument) muss unterschrieben an den AStA gesandt werden. Als Tag des Antragseingangs gilt der Tag des Posteingangs bei dem AStA.
 
@@ -69,7 +69,7 @@ Als besondere Härten gelten insbesondere:
 (3) Über Anträge aus sonstigen Gründen entscheidet der AStA.
 
 
-##§ 5 Bestandteile des Antrages
+## § 5 Bestandteile des Antrages
 
 1. Anträge auf Förderung durch den Sozialfonds oder Befreiung vom Semesterticket (Antrag aus sozialen Gründen) bedürfen insbesondere:
  - Formblatt, bereitgestellt auf der AStA-Homepage (www.asta.uni-potsdam.de/semesterticket),
@@ -87,7 +87,7 @@ Als besondere Härten gelten insbesondere:
  - Nachweis des geltend gemachten Grundes (Schwerbehindertenausweis, Urlaubssemesterantrag, Nachweis des Aufenthalts außerhalb des VBB-Tarifgebietes, des Widerrufs der Immatrikulation, Exmatrikulationsurkunde, Bescheinigung aus dem Studierendensekretariat über Abgabe der Chipkarte oder Semesterticketaufdrucklöschung.)
 
 
-##§ 6 Mitwirkungspflicht der Antragsteller
+## § 6 Mitwirkungspflicht der Antragsteller
 
 (1) Antragstellerinnen sind verpflichtet, die in § 5 aufgeführten Unterlagen und Nachweise zum Antrag unverzüglich einzureichen.
 
@@ -96,12 +96,12 @@ Als besondere Härten gelten insbesondere:
 (3) Kommt die Antragstellerin ihren Mitwirkungspflichten innerhalb dieser Frist nicht nach, soll der Antrag wegen fehlender Mitwirkung abgelehnt werden.
 
 
-##§ 7 Fristen
+## § 7 Fristen
 
 Anspruch auf Berücksichtigung haben nur fristgerecht eingereichte Anträge. Nicht fristgerecht eingereichte Anträge können durch die Sachbearbeiterin abgelehnt werden, sofern die Frist durch das Verschulden der Antragsstellerin oder einer von ihr Bevollmächtigten versäumt wurde.
 
 
-##§ 7a Fristen (Förderung aus dem Sozialfonds oder und Befreiung aus sozialen Gründen)
+## § 7a Fristen (Förderung aus dem Sozialfonds oder und Befreiung aus sozialen Gründen)
 
 (1) Für bereits immatrikulierte Studierende beginnt die Frist für die Beantragung einer Förderung oder Befreiung aus sozialen Gründen gemäß § 2 des Semesterticketvertrages mit dem Beginn der Rückmeldefrist (in der Regel 15. Juni bzw. 15. Januar). Sie endet am 31. Juli bzw. 28. Februar (Ausschlussfrist).
 
@@ -112,7 +112,7 @@ Anspruch auf Berücksichtigung haben nur fristgerecht eingereichte Anträge. Nic
 (4) Die Anlagen zum Antrag gemäß § 5 1. müssen innerhalb von vier Wochen nach Antragstellung nachgereicht werden.
 
 
-##§ 7b Fristen für Anträge zur Rückerstattung und Befreiung gem. § 1 Abs. 4 Nr. 5, Abs. 5 Nr. 1-4 und § 3 des Semesterticketvertrags (Anträge aus sonstigen Gründen)
+## § 7b Fristen für Anträge zur Rückerstattung und Befreiung gem. § 1 Abs. 4 Nr. 5, Abs. 5 Nr. 1-4 und § 3 des Semesterticketvertrags (Anträge aus sonstigen Gründen)
 
 (1) Für Anträge auf Befreiung bzw. Rückerstattung nach § 1 Abs. 4 Nr. 5, Abs. 5 Nr. 1 - 4 des Semesterticketvertrages muss der Antrag unverzüglich nach Bekanntwerden des Grundes gestellt werden, spätestens jedoch bis vier Wochen vor Beginn des Semesters.
 
@@ -123,7 +123,7 @@ Anspruch auf Berücksichtigung haben nur fristgerecht eingereichte Anträge. Nic
 (4) Die Anlagen zum Antrag müssen  innerhalb von sechs Wochen nach Antragseingang nachgereicht werden. Ggf. wird dazu eine abweichende Frist nach § 6 Abs. 2 gesetzt.
 
 
-##§ 8 Anträge aus sonstigen Gründen: Semesterticketaufdruck/Chipkarte
+## § 8 Anträge aus sonstigen Gründen: Semesterticketaufdruck/Chipkarte
 
 (1) Eine Rückerstattung oder Befreiung erfolgt nur für ungenutzte volle Monate des beantragten Semesters, wenn
 
@@ -151,7 +151,7 @@ Darüber wird ein Nachweis ausgestellt.
 (6) Bei Diebstahl oder Verlust des Fahrtberechtigungsausweises ohne Abgabe einer Diebstahlanzeige oder Versicherung an Eides statt, ist eine Rückerstattung ausgeschlossen.
 
 
-##§ 9 Die Sozialfondskommission
+## § 9 Die Sozialfondskommission
 
 (1) Die Kommission zur Verwaltung des Sozialfonds besteht aus fünf stimmberechtigten Personen. Die Semesterticketsachbearbeiterin des AStA bearbeitet die Anträge, nimmt an den Sitzungen der Sozialfondskommission teil und stellt sie der Kommission zur Abstimmung vor. Sie ist nicht stimmberechtigt.
 
@@ -172,13 +172,13 @@ Darüber wird ein Nachweis ausgestellt.
 (7) Die Kommission erhält das Recht, dem Studierendenparlament Anträge für die Kriterien der Vergabe der Mittel des Sozialfonds vorzulegen.
 
 
-##§ 10 Zeitpunkt der Rückerstattung
+## § 10 Zeitpunkt der Rückerstattung
 
 (1) Die Rückerstattung erfolgt in der Regel durch Überweisung vom AStA innerhalb von 4 Wochen nach Ergehen eines Bewilligungsbescheides.
 
 (2) Für Anträge auf Befreiung erfolgt die Überweisung erst nach Zugang eines Nachweises über die Löschung der Semesterticketberechtigung auf dem Studierendenausweis.
 
 
-##§ 11 In-Kraft-Treten und Außer-Kraft-Treten
+## § 11 In-Kraft-Treten und Außer-Kraft-Treten
 
 Diese Ordnung tritt am Tage nach der Veröffentlichung in den Amtlichen Bekanntmachungen der Universität Potsdam in Kraft.
