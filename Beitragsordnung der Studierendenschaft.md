@@ -1,7 +1,7 @@
 # Beitragsordnung der Studierendenschaft der Universität Potsdam
-**Vom 30. Mai 2017**
+**Vom 7. November 2017**
 
-Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 4 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG) in der Fassung vom 28. April 2014 (GVBl. I/14, [Nr. 18]), zuletzt geändert durch Artikel 2 des Gesetzes vom 1. Juli 2015 (GVBl. I/15, [Nr. 18]), auf seiner Sitzung am 30. Mai 2017 folgende neue Beitragsordnung beschlossen:
+Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 4 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG) in der Fassung vom 28. April 2014 (GVBl. I/14, [Nr. 18]), zuletzt geändert durch Artikel 2 des Gesetzes vom 1. Juli 2015 (GVBl. I/15, [Nr. 18]), auf seiner Sitzung am 7. November 2017 folgende neue Beitragsordnung beschlossen:
 
 ----------
 
@@ -21,10 +21,11 @@ Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 4 des 
 
 (2) Der Beitrag setzt sich wie folgt zusammen:
 
-1. 6,50 Euro Studierendenschaftsbeitrag
-2. 0,50 Euro Beitrag zum Semesterticketsozialfond
-3. 3,00 Euro Beitrag für das Kulturzentrum in den Elfleinhöfen
-4. Semesterticketbeitrag gemäß § 6 Abs. 2
+1. 4,90 Euro Beitrag zum Teilhaushalt der sonstigen Studierendenschaft
+2. 2,20 Euro Beitrag zum Teilhaushalt der Fachschaften
+3. 0,50 Euro Beitrag zum Semesterticketsozialfond
+4. 3,00 Euro Beitrag für das Kulturzentrum in den Elfleinhöfen
+5. Semesterticketbeitrag gemäß § 6 Abs. 2
 
 
 ## § 3 Fälligkeit
@@ -68,4 +69,4 @@ Die festgelegten Regelungen zum Erlass und zur Rückerstattung des Semesterticke
 
 ## § 7 Inkrafttreten / Außerkrafttreten
 
-Die Beitragsordnung tritt mit Beschluss des Studierendenparlaments der Universität Potsdam am Tage nach der Veröffentlichung in den amtlichen Bekanntmachungen der Universität Potsdam in Kraft. Gleichzeitig tritt die Beitragsordnung vom 18. Oktober 2016 (AmBek. UP Nr. 8/2017 S. 306) außer Kraft.
+Die Beitragsordnung tritt mit Beschluss des Studierendenparlaments der Universität Potsdam am Tage nach der Veröffentlichung in den amtlichen Bekanntmachungen der Universität Potsdam in Kraft. Gleichzeitig tritt die Beitragsordnung vom 30. Mai 2017 (AmBek. UP Nr. 15/2017 S. 799) außer Kraft.
