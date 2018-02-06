@@ -3,9 +3,9 @@
 
 i.d.F. der Dritten Änderungssatzung der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam
 
-**Vom X. XXXX 2017**
+**Vom 6. Februar 2018**
 
-Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 3 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG) in der Fassung vom 28. April 2014 (GVBl. I/14, Nr. 18), zuletzt geändert durch Gesetz vom 1. Juli 2015 (GVBl. I/15, Nr. 18), i. V. m. § 8 Abs. 4 der Satzung der Studierendenschaft der Universität Potsdam vom 13. Juli 2005 (AmBek UP 2005, S. 637) in der Fassung vom 7. November 2017 (AmBek UP 2017, S. XXX), auf seiner Sitzung vom X. XXXX 2017 folgende Rahmenwahlordnung beschlossen:
+Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 3 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG) in der Fassung vom 28. April 2014 (GVBl. I/14, Nr. 18), zuletzt geändert durch Gesetz vom 1. Juli 2015 (GVBl. I/15, Nr. 18), i. V. m. § 8 Abs. 4 der Satzung der Studierendenschaft der Universität Potsdam vom 13. Juli 2005 (AmBek UP 2005, S. 637) in der Fassung vom 7. November 2017 (AmBek UP 2018, S. XXX), auf seiner Sitzung vom 6. Februar 2018 folgende Rahmenwahlordnung beschlossen:
 
 
 ----------
@@ -73,9 +73,7 @@ Die Mitglieder der Organe der Studierendenschaft werden von den Studierenden in 
 
 ## § 9 Elektronische Wahlen
 
-(1) Die Nutzung technischer Einrichtungen ist bei den Wahlen, für die diese Rahmenwahlordnung Anwendung findet, während der Durchführung in den Wahllokalen ausschließlich zur Führung des Wahlberechtigtenverzeichnisses gestattet.
-
-(2) Für die Stimmabgabe ist der Einsatz elektronischer Systeme unzulässig.
+Der Einsatz elektronischer Systeme für die Stimmabgabe bei Wahlen der Studierendenschaft ist unzulässig.
 
 
 ## § 10 Wahlausschuss
@@ -246,8 +244,9 @@ Der StWA bestimmt für die Beaufsichtigung der Wahlhandlung sowie für die Ausz�
 (2) Die Wahlniederschrift muss enthalten
 
 1. Angaben zur Erfüllung der Terminvorgaben der Wahlbekanntmachung, insbesondere die Zeitpunkte der Eröffnung und der Schließung des Wahlganges,
-2. Besonderheiten während des Wahlgangs und
-3. die Ergebnisse der Auszählung nach § 19 Abs. 3.
+2. Besonderheiten während des Wahlgangs,
+3. die Ergebnisse der Auszählung nach § 19 Abs. 3. und
+4. die Namen der bei der Durchführung der Wahl tätigen wahlhelfenden Personen.
 
 (3) Das Wahlergebnis und die Wahlniederschrift müssen binnen 7 Tagen auf der Webseite des StWA und per E-Mail hochschulöffentlich gemacht werden. Zusätzlich soll der AStA auf seiner Webseite auf das Wahlergebnis hinweisen.
 
