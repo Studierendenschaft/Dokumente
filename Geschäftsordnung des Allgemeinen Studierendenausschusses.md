@@ -10,13 +10,13 @@ Die Geschäftsordnung gilt für den Allgemeinen Studierendenausschuss (AStA) der
 
 ## § 2 Aufgaben
 
-Dem AStA obliegt die Erfüllung seiner Aufgaben und Zuständigkeiten im Rahmen des §12 SatzStud. Seine Zuständigkeit in Haushaltsfragen wird durch §31 und §32 SatzStud begrenzt.
+Dem AStA obliegt die Erfüllung seiner Aufgaben und Zuständigkeiten im Rahmen des §12 SatzStud. Seine Zuständigkeit in Haushaltsfragen wird durch §42 und §43 SatzStud begrenzt.
 
 ## § 3 Sitzungstermine und -ablauf
 
 (1) In der Regel tagt der AStA während der Vorlesungszeit einmal wöchentlich; in der vorlesungsfreien Zeit in der Regel alle zwei Wochen.
 
-(2) Die Sitzungen sind öffentlich, sofern kein Mitglied des AStA vor oder in einer Sitzung den Antrag auf Ausschluss der Öffentlichkeit stellt. Personalangelegenheiten und -entscheidungen werden grundsätzlich unter Ausschluss der Öffentlichkeit besprochen und entschieden.
+(2) Die Sitzungen sind öffentlich, sofern kein Mitglied des AStA vor oder in einer Sitzung den Antrag auf Ausschluss der Öffentlichkeit stellt, s. § 4 SatzStud.
 
 (3) Der AStA bestimmt die Sitzungsleitung, Redeleitung und Protokollführung.
 
@@ -80,7 +80,7 @@ beim AStA vorliegen.
 (3) Werden mehrere Anträge zur Geschäftsordnung nebeneinander gestellt, so sollen sie in der Reihenfolge dieser Liste zur Abstimmung gestellt werden.
 
 ## § 8 Änderungsanträge
-Mitglieder des AStAs sind berechtigt, Änderungsanträge zu stellen. Wird ein Änderungsantrag angenommen, bedeutet dies die automatische Ablehnung anderer offener Änderungsanträge. Der/die Antragsteller\*in kann die Übernahme von Änderungsanträgen erklären, in diesem Fall ist eine Abstimmung zu den Änderungsanträgen hinfällig.
+Mitglieder des AStAs sind berechtigt, Änderungsanträge zu stellen. Wird ein Änderungsantrag angenommen, bedeutet dies die automatische Ablehnung anderer offener Änderungsanträge. Der/die Antragsteller\*in, des ursprünglichen Antrags, kann die Übernahme von Änderungsanträgen erklären, in diesem Fall ist eine Abstimmung zu den Änderungsanträgen hinfällig.
 
 ## § 9 Umlaufbeschlüsse
 
@@ -101,6 +101,8 @@ Mitglieder des AStAs sind berechtigt, Änderungsanträge zu stellen. Wird ein Ä
 (3) Das Protokoll enthält die Tagesordnung, die Anwesenheitsliste, die behandelten Anträge aus Haushaltstiteln, welche zur Förderung von Studierendenprojekten genutzt werden, samt Bezeichnung der Antragsteller\*in oder der antragstellenden Organisation, Projektbeschreibung, Aufgliederung der voraussichtlichen Einnahmen und Ausgaben, Höhe des beantragten Zuschusses und Abstimmungsergebnisse. Der AStA soll zudem vermerken, im Sinne welcher Aufgabe der Studierendenschaft nach § 16 Abs. 1 BbgHG der beantragte Zuschuss bewilligt wird. Es können einzelne Argumente und Aussagen, die während der Sitzung geäußert werden, in das Protokoll aufgenommen werden.
 
 (4) Anträge, die die Bedingungen aus Abs. 3 nicht erfüllen, werden im Protokoll mit Titel, Höhe des beantragten Zuschusses, zugeordnetem Haushaltstopf und Abstimmungsergebnis veröffentlicht.
+
+(5) Die Protokolle des aktuellen und des vorherigen AStAs sind hochschulöffentlich im Intranet der Universität Potsdam verfügbar.
 
 ## § 11 Inkrafttreten
 Diese Geschäftsordnung tritt nach dem Beschluss in AStA und StuPa in Kraft.
