@@ -329,7 +329,7 @@ Die Summe der Entschädigung für alle Mitglieder des Referats darf nicht mehr a
 
 ## § 23 Aufgaben
 
-Der studentische Wahlausschuss ist zuständig für die Organisation und Durchführung der Wahlen zum Studierendenparlament und von Urabstimmungen der Studierendenschaft der Universität Potsdam. Näheres regelt die Rahmenwahlordnung der Studierendenschaft der Universität Potsdam.
+Der studentische Wahlausschuss ist zuständig für die Organisation und Durchführung der Wahlen zum Studierendenparlament, zum Autonomen Referat für Studentische Beschäftigte und von Urabstimmungen der Studierendenschaft der Universität Potsdam. Näheres regelt die Rahmenwahlordnung der Studierendenschaft der Universität Potsdam.
 
 
 ## § 24 Zusammensetzung, Wahl, Mitgliedschaft
@@ -403,7 +403,8 @@ Näheres regelt die Geschäftsordnung der Versammlung der Fachschaften.
 Institutionen der unmittelbaren Einbeziehung der Studierenden in Entscheidungen über Belange der Studierendenschaft der Universität Potsdam sind:
 
 - die Urabstimmung,
-- die Vollversammlung.
+- die Vollversammlung,
+- die Vollversammlung der Studentischen Beschäftigten.
 
 
 # A. Urabstimmung
@@ -497,9 +498,53 @@ Aufgaben der Vollversammlung sind:
 (5) Näheres regelt die Geschäftsordnung der Vollversammlung der Studierendenschaft der Universität Potsdam.
 
 
+# C. Die Vollversammlung der Studentischen Beschäftigten
+
+## § 37 Funktion
+
+Aufgaben der Vollversammlung der Studentischen Beschäftigten sind:
+- Beschlussfassung über die Geschäftsordnung der Vollversammlung der Studentischen Beschäftigten, 
+- Wahl des Autonomen Referats für Studentische Beschäftigte, 
+- Beschlussfassung über die Belange der studentischen Beschäftigten, 
+- Beschlussfassung über die Geschäftsordnung des Autonomen Referats für Studentische Beschäftigte.
+
+# § 38 Stimmrecht
+
+(1) Stimmberechtigt ist jedes Mitglied der Studierendenschaft der Universität Potsdam, das in einem Beschäftigungsverhältnis mit der Universität Potsdam steht. Für das Rede- und Antragsrecht gilt die Geschäftsordnung der Vollversammlung der Studentischen Beschäftigten.
+
+(2) Näheres regeln die Rahmenwahlordnung und die Geschäftsordnung der Vollversammlung der Studentischen Beschäftigten.
+
+# § 39 Zustandekommen
+
+(1) Eine Vollversammlung der Studentischen Beschäftigten findet einmal jährlich statt. Die Einladung erfolgt durch den Studentischen Wahlausschuss. Sie enthält einen Vorschlag für die Tagesordnung, die mindestens den Beschluss über die Geschäftsordnung der Vollversammlung der Studentischen Beschäftigten und anschließend die Wahl des Autonomen Referats für Studentische Beschäftigte enthält. Die Einladung erfolgt per E-Mail an die Studierendenschaft, über den Internetauftritt des AStA sowie über weitere geeignete Publikationsmöglichkeiten der Studierendenschaft. 
+
+(2) Eine Vollversammlung der Studentischen Beschäftigten findet außerdem statt:
+- auf Beschluss des Studierendenparlaments, 
+- auf Beschluss des Autonomen Referats für Studentische Beschäftigte, 
+- auf Verlangen von zwei Prozent der Mitglieder der Studierendenschaft, die in einem Beschäftigungsverhältnis mit der Universität Potsdam stehen.
+Die Einladung erfolgt in diesem Fall durch die Bekanntmachung des Sachverhaltes durch das Präsidium des Studierendenparlaments innerhalb von drei Tagen nach Eingang gemäß Satz 1. Sie enthält einen Vorschlag für die Tagesordnung, die alle beantragten Punkte enthält. Die Einladung erfolgt per E-Mail an die Studierendenschaft, über den Internetauftritt des AStA sowie über weitere geeignete Publikationsmöglichkeiten der Studierendenschaft. 
+
+(3) Näheres regeln die Rahmenwahlordnung und die Geschäftsordnung der Vollversammlung der Studentischen Beschäftigten.
+
+# § 40 Beschlüsse
+
+(1) Die Vollversammlung der Studentischen Beschäftigten ist beschlussfähig, wenn mindestens fünf von Hundert der Stimmberechtigten anwesend sind. Ansonsten wird lediglich eine Empfehlung ausgesprochen. 
+
+(2) Beschlüsse der Vollversammlung haben für das Studierendenparlament und das Autonome Referat für Studentische Beschäftigte empfehlenden Charakter, wenn das in Abs. 1 genannte Quorum nicht erreicht wurde. Das Studierendenparlament und das Autonome Referat für Studentische Beschäftigte führen in ihren nächsten Sitzungen, jedoch spätestens innerhalb von sieben Tagen, je einen Beschluss dazu mit der Mehrheit ihrer anwesenden Mitglieder herbei. In diesem Fall gelten die Fristen des § 11 Abs. 2 nicht.
+
+# § 41 Termin und Ablauf
+
+(1) Eine Vollversammlung der Studentischen Beschäftigten darf nur während der Vorlesungszeit und nicht vor dem fünften Werktag, gezählt vom Tag der Bekanntmachung an, stattfinden. 
+
+(2) Das Präsidium des Studierendenparlaments leitet die Vollversammlung der Studentischen Beschäftigten. Das Autonome Referat für Studentische Beschäftigte und die antragstellenden Personen unterstützen das Präsidium bei der Durchführung und Organisation der Vollversammlung der Studentischen Beschäftigten. 
+
+(3) Auf der Vollversammlung der Studentischen Beschäftigten wird ein Beschlussprotokoll angefertigt und umgehend veröffentlicht. Die Protokollierung der Vollversammlung obliegt dem Präsidium des Studierendenparlaments. 
+
+(4) Näheres regelt die Geschäftsordnung der Vollversammlung der Studierendenschaft der Studentischen Beschäftigten.
+
 # IX. Geschäftsführung und Finanzen
 
-## § 37 Allgemeines
+## § 42 Allgemeines
 
 (1) Die materiellen und finanziellen Mittel der Studierendenschaft der Universität Potsdam werden durch den Allgemeinen Studierendenausschuss und die Fachschaftsräte gemäß den Grundsätzen und Verfügungsregelungen der Finanzordnung der Studierendenschaft der Universität Potsdam verwaltet.
 
@@ -522,14 +567,14 @@ Aufgaben der Vollversammlung sind:
 (10) Der Rechenschaftsbericht der gesamten Studierendenschaft, bestehend aus Einnahmen- und Ausgabenrechnung sowie Vermögensrechnung, ist durch die Finanzreferentin bzw. den Finanzreferenten des AStA dem Rechnungsprüfungsausschuss vorzulegen.
 
 
-## § 38 Pflichten des AStA
+## § 44 Pflichten des AStA
 
 (1) Der AStA, vertreten durch das Finanzreferat, trägt die Verantwortung für das Finanzgebaren der Studierendenschaft. Zur Wahrnehmung dieser Aufgaben kann die Finanzreferentin bzw. der Finanzreferent eine Ausgabensperre für einzelne Titel oder den gesamten Haushalt erlassen. Bestehende Forderungen von Dritten sind davon ausgenommen. Die Ausgabensperre kann nur von der Finanzreferentin bzw. dem Finanzreferenten aufgehoben werden.
 
 (2) Das Finanzreferat legt dem Studierendenparlament bis zur letzten Sitzung der Amtsperiode eine Bilanz des laufenden Haushaltsjahres vor. Darüber hinaus erstattet das Finanzreferat quartalsweise Bericht über die Haushaltssituation gegenüber dem Studierendenparlament. Das Finanzreferat legt dem Studierendenparlament innerhalb von drei Monaten nach Ende des abgelaufenen Haushaltsjahres eine Bilanz vor.
 
 
-## § 39 Haushaltsprüfung
+## § 45 Haushaltsprüfung
 
 (1) Das Studierendenparlament bestimmt einen Rechnungsprüfungsausschuss. Personen, die während des zu überprüfenden Zeitraumes Mitglieder des AStA, des StuPa oder eines Fachschaftsrates waren bzw. immer noch sind, sind nicht zugelassen. Abweichend davon kann das Studierendenparlament auch Sachverständige, die nicht Mitglied oder Angehörige der Universität Potsdam sind, mit der Haushaltsprüfung beauftragen. Dieser Rechnungsprüfungsausschuss bzw. die Sachverständigen überprüfen das Finanzgebaren der Studierendenschaft auf:
 
@@ -545,15 +590,15 @@ Der Rechnungsprüfungsausschuss bzw. die Sachverständigen sollen auch unterjäh
 
 # X. Schlussbestimmungen
 
-## § 40 Schlussbestimmungen
+## § 46 Schlussbestimmungen
 
-(1) Diese Satzung kann nur in der Vorlesungszeit geändert werden durch einen Beschluss des StuPa mit zwei Dritteln seiner Mitglieder und Zustimmung der VeFa mit zwei Dritteln der anwesenden Mitglieder bei Betroffenheit der §§ 1 Abs. 2; 2 Abs. 1; 4; 5 Abs. 2; 6; 6a; 12 Abs. 3; 26; 27; 31 Abs. 1 und 2; 32; 33 Abs. 1; 34 Abs. 1; 35; 37 Abs. 2 S. 2; 37 Abs. 9 und 40. Bei allen anderen Satzungsänderungen durch Beschluss des StuPa mit zwei Dritteln seiner Mitglieder hat die VeFa ein aufschiebendes Vetorecht. Dies bedeutet, dass das StuPa in der darauf folgenden Sitzung erneut darüber debattieren und endgültig mit einer Zweidrittelmehrheit seiner Mitglieder darüber befinden muss. Ein Veto der VeFa kommt zustande, wenn auf der VeFa mit einfacher Mehrheit der stimmberechtigten Mitglieder ein entsprechender Beschluss gefasst wird. Diese VeFa findet innerhalb von vier Wochen nach dem Eingang der Informationen über den StuPa-Beschluss seitens des StuPa-Präsidiums beim VeFa-Präsidium statt. Die Ladungsfrist beträgt mindestens sieben Werktage.
+(1) Diese Satzung kann nur in der Vorlesungszeit geändert werden durch einen Beschluss des StuPa mit zwei Dritteln seiner Mitglieder und Zustimmung der VeFa mit zwei Dritteln der anwesenden Mitglieder bei Betroffenheit der §§ 1 Abs. 2; 2 Abs. 1; 4; 5 Abs. 2; 6; 6a; 12 Abs. 3; 26; 27; 31 Abs. 1 und 2; 32; 33 Abs. 1; 34 Abs. 1; 35; 43 Abs. 2 S. 2; 43 Abs. 9 und 46. Bei allen anderen Satzungsänderungen durch Beschluss des StuPa mit zwei Dritteln seiner Mitglieder hat die VeFa ein aufschiebendes Vetorecht. Dies bedeutet, dass das StuPa in der darauf folgenden Sitzung erneut darüber debattieren und endgültig mit einer Zweidrittelmehrheit seiner Mitglieder darüber befinden muss. Ein Veto der VeFa kommt zustande, wenn auf der VeFa mit einfacher Mehrheit der stimmberechtigten Mitglieder ein entsprechender Beschluss gefasst wird. Diese VeFa findet innerhalb von vier Wochen nach dem Eingang der Informationen über den StuPa-Beschluss seitens des StuPa-Präsidiums beim VeFa-Präsidium statt. Die Ladungsfrist beträgt mindestens sieben Werktage.
 
 (2) Für Satzungsänderungen gelten die Fristen gemäß § 9. Initiativanträge zur Änderung der Satzung sind nicht zulässig.
 
 (3) Zu Fragen der Auslegung dieser Satzung bestellt das Studierendenparlament eine Kommission aus bis zu sechs Personen. Die Kommissionsmitglieder sollen nicht Mitglied in einem Fachschaftsrat, im Studierendenparlament oder im Allgemeinen Studierendenausschuss der Studierendenschaft sein. Die Kommission tritt auf Verlangen zweier Listen des Studierendenparlaments oder auf Beschluss eines Organs der Studierendenschaft innerhalb von zehn Tagen zusammen. Beschlüsse werden mit einer Dreiviertelmehrheit gefällt und sind bindend. Der Beschluss muss mit Begründung den Antragsstellenden bekannt gemacht werden. Ein Minderheitenvotum ist auf Verlangen von mindestens einem Kommissionsmitglied dem Beschluss beizufügen.
 
 
-## § 41 In-Kraft-Treten, Außer-Kraft-Treten
+## § 47 In-Kraft-Treten, Außer-Kraft-Treten
 
 Diese Satzung tritt am Tage nach ihrer Veröffentlichung in den Amtlichen Bekanntmachungen der Universität Potsdam in Kraft. Gleichzeitig tritt die Satzung der Studierendenschaft der Universität Potsdam vom 9. Dezember 1999 (AmBek. UP 2000 S. 65), zuletzt geändert am 12. Januar 2016 (AmBek. UP 2016 S. 36), außer Kraft.
