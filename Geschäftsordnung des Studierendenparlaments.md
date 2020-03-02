@@ -1,6 +1,6 @@
 # Geschäftsordnung des Studierendenparlaments
 
-Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vom 13. Juli 2005 in der Fassung der Dritten Änderungssatzung der Satzung der Studierendenschaft der Universität Potsdam vom 12. Januar 2016 gibt sich das Studierendenparlament am 12. Januar 2016 die nachfolgende Geschäftsordnung.
+Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vom 13. Juli 2005 in der Fassung der Dritten Änderungssatzung der Satzung der Studierendenschaft der Universität Potsdam vom 12. Januar 2016 gibt sich das Studierendenparlament am 08. Januar 2019 die nachfolgende Geschäftsordnung.
 
 ## § 1 Geltungsbereich
 
