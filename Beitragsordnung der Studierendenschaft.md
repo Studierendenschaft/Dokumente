@@ -1,7 +1,7 @@
 # Beitragsordnung der Studierendenschaft der Universität Potsdam
 **Vom 7. November 2017**
 
-Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 4 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG) in der Fassung vom 28. April 2014 (GVBl. I/14, [Nr. 18]), zuletzt geändert durch Artikel 2 des Gesetzes vom 1. Juli 2015 (GVBl. I/15, [Nr. 18]), auf seiner Sitzung am 7. November 2017 folgende neue Beitragsordnung beschlossen:
+Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 4 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG) in der Fassung vom 28. April 2014 (GVBl. I/14, [Nr. 18]), zuletzt geändert durch Artikel 2 des Gesetzes vom 1. Juli 2015 (GVBl. I/15, [Nr. 18]), auf seiner Sitzung am 12. März 2019 folgende neue Beitragsordnung beschlossen:
 
 ----------
 
@@ -21,10 +21,10 @@ Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 4 des 
 
 (2) Der Beitrag setzt sich wie folgt zusammen:
 
-1. 4,90 Euro Beitrag zum Teilhaushalt der sonstigen Studierendenschaft
+1. 7,80 Euro Beitrag zum Teilhaushalt der sonstigen Studierendenschaft
 2. 2,20 Euro Beitrag zum Teilhaushalt der Fachschaften
 3. 0,50 Euro Beitrag zum Semesterticketsozialfond
-4. 3,00 Euro Beitrag für das Kulturzentrum in den Elfleinhöfen
+4. 4,00 Euro Beitrag für das Kulturzentrum in den Elfleinhöfen
 5. Semesterticketbeitrag gemäß § 6 Abs. 2
 
 
