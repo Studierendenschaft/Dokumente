@@ -15,7 +15,7 @@ Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 3 des 
 
 (1) Die Finanzordnung regelt die Finanzgebaren der Studierendenschaft der Universität Potsdam.
 
-(2) Die Finanzordnung gilt für das Studierendenparlament (StuPa), den Allgemeinen Studierendenausschuss (AStA), die Versammlung der Fachschaften (VeFa) und die Fachschaftsräte. Sie ist Grundlage für sämtliche Finanzgeschäfte der Studierendenschaft.
+(2) Die Finanzordnung gilt für das Studierendenparlament (StuPa), den Allgemeinen Studierendenausschuss (AStA), das Autonome Referat für Studentische Beschäftigte, die Versammlung der Fachschaften (VeFa) und die Fachschaftsräte. Sie ist Grundlage für sämtliche Finanzgeschäfte der Studierendenschaft.
 
 
 ## § 2 Vermögen der Studierendenschaft
@@ -77,7 +77,7 @@ Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 3 des 
 
 (1) Der Haushaltsplan wird von dem/der Finanzreferent/in aufgestellt, kontrolliert und spätestens drei Monate nach Ende des abgelaufenen Haushaltsjahres bilanziert.
 
-(2) Im Haushaltsplan sind die einzelnen Posten detailliert nach Maßgabe der Landeshaushaltsordnung aufzuführen.
+(2) Im Haushaltsplan sind die einzelnen Posten detailliert nach Maßgabe der Landeshaushaltsordnung aufzuführen. „Der Haushaltsplan muss die Posten „Autonomes Referat für Studentische Beschäftigte“ sowie „Aufwandsentschädigung des Referats für Studentische Beschäftigte“ enthalten.
 
 (3) Der Haushaltsplan ist von dem/der Finanzreferent/in in geeigneter Weise, insbesondere im Internet, zu veröffentlichen.
 
@@ -120,7 +120,7 @@ Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 3 des 
 
 ## § 11 Abrechnung mit dem AStA
 
-(1) Für geförderte Projekte, Veranstaltungen von Studierendeninitiativen oder Fachschaften ist am Ende eine schriftliche Abrechnung bei dem/der Finanzreferenten/in des AStA einzureichen.
+(1) Für geförderte Projekte, Veranstaltungen von Studierendeninitiativen, das Autonome Referat für Studentische Beschäftigte oder Fachschaften ist am Ende eine schriftliche Abrechnung bei dem/der Finanzreferenten/in des AStA einzureichen.
 
 (2) Die Abrechnung enthält eine Aufschlüsselung aller tatsächlich angefallenen Einnahmen und Ausgaben. Bei der Aufgliederung ist die des Antrages zu verwenden. Für die Ausgaben in Höhe des bewilligten Zuschusses sind Originalbelege einzureichen.
 
