@@ -1,6 +1,6 @@
 # Geschäftsordnung des Allgemeinen Studierendenausschusses
 
-**Fassung vom 31.01.2017**
+**Fassung vom 14. Januar 2020**
 
 Nach §14 der Satzung der Studierendenschaft der Universität Potsdam (SatzStud) gibt der AStA sich folgende Geschäftsordnung:
 
