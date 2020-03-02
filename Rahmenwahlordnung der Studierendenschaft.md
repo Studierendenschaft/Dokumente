@@ -13,20 +13,27 @@ Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 3 des 
 
 ## § 1 Geltungsbereich
 
-Diese Rahmenwahlordnung gilt für die Wahlen zu den Organen der Studierendenschaft, insbesondere für die Wahl zum Studierendenparlament (StuPa) der Universität Potsdam. Soweit anwendbar gilt diese Ordnung auch für eine Urabstimmung. Sie gilt entsprechend für Wahlen in den Fachschaften – insbesondere für Wahlen zum Fachschaftsrat, sofern sich eine Fachschaft nicht eine eigene Wahlordnung gegeben hat. Eine solche muss jedoch den Grundsätzen dieser Rahmenwahlordnung nach § 7 entsprechen.
+Diese Rahmenwahlordnung gilt für die Wahlen zu den Organen der Studierendenschaft, insbesondere für die Wahl zum Studierendenparlament (StuPa) und dem autonomen Referat für Studentische Beschäftigte der Universität Potsdam. Soweit anwendbar gilt diese Ordnung auch für eine Urabstimmung. Sie gilt entsprechend für Wahlen in den Fachschaften – insbesondere für Wahlen zum Fachschaftsrat, sofern sich eine Fachschaft nicht eine eigene Wahlordnung gegeben hat. Eine solche muss jedoch den Grundsätzen dieser Rahmenwahlordnung nach § 7 entsprechen.
 
 
-## § 2 Sitzverteilung
+## § 2 Wahlgrundsätze
+
+Die Mitglieder der Organe der Studierendenschaft werden von den Studierenden in unmittelbarer, freier, gleicher und geheimer Wahl gewählt.
+
+# Abschnitt I. Wahlen zum Studierendenparlament
+
+
+## § 3 Sitzverteilung
 
 Für das StuPa sind nach § 10 Abs. 1 der Satzung der Studierendenschaft 27 Mitglieder zu wählen.
 
 
-## § 3 Wahlbezirke
+## § 4 Wahlbezirke
 
 Wahlbezirke, in denen an den Wahltagen an zentraler Stelle ein Wahllokal einzurichten ist, sind die Standorte Griebnitzsee, Neues Palais und Golm.
 
 
-## § 4 Wahltermin
+## § 5 Wahltermin
 
 (1) Die Wahl zum StuPa soll an bis zu drei aufeinander folgenden Werktagen während des Sommersemesters stattfinden. Die Wahl zum StuPa soll gleichzeitig mit den Wahlen der Organe der Universität Potsdam durchgeführt werden.
 
@@ -35,23 +42,18 @@ Wahlbezirke, in denen an den Wahltagen an zentraler Stelle ein Wahllokal einzuri
 (3) Die Wahlzeit dauert mindestens von 10:00 Uhr bis 15:00 Uhr.
 
 
-## § 5 Wahlberechtigung
+## § 6 Wahlberechtigung
 
 (1) Wahlberechtigt sind alle immatrikulierten Studierenden der Universität Potsdam.
 
 (2) Die Zuordnung der Wahlberechtigten zu einem Wahlbezirk richtet sich nach dem ersten Studienfach. Wahlberechtigte, die Mitglieder mehrerer Fakultäten sind, können bis zum Tage des Ablaufs für Einwendungen gegen das Wahlberechtigtenverzeichnis gegenüber dem StWA eine formlose Erklärung abgeben, dass sie in einer anderen Fakultät, als der in Satz 1 festgelegten, wählen wollen.
 
 
-## § 6 Wählbarkeit
+## § 7 Wählbarkeit
 
 (1) Wählbar sind alle immatrikulierten Studierenden der Universität Potsdam. Jede Studentin und jeder Student hat die Möglichkeit, für die Wahl zu kandidieren.
 
 (2) Die Wählbarkeit der Kandidierenden überprüft der StWA anhand des Wahlberechtigtenverzeichnisses.
-
-
-## § 7 Wahlgrundsätze
-
-Die Mitglieder der Organe der Studierendenschaft werden von den Studierenden in unmittelbarer, freier, gleicher und geheimer Wahl gewählt.
 
 
 ## § 8 Wahlsystem
@@ -109,6 +111,8 @@ Der StWA bestimmt für die Beaufsichtigung der Wahlhandlung sowie für die Ausz�
 9. einen Hinweis auf die Möglichkeit und das Verfahren der Briefwahl,
 10. die Art der Veröffentlichung des Wahlergebnisses.
 
+(3)  Die Bestimmungen der Absätze 1 und 2 finden auf die Wahlen zum autonomen Referat für Studentische Beschäftigte entsprechende Anwendung.
+
 
 ## § 13 Wahlberechtigtenverzeichnis
 
@@ -119,6 +123,8 @@ Der StWA bestimmt für die Beaufsichtigung der Wahlhandlung sowie für die Ausz�
 (3) Das Wahlberechtigtenverzeichnis wird für die Dauer von drei Wochen bis zum 35. Tag vor dem ersten Wahltag im zentralen Wahlbüro ausgelegt. Einwendungen gegen das Wahlberechtigtenverzeichnis und Erklärungen zur Fakultätszugehörigkeit nach § 5 Abs. 2 müssen bis zu diesem Tag gegenüber dem StWA geltend gemacht bzw. abgegeben werden. Nach Ablauf dieser Frist kann die Fehlerhaftigkeit des Wahlberechtigtenverzeichnisses nicht mehr geltend gemacht werden, auch nicht im Wege der Wahlanfechtung.
 
 (4) Die Mitglieder des StWA können das Wahlberechtigtenverzeichnis von Amts wegen berichtigen.
+
+(5) Die Bestimmungen der Absätze 1 bis 4 finden auf die Wahlen zum autonomen Referat für Studentische Beschäftigte entsprechende Anwendung.
 
 
 ## § 14 Kandidaturen und Wahllisten
@@ -254,6 +260,8 @@ Der StWA bestimmt für die Beaufsichtigung der Wahlhandlung sowie für die Ausz�
 
 (5) Die unterzeichnete Wahlniederschrift, die Wahllisten und die Wahlergebnisse sind mindestens bis zum Ende der Amtszeit des gewählten Gremiums aufzubewahren.
 
+(6) Die Bestimmungen der Absätze 1 bis 5 finden auf die Wahlen zum autonomen Referat für Studentische Beschäftigte entsprechende Anwendung.
+
 
 ## § 21 Anfechtung und Wiederholung der Wahl
 
@@ -271,6 +279,8 @@ Der StWA bestimmt für die Beaufsichtigung der Wahlhandlung sowie für die Ausz�
 
 (5) Bei der Wiederholung der Wahl ist nach denselben Kandidaturen und aufgrund desselben Wahlberechtigtenverzeichnisses wie bei der für ungültig erklärten Wahl zu wählen, wenn die Wiederholung in demselben Semester wie die erste Wahl stattfindet; ansonsten ist die Wahl mit verkürzten, öffentlich bekanntzugebenden Fristen nach den allgemeinen Vorschriften dieser Rahmenwahlordnung zu wiederholen.
 
+(6) Die Bestimmungen der Absätze 1 bis 5 finden auf die Wahlen zum autonomen Referat für Studentische Beschäftigte entsprechende Anwendung.
+
 
 ## § 22 Abschluss der Wahl und Konstituierung des StuPas
 
@@ -278,7 +288,99 @@ Der StWA bestimmt für die Beaufsichtigung der Wahlhandlung sowie für die Ausz�
 
 (2) Der StWA lädt hochschulöffentlich auf seiner Webseite und per E-Mail zur konstituierenden Sitzung ein und gibt das endgültige Wahlergebnis bekannt. Zusätzlich soll der AStA auf seiner Webseite auf den Termin der konstituierenden Sitzung hinweisen.
 
+# Abschnitt II. Wahlen zum Autonomen Referat für Studentische Beschäftigte
 
-## § 23 In-Kraft-Treten
+
+## § 23 Sitzverteilung
+
+Für das autonome Referat für Studentische Beschäftigte sind vier ReferentInnen zu wählen.
+
+
+## § 24 Wahltermin
+
+(1) Das autonome Referat für Studentische Beschäftigte wird einmal jährlich auf der Vollversammlung der Studentischen Beschäftigten gewählt. Die Vollversammlung der Studentischen Beschäftigten findet einmal jährlich auf Einladung des studentischen Wahlausschusses (StWA) im Wintersemester statt. 
+
+(2) Der Wahltermin wird vom StWA festgelegt. Er darf nicht auf die vorlesungsfreie Zeit oder die erste oder die letzte Vorlesungswoche gelegt werden.
+
+
+## § 25 Wahlberechtigung und Wählbarkeit
+
+(1) Wahlberechtigt ist jedes Mitglied der Studierendenschaft der Universität Potsdam, das in einem Beschäftigungsverhältnis mit der Universität Potsdam steht. 
+
+(2) Wählbar ist jedes Mitglied der Studierendenschaft der Universität Potsdam, das in einem Beschäftigungsverhältnis mit der Universität Potsdam steht. 
+
+(3) Die Wählbarkeit der Kandidierenden überprüft der StWA bzw. das Präsidium des Studierendenparlaments anhand des Wahlberechtigtenverzeichnisses.
+
+
+## § 26 Wahlsystem
+
+(1) Die Wahlen zum autonomen Referat für Studentische Beschäftigte erfolgen nach den Grundsätzen der einfachen Mehrheitswahl.  
+
+(2) Die Wahlberechtigten haben die Möglichkeit, eine oder mehrere Kandidierende auf dem Stimmzettel anzukreuzen, jedoch insgesamt höchstens vier. Stimmenhäufung ist unzulässig. Die Sitze werden nach der Zahl der erreichten Stimmen zugeteilt. Bei Stimmengleichheit entscheidet das Los. Alle danach nicht zum Zuge gekommenen Personen mit gültigen Stimmen sind in absteigender Reihenfolge nach der von ihnen erreichten Stimmenzahl in die Reserveliste aufgenommen. Bei Stimmengleichheit entscheidet das Los über die Reihenfolge.
+
+
+## § 27 Durchführung der Wahl
+
+(1) Die Vollversammlung der Studentischen Beschäftigten kann aus ihrer Mitte eine Sitzungsleitung bestimmen, die mit der Durchführung der Vollversammlung und der Wahl des autonomen Referats für die Studentischen Beschäftigten betraut wird. Der StWA bzw. das Präsidium des Studierendenparlaments unterstützt die Sitzungsleitung bei der Wahrnehmung ihrer Aufgaben.  
+
+(2) Wird keine Sitzungsleitung bestimmt, ist der StWA bzw. das Präsidium des Studierendenparlaments für die Durchführung der Vollversammlung und der Wahl des autonomen Referats für die Studentischen Beschäftigten zuständig.
+
+
+## § 28 Kandidaturen
+
+(1) Eine Kandidatur für das autonome Referat für Studentische Beschäftigte kann ab dem 42. Tag vor der Vollversammlung der Studentischen Beschäftigten jederzeit bis zur Eröffnung des Wahlgangs zum Referat gegenüber dem StWA erklärt werden. Hat das Präsidium des Studierendenparlaments zur Vollversammlung der Studentischen Beschäftigten eingeladen, so ist die Kandidatur gegenüber dem Präsidium zu erklären. 
+
+(2) Jede Kandidatur muss in erkennbarer Reihenfolge: 
+1.den Namen und Vornamen, 
+2.die Matrikelnummer, 
+3.das erste Studienfach, 
+4.die E-Mail-Adresse, 
+5.die eigenhändige Unterschrift der bzw. des Kandidierenden enthalten.
+
+(3) Entspricht eine Kandidatur nicht den Anforderungen des Absatz 2, so ist sie unter Angabe der Gründe an die kandidierende Person zurückzuverweisen. Damit ist die Aufforderung zu verbinden, die Mängel innerhalb der in Absatz 1 geregelten Frist zu beseitigen. Maßgeblich ist der Eingang der berichtigten Kandidatur. Werden die Mängel nicht oder nicht innerhalb dieser Frist beseitigt, so entscheidet der StWA bzw. das Präsidium des Studierendenparlaments, ob und in welchem Umfang die Kandidatur als gültig anzusehen ist.
+
+
+## § 29 Wahlgang
+
+(1) Der StWA bzw. das Präsidium des Studierendenparlaments eröffnet den Wahlgang auf der Vollversammlung der Studentischen Beschäftigten. Die Stimmabgabe richtet sich nach § 26 dieser Rahmenwahlordnung. Die Stimmabgabe ist geheim. Wählende, die körperlich beeinträchtigt sind, können sich der Hilfe einer Vertrauensperson bedienen, die den Stimmzettel kennzeichnen oder in die Wahlurne werfen kann. 
+
+(2) Bevor die Wählenden ihr Stimmrecht ausüben, ist ihre Identität zu überprüfen und festzustellen, ob sie im Wahlberechtigtenverzeichnis geführt werden. Ist dies der Fall, so werden ihnen die Wahlunterlagen ausgehändigt und die Stimmabgabe im Wahlberechtigtenverzeichnis vermerkt, damit eine nochmalige Aushändigung der Wahlunterlagen ausgeschlossen ist. 
+
+(3) Bei der Wahl sind nur die dafür vorgesehenen Wahlunterlagen zu verwenden. Die Wählenden geben ihre Stimme ab, indem sie ihre Entscheidung auf dem Stimmzettel eindeutig kenntlich machen. Die Wählenden sind gehalten, dafür die Wahlkabinen zu benutzen.
+
+(4) Der StWA bzw. das Präsidium des Studierendenparlaments schließt den Wahlgang nach zweimaliger Aufforderung zur Stimmabgabe in der Vollversammlung der Studentischen Beschäftigten.
+
+
+## § 30 Ermittlung und Bekanntgabe des Wahlergebnisses
+
+(1) Zur Ermittlung des Wahlergebnisses werden unverzüglich nach Schließung des Wahlgangs am Ort der Vollversammlung der Studentischen Beschäftigten die Stimmzettel gezählt. Ihre Zahl ist mit der Zahl der im Wahlberechtigtenverzeichnis vermerkten Stimmabgaben zu vergleichen. In der Wahlniederschrift ist festzuhalten, wenn die Zahlen nicht übereinstimmen. Danach werden die Stimmen ausgezählt. Die Ermittlung des Wahlergebnisses findet universitätsöffentlich statt. 
+
+(2) Ungültig sind Stimmzettel, wenn 
+1.sie den Willen der Wählenden nicht zweifelsfrei erkennen lassen, 
+2.mehr Stimmen vergeben sind, als vergeben werden durften, 
+3.sie andere als für die Wahl erforderliche Vermerke enthalten, 
+4.sie durchgestrichen oder ganz durchgerissen sind oder 
+5.die Stimmabgabe nicht auf den dafür vorgesehenen Unterlagen erfolgt ist. 
+
+(3) Zur Feststellung des Wahlergebnisses werden ermittelt 
+1.die Anzahl der Wahlberechtigten, 
+2.die Anzahl der insgesamt abgegebenen gültigen und ungültigen Stimmzettel, 
+3.die Gesamtzahl der Stimmen für jede einzelne Kandidatur, 
+4.die Reihenfolge der Mitglieder und der Reserveliste, 
+5.die Wahlbeteiligung. 
+
+(4) Das festgestellte Ergebnis wird universitätsöffentlich auf der Webseite des StWA bzw. des Studierendenparlaments und per E-Mail unverzüglich bekannt gegeben. Dabei ist auf die Einspruchsfrist hinzuweisen. Zusätzlich soll der AStA auf seiner Webseite auf das Ergebnis hinweisen. 
+
+(5) Die Wahl ist mit der Bekanntgabe des Ergebnisses unbeschadet eines Wahlprüfungsverfahrens gültig.
+
+
+## § 31 Abschluss der Wahl und Konstituierung des autonomen Referats für Studentische Beschäftigte
+
+1) Das autonome Referat für Studentische Beschäftigte konstituiert sich innerhalb von 2 Wochen nach Ablauf der Einspruchsfrist. 
+
+(2) Der StWA bzw. das Präsidium des Studierendenparlaments lädt hochschulöffentlich auf seiner Webseite und per E-Mail zur konstituierenden Sitzung ein und gibt das endgültige Wahlergebnis bekannt. Zusätzlich soll der AStA auf seiner Webseite auf den Termin der konstituierenden Sitzung hinweisen.
+
+
+## § 32 In-Kraft-Treten
 
 Diese Ordnung tritt am Tage nach ihrer Veröffentlichung in den Amtlichen Bekanntmachungen der Universität Potsdam in Kraft.
