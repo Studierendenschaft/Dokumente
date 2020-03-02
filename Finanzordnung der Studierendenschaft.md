@@ -36,7 +36,7 @@ Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 3 des 
 
 ## § 4 Finanzreferent/in des AStA
 
-(1) Dem/der Finanzreferenten/in des AStA obliegt die Aufgabe, die Finanzen der Studierendenschaft zu verwalten und die rechtmäßige Verwendung der Gelder zu kontrollieren. In einem Leitfaden veröffentlicht er/sie hierzu die sachlichen, rechnerischen und formalen Anforderungen.
+(1) Dem/der Finanzreferenten/in des AStA obliegt die Aufgabe, die Finanzen der Studierendenschaft zu verwalten und die rechtmäßige Verwendung der Gelder zu kontrollieren, sowie die Zuweisung und Berichtigung der vom Studierendenparlament beschlossenen Haushaltstöpfe. Sollte die/der Finanzreferent/in Änderungen vornehmen, setzt sie/er das StuPa über diese Berichtigung in Kenntnis. In einem Leitfaden veröffentlicht er/sie hierzu die sachlichen, rechnerischen und formalen Anforderungen.
 
 (2) Der/die Finanzreferent/in des AStA ist höchstes Organ im Bereich der Finanzen der studentischen Selbstverwaltung. Er/sie ist gegenüber den Finanzreferenten/innen der Fachschaften weisungsbefugt, soweit diese die Finanzen nicht wirtschaftlich, ordnungsgemäß und satzungsgemäß einsetzen.
 
