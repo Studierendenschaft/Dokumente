@@ -231,8 +231,8 @@ Zur Erfüllung dieser Aufgaben kann der Allgemeine Studierendenausschuss Persona
 - durch Abwahl,
 - durch Rücktritt,
 - nach insgesamt drei Jahren (36 Monaten) Amtszeit als Referentin oder Referent,
-- durch Tod oder
-- durch Exmatrikulation.
+- durch Exmatrikulation oder
+- durch Ableben.
 
 Am Ende der Amtsperiode führen die Referentinnen und Referenten ihre Amtsgeschäfte bis zur Konstituierung des neuen AStA kommissarisch weiter. Scheidet ein Vorstandsmitglied aus dem Amt, findet unverzüglich eine Nachwahl der vakanten Position statt. Der AStA bleibt auch bei Ausscheiden von Vorstandsmitgliedern konstituiert. Diese müssen schnellstmöglich vom Studierendenparlament neu bestimmt werden.
 
@@ -243,9 +243,13 @@ Am Ende der Amtsperiode führen die Referentinnen und Referenten ihre Amtsgesch�
 
 ## § 14 Geschäftsordnung
 
-(1) Jeder AStA gibt sich nach seiner Wahl nach Maßgabe dieser Satzung eine Geschäftsordnung, die die genaue Arbeitsweise des AStA festlegt. Sie regelt insbesondere Antragsrecht, Rederecht, Fristen für finanzrelevante Anträge, Beschlussfähigkeit, Abstimmungen, Mehrheiten und Stimmführung je Referat oder je Referentin und Referent.
+(1) Jeder AStA gibt sich nach seiner Wahl nach Maßgabe dieser Satzung eine Geschäftsordnung, welche die genaue Arbeitsweise des AStA festlegt. Sie regelt insbesondere Antragsrecht, Rederecht, Fristen für finanzrelevante Anträge, Beschlussfähigkeit, Abstimmungen, Mehrheiten, Ausgestaltung des Ergebnisprotokolls und Stimmführung je Referat oder je ReferentIn. Die Ausgestaltung des Ergebnisprotokolls fordert mindestens die Angabe der
+- Tagesordnung
+- Answesenheitsliste
+- Behandelten Anträge aus Haushaltstiteln, welche zur Förderung von Studierendenprojekten genutzt werden, samt Bezeichnung der antragsstellenden Organisation, Projektbeschreibung, Aufgliederung der voraussichtlichen Einnahmen und Ausgaben und die Höhe des beantragten Gesamtzuschusses
+- Abstimmungsergebnisse
 
-(2) Wurde für einen AStA in seiner Legislatur noch keine Geschäftsordnung beschlossen, so gelten die Regelungen dieser Satzung analog, keine darüber hinausgehenden Antragsfristen und einfache Mehrheit für Beschlüsse. Für Beschlussfähigkeit und Stimmberechtigung gelten als Mitglieder i.S.v. § 6 Abs. 1 in diesem Falle die Referate nach § 13 Abs. 1. 
+(2) Wurde für einen AStA in seiner Wahlperiode noch keine Geschäftsordnung beschlossen, so gelten die Regelungen dieser Satzung analog, keine darüber hinausgehenden Antragsfristen und einfache Mehrheit für Beschlüsse. Es gelten in jedem Fall bereits die Mindestanforderungen zur Ausgestaltung des Ergebnisprotokolls aus Absatz 1. Für Beschlussfähigkeit und Stimmberechtigung gelten als Mitglieder i.S.v. § 6 Abs. 1 in diesem Falle die Referate nach § 13 Abs. 1. 
 
 (3) Die Geschäftsordnung bedarf der Zustimmung des Studierendenparlaments.
 
