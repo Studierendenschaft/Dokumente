@@ -24,13 +24,9 @@ Dem AStA obliegt die Erfüllung seiner Aufgaben und Zuständigkeiten im Rahmen d
 
 (1) Rede- und Antragsrecht im AStA besitzt generell jede natürliche und juristische Person.
 
-(2) Der AStA führt eine nach Geschlechtern getrennte Redeliste. Die Redeleitung erteilt das Wort in der Reihenfolge der eingegangenen Meldungen nacheinander Personen der jeweiligen Geschlechter. Der AStA erkennt an, dass es mehr als zwei Geschlechter gibt.
-
-(3) Meldet sich eine Person zu einem Tagesordnungspunkt zum ersten Mal, so wird sie als Nächstes aufgerufen, wenn ihr jeweiliges Geschlecht an der Reihe ist.
-
-(4) Die Zuteilung zu Geschlechtern geschieht durch die Personen selbst. Eine Ansprechperson für die Zuteilung auf der Redeliste kann der_die Referent\*in für Geschlechterpolitik sein.
-
-(5) Wurde die Redeliste geschlossen, so hat jede Person einmalig und unmittelbar nach der Schließung der Redeliste die Möglichkeit noch in die Redeliste aufgenommen zu werden. Alle Wortmeldungen der Redeliste werden dann entsprechend der Quotierung aufgerufen.
+(2) Der AStA führt eine sensibel quotierte Redeliste, deren Zweck es ist, ein ausgeglichenes Redeverhalten herzustellen. Die Art und Quotierung der Redeliste legt der AStA im Hinblick auf die Zusammensetzung des AStAs fest. Dabei erkennt der AStA an, dass es mehr als zwei Geschlechter gibt und diese unterschiedlich privilegiert sind, was in der Redeliste Beachtung finden sollte.
+(3) Die Zuteilung zu Geschlechtern geschieht durch die Personen selbst. Eine Ansprechperson für die Zuteilung auf der Redeliste kann der_die Referent*in für Geschlechterpolitik sein.
+(4) Wurde die Redeliste geschlossen, so hat jede Person einmalig und unmittelbar nach der Schließung der Redeliste die Möglichkeit noch in die Redeliste aufgenommen zu werden. Alle Wortmeldungen der Redeliste werden dann entsprechend der Quotierung aufgerufen.
 
 ## § 5 Fristen bei finanzrelevanten Anträgen
 (1) Für die Anträge an den AStA sind folgende Fristen einzuhalten:
