@@ -30,7 +30,7 @@ Die Geschäftsordnung gilt für das Studierendenparlament (StuPa) der Universit�
 
 (7) Wenn durch den ersten Wahlgang nicht alle Mandate vergeben wurden, erfolgt ein zweiter Wahlgang. In diesem werden die übrigen Mandate an die Personen vergeben, welche die meisten Stimmen auf sich vereinigen können, sofern sie mindestens die Mehrheit der Stimmen der anwesenden Mitglieder des Studierendenparlaments erhalten haben.
 
-(8) Wenn durch den zweiten Wahlgang nicht alle Mandate vergeben wurden, erfolgt ein dritter Wahlgang. In diesem werden die übrigen Mandate an die Personen vergeben, welche die meisten Stimmen auf sich vereinigen können.
+(8) Wenn durch den zweiten Wahlgang nicht alle Mandate vergeben wurden, erfolgt nach demselben Vorgehen ein dritter Wahlgang.
 
 
 ## § 4 Wahl des Präsidiums
