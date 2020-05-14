@@ -141,21 +141,22 @@ Mitglieder des Studierendenparlaments können außerhalb von Debatten und Abstim
 
 (2) Geschäftsordnungsanträge sind:
 
-1. Antrag auf Feststellung der Beschlussfähigkeit (auf Verlangen eines Mitglieds),
-2. Antrag auf Vertagung vor Eintritt in die Tagesordnung,
-3. Änderung der Reihenfolge der Beratung,
-4. Schluss der Sitzung (mit Zweidrittelmehrheit),
-5. Unterbrechung der Sitzung,
-6. Verbindung der Beratung zweier Tagesordnungspunkte,
-7. Durchführung von zwei Lesungen zu einem Tagesordnungspunkt,
-8. Vertagung eines aufgerufenen Tagesordnungspunktes,
-9. Schluss der Beratung, gegebenenfalls sofortige Abstimmung (mit Zweidrittelmehrheit der anwesenden Mitglieder),
-10. Antrag auf Schluss der Redeliste,
-11. Begrenzung der Redezeit,
-12. Ausschluss der Öffentlichkeit (Beratung ist nicht-öffentlich, Beschluss mit Zweidrittelmehrheit der anwesenden Mitglieder),
-13. Getrennte Abstimmung (auf Verlangen eines Mitglieds),
-14. Geheime Abstimmung (auf Verlangen eines Mitglieds),
-15. Wahl ohne Abstimmung (kein Mitglied darf widersprechen).
+1. Sprachmittlung (auf Verlangen eines Mitglieds)
+2. Antrag auf Feststellung der Beschlussfähigkeit (auf Verlangen eines Mitglieds),
+3. Antrag auf Vertagung vor Eintritt in die Tagesordnung,
+4. Änderung der Reihenfolge der Beratung,
+5. Schluss der Sitzung (mit Zweidrittelmehrheit),
+6. Unterbrechung der Sitzung,
+7. Verbindung der Beratung zweier Tagesordnungspunkte,
+8. Durchführung von zwei Lesungen zu einem Tagesordnungspunkt,
+9. Vertagung eines aufgerufenen Tagesordnungspunktes,
+10. Schluss der Beratung, gegebenenfalls sofortige Abstimmung (mit Zweidrittelmehrheit der anwesenden Mitglieder),
+11. Antrag auf Schluss der Redeliste,
+12. Begrenzung der Redezeit,
+13. Ausschluss der Öffentlichkeit (Beratung ist nicht-öffentlich, Beschluss mit Zweidrittelmehrheit der anwesenden Mitglieder),
+14. Getrennte Abstimmung (auf Verlangen eines Mitglieds),
+15. Geheime Abstimmung (auf Verlangen eines Mitglieds),
+16. Wahl ohne Abstimmung (kein Mitglied darf widersprechen).
 
 Weitere Anträge zum Verfahren bedürfen einer Zweidrittelmehrheit der anwesenden Mitglieder des Studierendenparlaments.
 
