@@ -18,7 +18,7 @@ i.d.F. der Vierten Änderungssatzung der Satzung der Studierendenschaft der Univ
 (2) Aufgabe der Studierendenschaft ist die umfassende Interessenvertretung ihrer Mitglieder. Insbesondere sind dies die:
 
 - Wahrnehmung studentischer Interessen der Studierenden im Bereich der Universität Potsdam und in der Öffentlichkeit,
-- Mitwirkung an der Erfüllung der Aufgaben der Hochschulen (gemäß § 3 BbgHG), insbesondere durch Stellungnahmen zu hochschul- oder wissenschaftspolitischen Fragestellungen,
+- Mitwirkung an der Erfüllung der Aufgaben der Hochschulen (gemäß § 3 BbgHG), insbesondere durch Stellungnahmen zu hochschul- oder    wissenschaftspolitischen Fragestellungen,
 - Förderung der politischen Bildung sowie der geistigen und kulturellen Interessen ihrer Mitglieder,
 - Unterstützung und Vertretung sozialer Belange ihrer Mitglieder,
 - Pflege der überregionalen und internationalen studentischen Beziehungen,
@@ -111,8 +111,22 @@ i.d.F. der Vierten Änderungssatzung der Satzung der Studierendenschaft der Univ
 
 (6) Die Notwendigkeit des Umlaufverfahrens ist zu begründen. Näheres regelt der Finanzleitfaden.
 
+## §7 Protokolle
 
-## § 7 Das Studentische Kulturzentrum
+Jedes Organ der Studierendenschaft hat ein Protokoll anzufertigen,
+welches ein Ergebnisprotokoll ist.
+Die Regelung zur Ausgestaltung des Protokolls fordert mindestens
+die Angabe der:
+- Tagesordnung
+- Anwesenheitsliste
+- Behandelten Anträge aus Haushaltstiteln, welche zur Förderung von
+  Studierendenprojekten genutzt werden, samt Bezeichnung der antragsstellenden Organisation,
+  Projektbeschreibung, Aufgliederung der voraussichtlichen Einnahmen und Ausgaben und die Höhe des beantragten
+  Gesamtzuschusses
+- Abstimmungsergebnisse.
+
+
+## § 8 Das Studentische Kulturzentrum
 
 (1) Die Förderung der kulturellen Interessen der Studierenden gemäß § 1 Abs. 2 wird insbesondere durch die Verwirklichung und Betreibung des Studentischen Kulturzentrums gewährleistet. Mindestens einmal pro Semester befasst sich eine Sitzung des Studierendenparlaments mit dem Kulturzentrum.
 
@@ -123,7 +137,7 @@ i.d.F. der Vierten Änderungssatzung der Satzung der Studierendenschaft der Univ
 
 # II. Das Studierendenparlament
 
-## § 8 Das Studierendenparlament
+## § 9 Das Studierendenparlament
 
 (1) Das Studierendenparlament (StuPa) ist das höchste beschlussfassende Organ der Studierendenschaft der Universität Potsdam. Es wird jährlich in freier, gleicher und geheimer Wahl und in der Regel nach den Grundsätzen der personalisierten Verhältniswahl gewählt. Die Wahl zum Studierendenparlament soll gleichzeitig mit den Wahlen der Organe der Universität Potsdam durchgeführt werden. Seine Wahlperiode dauert bis zur Konstituierung des folgenden Studierendenparlaments. Näheres regelt die Rahmenwahlordnung der Studierendenschaft der Universität Potsdam.
 
@@ -131,7 +145,7 @@ i.d.F. der Vierten Änderungssatzung der Satzung der Studierendenschaft der Univ
 
 (3) Das Studierendenparlament nimmt Stellung zu hochschulpolitischen Fragestellungen nach § 1 Abs. 2 dieser Satzung und beschließt die politische Strategie und die Grundlinien der aktuellen Politik der Studierendenschaft. Sofern nichts Anderes bestimmt ist, fällt es Beschlüsse mit der einfachen Mehrheit seiner anwesenden Mitglieder. Es nimmt die Berichte des Allgemeinen Studierendenausschusses, des Rechnungsprüfungsausschusses und seiner Arbeitskreise und Kommissionen entgegen.
 
-(4) Das Studierendenparlament erlässt, ändert und hebt die Satzung der Studierendenschaft mit einer Zweidrittelmehrheit der Mitglieder des Studierendenparlaments auf. Hierbei sind die Fristen und Mitwirkungsrechte der Versammlung der Fachschaften gemäß § 40 zu gewährleisten. Es beschließt ferner über:
+(4) Das Studierendenparlament erlässt, ändert und hebt die Satzung der Studierendenschaft mit einer Zweidrittelmehrheit der Mitglieder des Studierendenparlaments auf. Hierbei sind die Fristen und Mitwirkungsrechte der Versammlung der Fachschaften gemäß § 46 zu gewährleisten. Es beschließt ferner über:
 
 - die Finanzordnung, die Nutzungsordnung für Internetserver, den Haushalt der Studierendenschaft der Universität Potsdam mit der Mehrheit seiner Mitglieder,
 - die Beitragsordnung der Studierendenschaft mit einer Zweidrittelmehrheit seiner Mitglieder. Kommt ein solcher Beschluss nicht zustande, gilt die Höhe der Beiträge des letzten Semesters weiter und die Beitragsordnung für das kommende Semester mit diesen Beiträgen als beschlossen. Eine Änderung der Beitragsordnung durch einen Initiativantrag ist nicht möglich,
@@ -146,16 +160,16 @@ i.d.F. der Vierten Änderungssatzung der Satzung der Studierendenschaft der Univ
 (8) Das Studierendenparlament kann sich mit einer Zweidrittelmehrheit seiner Mitglieder selbst auflösen. Näheres regelt die Rahmenwahlordnung der Studierendenschaft der Universität Potsdam.
 
 
-## § 9 Anträge
+## § 10 Anträge
 
-(1) Antragsberechtigt sind alle Studierende der Universität Potsdam, alle Zusammenschlüsse nach § 3 und § 8 Abs. 2, alle Organe nach § 4 sowie die einzelnen Listen des Studierendenparlaments.
+(1) Antragsberechtigt sind alle Studierende der Universität Potsdam, alle Zusammenschlüsse nach § 3 und § 9 Abs. 2, alle Organe nach § 4 sowie die einzelnen Listen des Studierendenparlaments.
 
 (2) Anträge an das Studierendenparlament sind bis spätestens zehn Tage vor Beginn der Sitzung beim Präsidium des Studierendenparlaments einzureichen, damit sie zur Behandlung ins Studierendenparlament gelangen können.
 
 (3) Nach Antragsschluss können nur noch Initiativanträge in die Sitzung des Studierendenparlaments eingebracht werden. Sie bedürfen der Unterstützung durch mindestens drei Mitglieder des Studierendenparlaments. Über ihre Behandlung entscheidet das Studierendenparlament mit einfacher Mehrheit seiner anwesenden Mitglieder. Nicht behandelte Initiativanträge sind als reguläre Anträge auf der nächsten ordentlichen Sitzung des Studierendenparlamentes zu behandeln.
 
 
-## § 10 Zusammensetzung, Wahl, Mitgliedschaft
+## § 11 Zusammensetzung, Wahl, Mitgliedschaft
 
 (1) Das Studierendenparlament besteht aus 27 Mitgliedern. Es wird durch die Studierendenschaft direkt gewählt. Die studentischen Vertreterinnen und Vertreter im Senat sollen mit beratender Stimme an den Sitzungen des Studierendenparlaments teilnehmen.
 
@@ -174,13 +188,13 @@ Scheidet ein Mitglied aus, rückt automatisch die Person mit den nächstmeisten 
 (4) Abweichend von Abs. 3 kann das Präsidium aus ein oder zwei Personen bestehen, solange die verbleibenden Plätze nicht besetzt werden können. Das Präsidium setzt in diesem Fall auf jeder ordentlichen Sitzung des Parlamentes die Wahl zum Präsidium auf die Tagesordnung. Ist das Präsidium komplett unbesetzt, wird die Sitzung des Parlaments vertagt. Die Wahl zum Präsidium muss auf der nächsten Sitzung an den Beginn der Tagesordnung gesetzt werden.
 
 
-## § 11 Sitzungen
+## § 12 Sitzungen
 
 (1) Das Studierendenparlament tagt während der Vorlesungszeit mindestens alle 21 Tage. In der vorlesungsfreien Zeit tagt das Studierendenparlament mindestens einmal. Es tritt spätestens drei Wochen sowohl nach Semesterbeginn als auch nach Neuwahl zusammen. Darüber hinaus tagt das StuPa:
 
 - auf Antrag des Allgemeinen Studierendenausschusses,
 - auf Verlangen von drei Fachschaftsräten,
-- nach einer Vollversammlung gemäß § 35 Abs. 2,
+- nach einer Vollversammlung gemäß § 36 Abs. 2,
 - auf Verlangen von einem Prozent aller Mitglieder der Studierendenschaft,
 - auf Verlangen von einem Drittel der Mitglieder des Studierendenparlaments oder mindestens zwei im Studierendenparlament vertretenen Listen.
 
@@ -193,7 +207,7 @@ An Sonnabenden und Sonntagen finden keine Sitzungen statt.
 
 # III. Der Allgemeine Studierendenausschuss
 
-## § 12 Aufgaben
+## § 13 Aufgaben
 
 (1) Der Allgemeine Studierendenausschuss (AStA) ist das ausführende Organ der Studierendenschaft. Er trägt die Verantwortung für die Erfüllung der Aufgaben der Studierendenschaft und führt deren Geschäfte. Über die Arbeit des AStA sind die einzelnen Referentinnen und Referenten gegenüber der Studierendenschaft und insbesondere gegenüber dem Studierendenparlament jederzeit rechenschaftspflichtig, aber mindestens schriftlich oder per E-Mail zu den Sitzungen des Studierendenparlaments. Die Referentinnen und Referenten haben bei den Sitzungen des Studierendenparlaments Anwesenheitspflicht.
 
@@ -212,11 +226,11 @@ Zur Erfüllung dieser Aufgaben kann der Allgemeine Studierendenausschuss Persona
 (3) Mindestens ein Mitglied des AStA soll auf den Sitzungen der Versammlung der Fachschaften anwesend sein. Der AStA muss die Beschlüsse der VeFa berücksichtigen, sofern sie ihn betreffen.
 
 
-## § 13 Zusammensetzung, Wahl, Mitgliedschaft
+## § 14 Zusammensetzung, Wahl, Mitgliedschaft
 
 (1) Auf der konstituierenden Sitzung des Studierendenparlamentes findet die Wahl der AStA-Referentinnen und Referenten der neuen Legislatur statt, Vertagung ist möglich. Es werden vom Studierendenparlament eine Referentin oder ein Referent für Finanzen sowie für jedes andere Referat bis zu 4 gleichberechtigte und gegenseitig vertretungsberechtigte Referentinnen und Referenten gewählt. Ein Referat ist besetzt, wenn mindestens eine Referentin oder ein Referent gewählt ist. Mit der Annahme der Wahl in den Allgemeinen Studierendenausschuss scheiden sie aus dem Studierendenparlament aus. Näheres regelt die Geschäftsordnung.
 
-(2) Grundsätzlich beschließt das Studierendenparlament über die Entlastung des von ihm gewählten AStA. Näheres regelt § 8 Abs. 5 dieser Satzung.
+(2) Grundsätzlich beschließt das Studierendenparlament über die Entlastung des von ihm gewählten AStA. Näheres regelt § 9 Abs. 5 dieser Satzung.
 
 (3) Sollte die Besetzung eines oder mehrerer Referate bei der Wahl des AStA nicht möglich sein oder während der Legislatur vakant werden, so erfolgt eine hochschulöffentliche Bekanntmachung, dass interessierte Studierende gesucht werden, durch das Präsidium des Studierendenparlamentes.
 
@@ -242,7 +256,7 @@ Am Ende der Amtsperiode führen die Referentinnen und Referenten ihre Amtsgesch�
 (9) Rechte und Pflichten des Vorstandes bleiben personengebunden bei den gewählten Vorstandsmitgliedern und sind nicht auf andere Referentinnen oder Referenten übertragbar.
 
 
-## § 14 Geschäftsordnung
+## § 15 Geschäftsordnung
 
 (1) Jeder AStA gibt sich nach seiner Wahl nach Maßgabe dieser Satzung eine Geschäftsordnung, welche die genaue Arbeitsweise des AStA festlegt. Sie regelt insbesondere Antragsrecht, Rederecht, Fristen für finanzrelevante Anträge, Beschlussfähigkeit, Abstimmungen, Mehrheiten, Ausgestaltung des Ergebnisprotokolls und Stimmführung je Referat oder je ReferentIn. Die Ausgestaltung des Ergebnisprotokolls fordert mindestens die Angabe der
 - Tagesordnung
@@ -250,12 +264,12 @@ Am Ende der Amtsperiode führen die Referentinnen und Referenten ihre Amtsgesch�
 - Behandelten Anträge aus Haushaltstiteln, welche zur Förderung von Studierendenprojekten genutzt werden, samt Bezeichnung der antragsstellenden Organisation, Projektbeschreibung, Aufgliederung der voraussichtlichen Einnahmen und Ausgaben und die Höhe des beantragten Gesamtzuschusses
 - Abstimmungsergebnisse
 
-(2) Wurde für einen AStA in seiner Wahlperiode noch keine Geschäftsordnung beschlossen, so gelten die Regelungen dieser Satzung analog, keine darüber hinausgehenden Antragsfristen und einfache Mehrheit für Beschlüsse. Es gelten in jedem Fall bereits die Mindestanforderungen zur Ausgestaltung des Ergebnisprotokolls aus Absatz 1. Für Beschlussfähigkeit und Stimmberechtigung gelten als Mitglieder i.S.v. § 6 Abs. 1 in diesem Falle die Referate nach § 13 Abs. 1. 
+(2) Wurde für einen AStA in seiner Wahlperiode noch keine Geschäftsordnung beschlossen, so gelten die Regelungen dieser Satzung analog, keine darüber hinausgehenden Antragsfristen und einfache Mehrheit für Beschlüsse. Es gelten in jedem Fall bereits die Mindestanforderungen zur Ausgestaltung des Ergebnisprotokolls aus Absatz 1. Für Beschlussfähigkeit und Stimmberechtigung gelten als Mitglieder i.S.v. § 6 Abs. 1 in diesem Falle die Referate nach § 14 Abs. 1. 
 
 (3) Die Geschäftsordnung bedarf der Zustimmung des Studierendenparlaments.
 
 
-## § 15 Rechenschaftspflicht
+## § 16 Rechenschaftspflicht
 
 (1) Über ihre Arbeit sind die einzelnen Referentinnen und Referenten gegenüber der Studierendenschaft und insbesondere gegenüber dem Studierendenparlament jederzeit, aber mindestens zu den Sitzungen des Studierendenparlamentes rechenschaftspflichtig.
 
@@ -266,13 +280,13 @@ Am Ende der Amtsperiode führen die Referentinnen und Referenten ihre Amtsgesch�
 (4) Kommt das Mitglied des AStA der Rechenschaftspflicht zur nächsten Sitzung des Studierendenparlamentes weiterhin nicht nach, muss auf Antrag von 25% der Mitglieder des Studierendenparlamentes eine Beschlussvorlage zur Kürzung der Aufwandsentschädigung um einen ganzen Monatssatz behandelt werden.
 
 
-## § 16 Aufwandsentschädigung
+## § 17 Aufwandsentschädigung
 Die Summe der Entschädigung für alle Referentinnen und Referenten darf nicht mehr als 15 % der im Haushalt der Studierendenschaft veranschlagten Einnahmen aus den Studierendenschaftsbeiträgen zur Erfüllung ihrer Aufgaben betragen. Die Höhe der monatlichen Aufwandsentschädigung eines Mitglieds des AStA darf 65% des Betrages des höchstmöglichen BAföG-Satzes nicht überschreiten. Die genaue Aufteilung der Aufwandsentschädigung obliegt dem AStA und wird dem Studierendenparlament mitgeteilt. Die Höhe der Gesamtaufwandsentschädigung legt das Studierendenparlament fest.
 
 
 # IV. Das autonome Referat für Studentische Beschäftigte
 
-## § 17 Aufgaben
+## § 18 Aufgaben
 
 (1) Das Autonome Referat für Studentische Beschäftigte nimmt die Belange der studentischen Beschäftigten an der Hochschule wahr. Im Rahmen dieser Tätigkeit ist es zuständig für: 
 
@@ -283,7 +297,7 @@ Die Summe der Entschädigung für alle Referentinnen und Referenten darf nicht m
 (2) Mindestens ein Mitglied des Referats muss auf Sitzungen des AStAs sowie des Studierendenparlaments anwesend sein. Mitglieder des Autonomen Referats für Studentische Beschäftigte haben im AStA und im Studierendenparlament Rede- und Antragsrecht, aber kein Stimmrecht.
 
 
-## § 18 Wahl, Mitgliedschaft
+## § 19 Wahl, Mitgliedschaft
 
 (1) Das Autonome Referat für Studentische Beschäftigte wird jährlich in freier und gleicher Wahl und nach den Grundsätzen der einfachen Mehrheitswahl auf der Vollversammlung der Studentischen Beschäftigten gewählt. Es werden bis zu vier gleichberechtigte und gegeneinander vertretungsberechtigte ReferentInnen gewählt. Das Referat ist besetzt, wenn mindestens zwei ReferentInnen gewählt sind. Das Nähere regelt die Geschäftsordnung der Vollversammlung der Studentischen Beschäftigten.
 
@@ -299,17 +313,17 @@ Scheidet ein Mitglied aus, rückt automatisch die Person mit den nächstmeisten 
 (3) Das Referat tritt während der Vorlesungszeit mindestens einmal wöchentlich zur Referatssitzung zusammen. Die Sitzungstermine sind im Internetauftritt des AStA zu veröffentlichen. Auf Sitzungen, die abweichend von Satz 1 und 2 stattfinden, dürfen keine budgetrelevanten Beschlüsse gefällt werden.
 
 
-## § 19 Geschäftsordnung
+## § 20 Geschäftsordnung
 
 Das Referat gibt sich eine Geschäftsordnung, die der Zustimmung des Studierendenparlaments bedarf. Gibt sich das Referat keine Geschäftsordnung, findet die Geschäftsordnung des AStA auf das Referat entsprechende Anwendung.
 
 
-## § 20 Budget
+## § 21 Budget
 
 Für seine Tätigkeit erhält das Referat Mittel im Rahmen des Haushaltsplans der Studierendenschaft. Das Referat erstellt einen Jahresplan über die eigenverantwortliche Verwendung der ihnen zur Verfügung gestellten Mittel. Es unterliegt der Pflicht zur Buchführung und Rechenschaftslegung gegenüber dem Finanzreferat des AStA und der Prüfung durch den Rechnungsprüfungsausschuss.
 
 
-## § 21 Rechenschaftspflicht
+## § 22 Rechenschaftspflicht
 
 (1) Über seine Arbeit sind die einzelnen Mitglieder des Referats gegenüber der Studierendenschaft rechenschaftspflichtig. Zu diesem Zweck veröffentlicht das Referat quartalsweise Tätigkeitsberichte, die über den Internetauftritt des Referats oder des AStA und per E-Mail zu veröffentlichen sind.
 
@@ -320,19 +334,19 @@ Für seine Tätigkeit erhält das Referat Mittel im Rahmen des Haushaltsplans de
 (4) Kommt das Mitglied des Referats der Rechenschaftspflicht zur nächsten Sitzung des Studierendenparlamentes weiterhin nicht nach, muss auf Antrag von 25% der Mitglieder des Studierendenparlamentes eine Beschlussvorlage zur Kürzung der Aufwandsentschädigung um einen ganzen Monatssatz behandelt werden.
 
 
-## § 22 Aufwandsentschädigung
+## § 23 Aufwandsentschädigung
 
 Die Summe der Entschädigung für alle Mitglieder des Referats darf nicht mehr als 3,5 % der im Haushalt der Studierendenschaft veranschlagten Einnahmen aus den Studierendenschaftsbeiträgen zur Erfüllung ihrer Aufgaben betragen. Die Höhe der monatlichen Aufwandsentschädigung eines Mitglieds des Referats darf 65% des Betrages des höchstmöglichen BAföG-Satzes nicht überschreiten. Die genaue Aufteilung der Aufwandsentschädigung obliegt dem Referat und wird dem Studierendenparlament mitgeteilt. Die Höhe der Gesamtaufwandsentschädigung legt das Studierendenparlament fest.
 
 
 # V. Der Studentische Wahlausschuss
 
-## § 23 Aufgaben
+## § 24 Aufgaben
 
 Der studentische Wahlausschuss ist zuständig für die Organisation und Durchführung der Wahlen zum Studierendenparlament, zum Autonomen Referat für Studentische Beschäftigte und von Urabstimmungen der Studierendenschaft der Universität Potsdam. Näheres regelt die Rahmenwahlordnung der Studierendenschaft der Universität Potsdam.
 
 
-## § 24 Zusammensetzung, Wahl, Mitgliedschaft
+## § 25 Zusammensetzung, Wahl, Mitgliedschaft
 
 (1) Der studentische Wahlausschuss besteht aus mindestens vier Mitgliedern, davon einer Vorsitzenden oder einem Vorsitzenden. Mitglied des studentischen Wahlausschusses kann sein, wer nicht selbst Mitglied des Studierendenparlaments oder des AStA ist bzw. dafür kandidiert.
 
@@ -341,14 +355,14 @@ Der studentische Wahlausschuss ist zuständig für die Organisation und Durchfü
 (3) Für die Besetzung des studentischen Wahlausschusses ruft das StuPa-Präsidium innerhalb der Studierendenschaft zur Kandidatur auf und leitet die Kandidaturen an die studentischen Mitglieder der Fakultätsräte weiter. Die studentischen Mitglieder jedes Fakultätsrates können innerhalb einer durch das StuPa gesetzten Frist von mindestens einem Monat ein Mitglied aus ihrer Fakultät für den studentischen Wahlausschuss benennen. Sie sind dabei nicht auf die durch das StuPa-Präsidium weitergeleiteten Kandidaturen beschränkt. Werden innerhalb der Frist nicht aus allen Fakultäten Mitglieder benannt, so kann das StuPa weitere Mitglieder wählen. Wurden weniger als vier Mitglieder durch die studentischen Mitglieder der Fakultätsräte benannt, muss das StuPa so viele Mitglieder wählen, bis der studentische Wahlausschuss aus mindestens vier Mitgliedern besteht.
 
 
-## § 25 Aufwandsentschädigung
+## § 26 Aufwandsentschädigung
 
 Die Mitglieder des studentischen Wahlausschusses erhalten für eine Amtsperiode eine Aufwandsentschädigung, die jährlich vom StuPa festzulegen ist.
 
 
 # VI. Die Fachschaften und ihre Fachschaftsräte
 
-## § 26 Fachschaften
+## § 27 Fachschaften
 
 (1) Die Gesamtheit der in einem Studienfach Immatrikulierten bildet eine Fachschaft. Die Gliederung erfolgt gemäß den Strukturplänen der Universität Potsdam. Zusätzlich können sich alle Studierenden, die in einem Lehramtsstudiengang immatrikuliert sind, in einer Fachschaft zum erziehungswissenschaftlichen Teilstudiengang im Lehramtsstudium organisieren.
 
@@ -373,9 +387,9 @@ Die Mitglieder des studentischen Wahlausschusses erhalten für eine Amtsperiode 
 
 # VII. Die Versammlung der Fachschaften
 
-## § 27 Die Versammlung der Fachschaften
+## § 28 Die Versammlung der Fachschaften
 
-(1) Die Versammlung der Fachschaften (VeFa) dient der Koordinierung der Fachschaften untereinander und mit anderen Organen der Studierendenschaft. Bis einen Monat vor Ende des Haushaltsjahres beschließt die Versammlung der Fachschaften einen Verteilungsschlüssel für die den Fachschaften nach § 26 Abs. 4 zustehenden Mittel.
+(1) Die Versammlung der Fachschaften (VeFa) dient der Koordinierung der Fachschaften untereinander und mit anderen Organen der Studierendenschaft. Bis einen Monat vor Ende des Haushaltsjahres beschließt die Versammlung der Fachschaften einen Verteilungsschlüssel für die den Fachschaften nach § 27 Abs. 4 zustehenden Mittel.
 
 (2) Die Versammlung der Fachschaften kann sich eine Geschäftsordnung geben.
 
@@ -385,9 +399,9 @@ Die Mitglieder des studentischen Wahlausschusses erhalten für eine Amtsperiode 
 
 (5) Die VeFa wählt auf der ersten Sitzung im Wintersemester ein Präsidium, das aus mindestens drei Studierenden bestehen soll, die die gleichen Rechte und Pflichten innehaben. Das Präsidium ist die ständige Vertretung der VeFa. Es beruft die Sitzungen der VeFa ein und leitet sie. Darüber hinaus soll es in regelmäßigem Kontakt zum Präsidium des Studierendenparlaments stehen. Das Präsidium kann durch konstruktives Misstrauensvotum der VeFa abgesetzt werden. Wird kein Präsidium gewählt, beschließt die VeFa über das weitere Vorgehen.
 
-(6) Ist auf der dritten Sitzung zur Festlegung des Verteilungsschlüssels nach § 26 Abs. 4 oder bis einen Monat vor Ablauf des Haushaltsjahres kein Beschluss gefasst worden, so gilt der bis dahin angefangene Verteilungsschlüssel weiter.
+(6) Ist auf der dritten Sitzung zur Festlegung des Verteilungsschlüssels nach § 27 Abs. 4 oder bis einen Monat vor Ablauf des Haushaltsjahres kein Beschluss gefasst worden, so gilt der bis dahin angefangene Verteilungsschlüssel weiter.
 
-(7) Die Versammlung der Fachschaften verwaltet einen Projektmittelfond aus den Rückflussmitteln des Vorjahres gemäß § 26 Abs. 5. Aus den Mitteln dieses Fonds sind projektbezogene Anträge an die VeFa förderfähig. Antragsberechtigt sind
+(7) Die Versammlung der Fachschaften verwaltet einen Projektmittelfond aus den Rückflussmitteln des Vorjahres gemäß § 27 Abs. 5. Aus den Mitteln dieses Fonds sind projektbezogene Anträge an die VeFa förderfähig. Antragsberechtigt sind
 
 - Fachschaftsräte, deren finanzielle Mittel bereits aufgebraucht sind bzw. durch das Projekt aufgebraucht würden,
 - mehrere Fachschaftsräte mit einem gemeinsamen Projekt und
@@ -398,7 +412,7 @@ Näheres regelt die Geschäftsordnung der Versammlung der Fachschaften.
 
 # VIII. Institutionen der Studierendenschaft
 
-## § 28 Institutionen der Studierendenschaft
+## § 29 Institutionen der Studierendenschaft
 
 Institutionen der unmittelbaren Einbeziehung der Studierenden in Entscheidungen über Belange der Studierendenschaft der Universität Potsdam sind:
 
@@ -409,21 +423,21 @@ Institutionen der unmittelbaren Einbeziehung der Studierenden in Entscheidungen 
 
 # A. Urabstimmung
 
-## § 29 Aufgaben
+## § 30 Aufgaben
 
 (1) Beschlüsse der Urabstimmung sind für alle anderen Organe der Studierendenschaft der Universität Potsdam bindend. Die Urabstimmung ist einem Beschluss der Vollversammlung zum gleichen Thema vorrangig. Bei einer Beteiligung von weniger als zehn Prozent der Studierenden wird lediglich eine Empfehlung ausgesprochen.
 
 (2) Die angesprochenen Organe der Studierendenschaft müssen im Falle einer Empfehlung durch die Urabstimmung auf ihrer nächsten Sitzung über die Empfehlung beraten und hierzu einen Beschluss mit der Mehrheit ihrer anwesenden Mitglieder fassen.
 
 
-## § 30 Stimmrecht
+## § 31 Stimmrecht
 
 (1) Jedes Mitglied der Studierendenschaft der Universität Potsdam ist für die Urabstimmung stimmberechtigt.
 
 (2) Näheres regelt die Rahmenwahlordnung der Studierendenschaft der Universität Potsdam.
 
 
-## § 31 Zustandekommen und Ablauf
+## § 32 Zustandekommen und Ablauf
 
 (1) Die Urabstimmung findet statt:
 
@@ -449,7 +463,7 @@ Institutionen der unmittelbaren Einbeziehung der Studierenden in Entscheidungen 
 
 # B. Die Vollversammlung
 
-## § 32 Funktion
+## § 33 Funktion
 
 Aufgaben der Vollversammlung sind:
 
@@ -457,14 +471,14 @@ Aufgaben der Vollversammlung sind:
 - Beschlussfassung über die Belange der Studierendenschaft.
 
 
-## § 33 Stimmrecht
+## § 34 Stimmrecht
 
 (1) Jedes Mitglied der Studierendenschaft der Universität Potsdam ist stimmberechtigt. Für das Rede- und Antragsrecht gilt die Geschäftsordnung der Vollversammlung.
 
 (2) Näheres regeln die Rahmenwahlordnung und die Geschäftsordnung der Vollversammlung der Studierendenschaft der Universität Potsdam.
 
 
-## § 34 Zustandekommen
+## § 35 Zustandekommen
 
 (1) Eine Vollversammlung findet statt:
 
@@ -473,21 +487,21 @@ Aufgaben der Vollversammlung sind:
 - auf Verlangen von vier Fachschaftsräten,
 - auf Verlangen von zwei Prozent der Mitglieder der Studierendenschaft.
 
-(2) Eine Vollversammlung findet weiterhin statt vor einer Urabstimmung gemäß § 31 Abs. 7.
+(2) Eine Vollversammlung findet weiterhin statt vor einer Urabstimmung gemäß § 32 Abs. 7.
 
 (3) Näheres regeln die Rahmenwahlordnung und die Geschäftsordnung der Vollversammlung der Studierendenschaft der Universität Potsdam.
 
 
-## § 35 Beschlüsse
+## § 36 Beschlüsse
 
 (1) Die Vollversammlung ist beschlussfähig, wenn mindestens fünf von Hundert der Mitglieder der Studierendenschaft anwesend sind. Ansonsten wird lediglich eine Empfehlung ausgesprochen.
 
-(2) Beschlüsse der Vollversammlung haben für das Studierendenparlament und den AStA empfehlenden Charakter, wenn das in Abs. 1 genannte Quorum nicht erreicht wurde. Das Studierendenparlament und der AStA führen in ihren nächsten Sitzungen, jedoch spätestens innerhalb von sieben Tagen, je einen Beschluss dazu mit der Mehrheit ihrer anwesenden Mitglieder herbei. In diesem Fall gelten die Fristen des § 11 Abs. 2 nicht.
+(2) Beschlüsse der Vollversammlung haben für das Studierendenparlament und den AStA empfehlenden Charakter, wenn das in Abs. 1 genannte Quorum nicht erreicht wurde. Das Studierendenparlament und der AStA führen in ihren nächsten Sitzungen, jedoch spätestens innerhalb von sieben Tagen, je einen Beschluss dazu mit der Mehrheit ihrer anwesenden Mitglieder herbei. In diesem Fall gelten die Fristen des § 12 Abs. 2 nicht.
 
 
-## § 36 Termin und Ablauf
+## § 37 Termin und Ablauf
 
-(1) Die Einladung erfolgt durch die Bekanntmachung des Sachverhaltes durch das Präsidium des Studierendenparlaments innerhalb von drei Tagen nach Eingang gemäß § 34 Abs. 1, bzw. innerhalb von 14 Tagen nach der Bekanntmachung einer Urabstimmung gemäß § 31 Abs. 2. Sie enthält einen Vorschlag für die Tagesordnung, die alle beantragten Punkte enthält. Die Einladung erfolgt per E-Mail an die Studierendenschaft, über den Internetauftritt des AStA sowie über weitere geeignete Publikationsmöglichkeiten der Studierendenschaft.
+(1) Die Einladung erfolgt durch die Bekanntmachung des Sachverhaltes durch das Präsidium des Studierendenparlaments innerhalb von drei Tagen nach Eingang gemäß § 35 Abs. 1, bzw. innerhalb von 14 Tagen nach der Bekanntmachung einer Urabstimmung gemäß § 32 Abs. 2. Sie enthält einen Vorschlag für die Tagesordnung, die alle beantragten Punkte enthält. Die Einladung erfolgt per E-Mail an die Studierendenschaft, über den Internetauftritt des AStA sowie über weitere geeignete Publikationsmöglichkeiten der Studierendenschaft.
 
 (2) Eine Vollversammlung darf nur während der Vorlesungszeit und nicht vor dem fünften Werktag, gezählt vom Tag der Bekanntmachung an, stattfinden.
 
@@ -500,7 +514,7 @@ Aufgaben der Vollversammlung sind:
 
 # C. Die Vollversammlung der Studentischen Beschäftigten
 
-## § 37 Funktion
+## § 38 Funktion
 
 Aufgaben der Vollversammlung der Studentischen Beschäftigten sind:
 - Beschlussfassung über die Geschäftsordnung der Vollversammlung der Studentischen Beschäftigten, 
@@ -508,13 +522,13 @@ Aufgaben der Vollversammlung der Studentischen Beschäftigten sind:
 - Beschlussfassung über die Belange der studentischen Beschäftigten, 
 - Beschlussfassung über die Geschäftsordnung des Autonomen Referats für Studentische Beschäftigte.
 
-# § 38 Stimmrecht
+# § 39 Stimmrecht
 
 (1) Stimmberechtigt ist jedes Mitglied der Studierendenschaft der Universität Potsdam, das in einem Beschäftigungsverhältnis mit der Universität Potsdam steht. Für das Rede- und Antragsrecht gilt die Geschäftsordnung der Vollversammlung der Studentischen Beschäftigten.
 
 (2) Näheres regeln die Rahmenwahlordnung und die Geschäftsordnung der Vollversammlung der Studentischen Beschäftigten.
 
-# § 39 Zustandekommen
+# § 40 Zustandekommen
 
 (1) Eine Vollversammlung der Studentischen Beschäftigten findet einmal jährlich statt. Die Einladung erfolgt durch den Studentischen Wahlausschuss. Sie enthält einen Vorschlag für die Tagesordnung, die mindestens den Beschluss über die Geschäftsordnung der Vollversammlung der Studentischen Beschäftigten und anschließend die Wahl des Autonomen Referats für Studentische Beschäftigte enthält. Die Einladung erfolgt per E-Mail an die Studierendenschaft, über den Internetauftritt des AStA sowie über weitere geeignete Publikationsmöglichkeiten der Studierendenschaft. 
 
@@ -526,13 +540,13 @@ Die Einladung erfolgt in diesem Fall durch die Bekanntmachung des Sachverhaltes 
 
 (3) Näheres regeln die Rahmenwahlordnung und die Geschäftsordnung der Vollversammlung der Studentischen Beschäftigten.
 
-# § 40 Beschlüsse
+# § 41 Beschlüsse
 
 (1) Die Vollversammlung der Studentischen Beschäftigten ist beschlussfähig, wenn mindestens fünf von Hundert der Stimmberechtigten anwesend sind. Ansonsten wird lediglich eine Empfehlung ausgesprochen. 
 
-(2) Beschlüsse der Vollversammlung haben für das Studierendenparlament und das Autonome Referat für Studentische Beschäftigte empfehlenden Charakter, wenn das in Abs. 1 genannte Quorum nicht erreicht wurde. Das Studierendenparlament und das Autonome Referat für Studentische Beschäftigte führen in ihren nächsten Sitzungen, jedoch spätestens innerhalb von sieben Tagen, je einen Beschluss dazu mit der Mehrheit ihrer anwesenden Mitglieder herbei. In diesem Fall gelten die Fristen des § 11 Abs. 2 nicht.
+(2) Beschlüsse der Vollversammlung haben für das Studierendenparlament und das Autonome Referat für Studentische Beschäftigte empfehlenden Charakter, wenn das in Abs. 1 genannte Quorum nicht erreicht wurde. Das Studierendenparlament und das Autonome Referat für Studentische Beschäftigte führen in ihren nächsten Sitzungen, jedoch spätestens innerhalb von sieben Tagen, je einen Beschluss dazu mit der Mehrheit ihrer anwesenden Mitglieder herbei. In diesem Fall gelten die Fristen des § 12 Abs. 2 nicht.
 
-# § 41 Termin und Ablauf
+# § 42 Termin und Ablauf
 
 (1) Eine Vollversammlung der Studentischen Beschäftigten darf nur während der Vorlesungszeit und nicht vor dem fünften Werktag, gezählt vom Tag der Bekanntmachung an, stattfinden. 
 
@@ -544,11 +558,11 @@ Die Einladung erfolgt in diesem Fall durch die Bekanntmachung des Sachverhaltes 
 
 # IX. Geschäftsführung und Finanzen
 
-## § 42 Allgemeines
+## § 43 Allgemeines
 
 (1) Die materiellen und finanziellen Mittel der Studierendenschaft der Universität Potsdam werden durch den Allgemeinen Studierendenausschuss und die Fachschaftsräte gemäß den Grundsätzen und Verfügungsregelungen der Finanzordnung der Studierendenschaft der Universität Potsdam verwaltet.
 
-(2) Jede Ausgabe größer als 1.500,00 Euro aus dem Haushalt der Studierendenschaft bedarf der Zustimmung des Studierendenparlaments. Ausgenommen von Satz 1 sind die Studierendenschaftsbeiträge für die Fachschaften gemäß § 26 Abs. 4. Des Weiteren bedarf jeder Antrag an den Projektmittelfonds des Studentenwerks über 1.500,00 Euro der Zustimmung des Studierendenparlaments.
+(2) Jede Ausgabe größer als 1.500,00 Euro aus dem Haushalt der Studierendenschaft bedarf der Zustimmung des Studierendenparlaments. Ausgenommen von Satz 1 sind die Studierendenschaftsbeiträge für die Fachschaften gemäß § 27 Abs. 4. Des Weiteren bedarf jeder Antrag an den Projektmittelfonds des Studentenwerks über 1.500,00 Euro der Zustimmung des Studierendenparlaments.
 
 (3) Das Haushaltsjahr der Studierendenschaft Potsdam beginnt am 1. Oktober eines Jahres und endet zum 30. September des darauf folgenden Jahres.
 
@@ -592,9 +606,9 @@ Der Rechnungsprüfungsausschuss bzw. die Sachverständigen sollen auch unterjäh
 
 ## § 46 Schlussbestimmungen
 
-(1) Diese Satzung kann nur in der Vorlesungszeit geändert werden durch einen Beschluss des StuPa mit zwei Dritteln seiner Mitglieder und Zustimmung der VeFa mit zwei Dritteln der anwesenden Mitglieder bei Betroffenheit der §§ 1 Abs. 2; 2 Abs. 1; 4; 5 Abs. 2; 6; 6a; 12 Abs. 3; 26; 27; 31 Abs. 1 und 2; 32; 33 Abs. 1; 34 Abs. 1; 35; 43 Abs. 2 S. 2; 43 Abs. 9 und 46. Bei allen anderen Satzungsänderungen durch Beschluss des StuPa mit zwei Dritteln seiner Mitglieder hat die VeFa ein aufschiebendes Vetorecht. Dies bedeutet, dass das StuPa in der darauf folgenden Sitzung erneut darüber debattieren und endgültig mit einer Zweidrittelmehrheit seiner Mitglieder darüber befinden muss. Ein Veto der VeFa kommt zustande, wenn auf der VeFa mit einfacher Mehrheit der stimmberechtigten Mitglieder ein entsprechender Beschluss gefasst wird. Diese VeFa findet innerhalb von vier Wochen nach dem Eingang der Informationen über den StuPa-Beschluss seitens des StuPa-Präsidiums beim VeFa-Präsidium statt. Die Ladungsfrist beträgt mindestens sieben Werktage.
+(1) Diese Satzung kann nur in der Vorlesungszeit geändert werden durch einen Beschluss des StuPa mit zwei Dritteln seiner Mitglieder und Zustimmung der VeFa mit zwei Dritteln der anwesenden Mitglieder bei Betroffenheit der §§ 1 Abs. 2; 2 Abs. 1; 4; 5 Abs. 2; 6; 6a; 13 Abs. 3; 27; 28; 32 Abs. 1 und 2; 33; 34 Abs. 1; 35 Abs. 1; 36; 43 Abs. 2 S. 2; 43 Abs. 9 und 46. Bei allen anderen Satzungsänderungen durch Beschluss des StuPa mit zwei Dritteln seiner Mitglieder hat die VeFa ein aufschiebendes Vetorecht. Dies bedeutet, dass das StuPa in der darauf folgenden Sitzung erneut darüber debattieren und endgültig mit einer Zweidrittelmehrheit seiner Mitglieder darüber befinden muss. Ein Veto der VeFa kommt zustande, wenn auf der VeFa mit einfacher Mehrheit der stimmberechtigten Mitglieder ein entsprechender Beschluss gefasst wird. Diese VeFa findet innerhalb von vier Wochen nach dem Eingang der Informationen über den StuPa-Beschluss seitens des StuPa-Präsidiums beim VeFa-Präsidium statt. Die Ladungsfrist beträgt mindestens sieben Werktage.
 
-(2) Für Satzungsänderungen gelten die Fristen gemäß § 9. Initiativanträge zur Änderung der Satzung sind nicht zulässig.
+(2) Für Satzungsänderungen gelten die Fristen gemäß § 10. Initiativanträge zur Änderung der Satzung sind nicht zulässig.
 
 (3) Zu Fragen der Auslegung dieser Satzung bestellt das Studierendenparlament eine Kommission aus bis zu sechs Personen. Die Kommissionsmitglieder sollen nicht Mitglied in einem Fachschaftsrat, im Studierendenparlament oder im Allgemeinen Studierendenausschuss der Studierendenschaft sein. Die Kommission tritt auf Verlangen zweier Listen des Studierendenparlaments oder auf Beschluss eines Organs der Studierendenschaft innerhalb von zehn Tagen zusammen. Beschlüsse werden mit einer Dreiviertelmehrheit gefällt und sind bindend. Der Beschluss muss mit Begründung den Antragsstellenden bekannt gemacht werden. Ein Minderheitenvotum ist auf Verlangen von mindestens einem Kommissionsmitglied dem Beschluss beizufügen.
 
