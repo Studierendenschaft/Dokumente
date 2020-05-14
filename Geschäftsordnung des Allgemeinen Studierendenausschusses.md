@@ -25,7 +25,9 @@ Dem AStA obliegt die Erfüllung seiner Aufgaben und Zuständigkeiten im Rahmen d
 (1) Rede- und Antragsrecht im AStA besitzt generell jede natürliche und juristische Person.
 
 (2) Der AStA führt eine sensibel quotierte Redeliste, deren Zweck es ist, ein ausgeglichenes Redeverhalten herzustellen. Die Art und Quotierung der Redeliste legt der AStA im Hinblick auf die Zusammensetzung des AStAs fest. Dabei erkennt der AStA an, dass es mehr als zwei Geschlechter gibt und diese unterschiedlich privilegiert sind, was in der Redeliste Beachtung finden sollte.
+
 (3) Die Zuteilung zu Geschlechtern geschieht durch die Personen selbst. Eine Ansprechperson für die Zuteilung auf der Redeliste kann der_die Referent*in für Geschlechterpolitik sein.
+
 (4) Wurde die Redeliste geschlossen, so hat jede Person einmalig und unmittelbar nach der Schließung der Redeliste die Möglichkeit noch in die Redeliste aufgenommen zu werden. Alle Wortmeldungen der Redeliste werden dann entsprechend der Quotierung aufgerufen.
 
 ## § 5 Fristen bei finanzrelevanten Anträgen
@@ -98,7 +100,7 @@ Mitglieder des AStAs sind berechtigt, Änderungsanträge zu stellen. Wird ein Ä
 
 (4) Anträge, die die Bedingungen aus Abs. 3 nicht erfüllen, werden im Protokoll mit Titel, Höhe des beantragten Zuschusses, zugeordnetem Haushaltstopf und Abstimmungsergebnis veröffentlicht.
 
-(5) Die Protokolle des aktuellen und des vorherigen AStAs sind hochschulöffentlich im Intranet der Universität Potsdam verfügbar.
+(5) Die Protokolle des aktuellen und aller AStAs sind hochschulöffentlich im Intranet der Universität Potsdam verfügbar.
 
 ## § 11 Inkrafttreten
 Diese Geschäftsordnung tritt nach dem Beschluss in AStA und StuPa in Kraft.
