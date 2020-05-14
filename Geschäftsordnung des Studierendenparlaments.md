@@ -141,7 +141,7 @@ Mitglieder des Studierendenparlaments können außerhalb von Debatten und Abstim
 
 (2) Geschäftsordnungsanträge sind:
 
-1. Sprachmittlung (auf Verlangen eines Mitglieds)
+1. Sprachmittlung (auf Verlangen eines Mitglieds),
 2. Antrag auf Feststellung der Beschlussfähigkeit (auf Verlangen eines Mitglieds),
 3. Antrag auf Vertagung vor Eintritt in die Tagesordnung,
 4. Änderung der Reihenfolge der Beratung,
@@ -175,3 +175,5 @@ Weitere Anträge zum Verfahren bedürfen einer Zweidrittelmehrheit der anwesende
 (1) Diese Geschäftsordnung tritt mit ihrer Verabschiedung in Kraft und ist hochschulöffentlich bekannt zu machen.
 
 (2) Alle vorherigen Geschäftsordnungen werden mit dem Inkrafttreten dieser Ordnung gegenstandslos.
+
+(3) Das Studierendenparlament kann in Zeiten der besonderen Einschränkungen für die Gremienarbeit der Studierendenschaft von der Geschäftsordnung abweichende, oder die Geschäftsordnung und Satzung genauer ausgestaltende Bestimmungen treffen. Dabei muss mindestens das Quorum erreicht werden, das zur Änderung dieser Geschäftsordnung notwendig ist.
