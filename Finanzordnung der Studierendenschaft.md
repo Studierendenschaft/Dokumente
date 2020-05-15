@@ -5,7 +5,7 @@ i.d.F. der Fünften Änderungssatzung der Finanzordnung der Studierendenschaft d
 
 **Vom 23. Februar 2016**
 
-Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 3 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG) vom 28. April 2014 (GVBl. I/14, Nr. 18) in der Fassung vom 1. Juli 2015 (GVBl. I/15, Nr. 18) und gemäß § 8 Abs. 4 der Satzung der Studierendenschaft vom 13. Juli 2005 (AmBek. UP 2005 Nr. 21 S. 637), in der Fassung vom 12. Januar 2016, (AmBek. UP 2016 Nr. 1 S. 35) folgende Finanzordnung beschlossen:
+Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 3 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG) vom 28. April 2014 (GVBl. I/14, Nr. 18) in der Fassung vom 1. Juli 2015 (GVBl. I/15, Nr. 18) und gemäß § 9 Abs. 4 der Satzung der Studierendenschaft vom 13. Juli 2005 (AmBek. UP 2005 Nr. 21 S. 637), in der Fassung vom 12. Januar 2016, (AmBek. UP 2016 Nr. 1 S. 35) folgende Finanzordnung beschlossen:
 
 
 ----------
@@ -42,7 +42,7 @@ Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 3 des 
 
 (3) Eine Weisung ist im Zweifel durch den AStA zu überprüfen.
 
-(4) Der/die Finanzreferent/in des AStA hat zur Verschickung zu der dem § 31 (6) der Satzung der Studierendenschaft entsprechenden Sitzung einen Haushaltsplan für das neue Haushaltsjahr vorzulegen.
+(4) Der/die Finanzreferent/in des AStA hat zur Verschickung zu der dem § 43 (6) der Satzung der Studierendenschaft entsprechenden Sitzung einen Haushaltsplan für das neue Haushaltsjahr vorzulegen.
 
 
 ## § 5 Fachschaft – Finanzreferent/in der Fachschaft
