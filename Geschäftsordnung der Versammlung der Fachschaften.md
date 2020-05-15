@@ -5,9 +5,9 @@ Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vo
 
 ## § 1 Zusammensetzung
 
-(1) Die Versammlung der Fachschaften (VeFa) setzt sich aus den in § 21 (3, 4) der Satzung der Studierendenschaft bestimmten Mitgliedern zusammen.
+(1) Die Versammlung der Fachschaften (VeFa) setzt sich aus den in § 27 (3, 4) der Satzung der Studierendenschaft bestimmten Mitgliedern zusammen.
 
-(2) Zusätzlich entsendet der Allgemeine Studierendenausschuss (AStA) gemäß § 12 (3) der Satzung der Studierendenschaft eine Vertreterin oder einen Vertreter in die Versammlung der Fachschaften.
+(2) Zusätzlich entsendet der Allgemeine Studierendenausschuss (AStA) gemäß § 13 (3) der Satzung der Studierendenschaft eine Vertreterin oder einen Vertreter in die Versammlung der Fachschaften.
 
 (3) Die Fachschaftsräte und der Allgemeine Studierendenausschuss teilen dem Präsidium ihre für die Versammlung der Fachschaften gewählten Mitglieder mit. Dies geschieht bei Änderungen oder Neuantritt selbiger.
 
@@ -16,7 +16,7 @@ Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vo
 
 ## § 2 Aufgaben
 
-(1) Die Versammlung der Fachschaften versteht sich als Interessenvertretung der Fachschaften der Universität Potsdam und dient der Koordination der Arbeit der Fachschaften und zur Kommunikation mit den anderen Gremien der Studierendenschaft gemäß § 21 (1) der Satzung der Studierendenschaft. In diesem Rahmen verwaltet und beschließt sie auch die Verwendung des Projektmittelfonds gemäß § 21 (7) der Satzung der Studierendenschaft.
+(1) Die Versammlung der Fachschaften versteht sich als Interessenvertretung der Fachschaften der Universität Potsdam und dient der Koordination der Arbeit der Fachschaften und zur Kommunikation mit den anderen Gremien der Studierendenschaft gemäß § 27 (1) der Satzung der Studierendenschaft. In diesem Rahmen verwaltet und beschließt sie auch die Verwendung des Projektmittelfonds gemäß § 27 (7) der Satzung der Studierendenschaft.
 
 (2) Die Fachschaften tauschen sich über alle für die Interessen der Fachschaft relevanten Sachverhalte aus und entwickeln gemeinsame Standpunkte.
 
@@ -27,13 +27,13 @@ Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vo
 
 ## § 3 Präsidium
 
-(1) Die Versammlung der Fachschaften wählt jährlich ein Präsidium gemäß § 21 (5) der Satzung der Studierendenschaft.
+(1) Die Versammlung der Fachschaften wählt jährlich ein Präsidium gemäß § 27 (5) der Satzung der Studierendenschaft.
 
 (2) Für ein konstruktives Misstrauensvotum gegen ein einzelnes Mitglied des Präsidiums oder gegen das gesamte Präsidium ist eine Zweidrittelmehrheit der anwesenden Mitglieder der Versammlung der Fachschaften nötig.
 
-(3) Scheidet ein Mitglied aus dem Präsidium aus und besteht das Präsidium damit aus weniger als drei Mitgliedern, so ist auf der folgenden Sitzung eine Zuwahl von mindestens der zu drei Mitgliedern fehlenden Zahl an Personen gemäß § 21 (5) der Satzung der Studierendenschaft durchzuführen.
+(3) Scheidet ein Mitglied aus dem Präsidium aus und besteht das Präsidium damit aus weniger als drei Mitgliedern, so ist auf der folgenden Sitzung eine Zuwahl von mindestens der zu drei Mitgliedern fehlenden Zahl an Personen gemäß § 27 (5) der Satzung der Studierendenschaft durchzuführen.
 
-(4) Zusätzlich zu den in der Satzung der Studierendenschaft § 21 (5) genannten Aufgaben, hat das Präsidium folgende Aufgaben:
+(4) Zusätzlich zu den in der Satzung der Studierendenschaft § 27 (5) genannten Aufgaben, hat das Präsidium folgende Aufgaben:
 
 - Organisation der Arbeit der Versammlung der Fachschaften
 - Zusammenarbeit mit dem Allgemeinen Studierendenausschuss, dem Studierendenparlament und anderen Gremien
@@ -193,7 +193,7 @@ Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vo
 
 ## § 15 Projektmittelfonds
 
-(1) Der Projektmittelfonds basiert auf § 21 (7) der Satzung der Studierendenschaft.
+(1) Der Projektmittelfonds basiert auf § 27 (7) der Satzung der Studierendenschaft.
 
 (2) Anträge zum Projektmittelfonds müssen mindestens 10 Tage vor der Sitzung, die für deren Behandlung vorgesehen ist, schriftlich beim Präsidium eingegangen sein.
 
