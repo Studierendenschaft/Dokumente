@@ -3,9 +3,9 @@
 
 i.d.F. der Dritten Änderungssatzung der Rahmenwahlordnung der Studierendenschaft der Universität Potsdam
 
-**Vom 6. Februar 2018**
+**Vom 28. April 2020**
 
-Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 3 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG) in der Fassung vom 28. April 2014 (GVBl. I/14, Nr. 18), zuletzt geändert durch Gesetz vom 1. Juli 2015 (GVBl. I/15, Nr. 18), i. V. m. § 8 Abs. 4 der Satzung der Studierendenschaft der Universität Potsdam vom 13. Juli 2005 (AmBek UP 2005, S. 637) in der Fassung vom 7. November 2017 (AmBek UP 2018, S. XXX), auf seiner Sitzung vom 6. Februar 2018 folgende Rahmenwahlordnung beschlossen:
+Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 3 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG) in der Fassung vom 28. April 2014 (GVBl. I/14, Nr. 18), zuletzt geändert durch Gesetz vom 1. Juli 2015 (GVBl. I/15, Nr. 18), i. V. m. § 9 Abs. 4 der Satzung der Studierendenschaft der Universität Potsdam vom 13. Juli 2005 (AmBek UP 2005, S. 637) in der Fassung vom 7. November 2017 (AmBek UP 2018, S. XXX), auf seiner Sitzung vom 28. April 2020 folgende Rahmenwahlordnung beschlossen:
 
 
 ----------
@@ -13,7 +13,7 @@ Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 3 des 
 
 ## § 1 Geltungsbereich
 
-Diese Rahmenwahlordnung gilt für die Wahlen zu den Organen der Studierendenschaft, insbesondere für die Wahl zum Studierendenparlament (StuPa) und dem autonomen Referat für Studentische Beschäftigte der Universität Potsdam. Soweit anwendbar gilt diese Ordnung auch für eine Urabstimmung. Sie gilt entsprechend für Wahlen in den Fachschaften – insbesondere für Wahlen zum Fachschaftsrat, sofern sich eine Fachschaft nicht eine eigene Wahlordnung gegeben hat. Eine solche muss jedoch den Grundsätzen dieser Rahmenwahlordnung nach § 7 entsprechen.
+Diese Rahmenwahlordnung gilt für die Wahlen zu den Organen der Studierendenschaft, insbesondere für die Wahl zum Studierendenparlament (StuPa) und dem autonomen Referat für Studentische Beschäftigte der Universität Potsdam. Soweit anwendbar gilt diese Ordnung auch für eine Urabstimmung. Darüber  hinaus  regelt  sie  die Wahlen  zum  Autonomen  Referat  für  Studentische  Beschäftigte. Sie gilt entsprechend für Wahlen in den Fachschaften – insbesondere für Wahlen zum Fachschaftsrat, sofern sich eine Fachschaft nicht eine eigene Wahlordnung gegeben hat. Eine solche muss jedoch den Grundsätzen dieser Rahmenwahlordnung nach §2 entsprechen. Dazu muss sie ebenfalls §9 entsprechen.
 
 
 ## § 2 Wahlgrundsätze
@@ -25,7 +25,7 @@ Die Mitglieder der Organe der Studierendenschaft werden von den Studierenden in 
 
 ## § 3 Sitzverteilung
 
-Für das StuPa sind nach § 10 Abs. 1 der Satzung der Studierendenschaft 27 Mitglieder zu wählen.
+Für das StuPa sind nach § 11 Abs. 1 der Satzung der Studierendenschaft 27 Mitglieder zu wählen.
 
 
 ## § 4 Wahlbezirke
@@ -58,17 +58,17 @@ Wahlbezirke, in denen an den Wahltagen an zentraler Stelle ein Wahllokal einzuri
 
 ## § 8 Wahlsystem
 
-(1) Die Wahlen zum StuPa erfolgen nach den Grundsätzen der personalisierten Verhältniswahl. Dafür gelten die Vorschriften der nachstehenden Absätze 2 bis 4.
+(1) Die Wahlen zum StuPa erfolgen nach den Grundsätzen der personalisierten Verhältniswahl und  nach  Maßgabe  der Vorschriften der nachstehenden Absätze 2 bis 4.
 
-(2) Gewählt wird nach Listen, die aufgrund gültiger Kandidaturen aufgestellt werden.
+(2) Gewählt wird nach Listen, die aufgrund gemäß §7 und §14 gültiger Kandidaturen aufgestellt werden.
 
-(3) Alle Wahlberechtigten haben die Möglichkeit zu wählen, indem sie einen oder mehrere Kandidierende einer oder mehrerer Listen ankreuzen, jedoch höchstens drei Kandidierende. Die Kennzeichnung gilt zunächst für die entsprechende Liste, auf der die Personen kandidieren, zweitrangig auch für die Festlegung der listeninternen Reihenfolge. Stimmenhäufung ist unzulässig. Die weiteren für die Listen Kandidierenden sind in absteigender Reihenfolge nach der von ihnen erreichten Stimmenzahl als Stellvertretungsberechtigte gewählt (Reserveliste).
+(3) Alle Wahlberechtigten haben die Möglichkeit zu wählen, indem sie einen oder mehrere Kandidierende einer oder mehrerer Listen ankreuzen, jedoch höchstens drei Kandidierende. Eine gültige Stimme gilt zunächst für die entsprechende Liste, auf der die Personen kandidieren, zweitrangig auch für die Festlegung der listeninternen Reihenfolge. Stimmenhäufung ist unzulässig. Die weiteren für die Listen Kandidierenden sind in absteigender Reihenfolge nach der von ihnen erreichten Stimmenzahl als Stellvertretungsberechtigte gewählt (Reserveliste).
 
 (4) Die Sitzplatzverteilung wird im Sainte-Laguë/Schepers-Verfahren ermittelt. Jede Liste erhält so viele Sitze, wie sich nach Teilung der Summe ihrer im Wahlgebiet erhaltenen Stimmen durch einen Zuteilungsdivisor ergeben. Der Zuteilungsdivisor ist so zu bestimmen, dass so viele Sitze auf die Listen entfallen, wie Sitze zu vergeben sind. Dazu wird die Gesamtzahl der abgegebenen Stimmen aller angetretenen Listen durch die Gesamtzahl der Sitze geteilt. Entfallen danach mehr Sitze auf die Listen als Sitze zu vergeben sind, ist der Zuteilungsdivisor so heraufzusetzen, dass sich bei der Berechnung die zu vergebende Sitzzahl ergibt. Entfallen zu wenig Sitze auf die Listen, ist der Zuteilungsdivisor entsprechend herunterzusetzen. Zahlenbruchteile unter 0,5 werden auf die darunter liegende ganze Zahl abgerundet, solche über 0,5 werden auf die darüber liegende ganze Zahl aufgerundet. Zahlenbruchteile, die gleich 0,5 sind, werden so aufgerundet oder abgerundet, dass die Gesamtzahl der zu vergebenden Sitze eingehalten wird. Ergeben sich dabei mehrere mögliche Sitzzuteilungen, so entscheidet das vom Wahlausschuss zu ziehende Los.
 
 (5) Die danach auf die einzelnen Listen entfallenden Sitze werden den in den Listen aufgeführten Kandidierenden in der Reihenfolge der von ihnen erreichten Stimmenzahlen zugeteilt. Bei Stimmengleichheit innerhalb einer Liste ist die Reihenfolge der Liste maßgebend.
 
-(6) Werden für das StuPa zu wenig Kandidierende aufgestellt oder höchstens doppelt so viele Kandidierende, wie das StuPa nach § 2 Sitze hat, so findet die Wahl zum StuPa als einfache Personenwahl mit drei Stimmen statt.
+(6) Werden für das StuPa höchstens doppelt so viele Kandidierende aufgestellt, wie das StuPa nach §3 Sitze hat, so findet die Wahl zum StuPa als einfache Personenwahl mit drei Stimmen statt.
 
 (7) Findet eine Wahl nach Absatz 6 statt, so haben die Wahlberechtigten die Möglichkeit, eine oder mehrere Kandidierende auf dem Stimmzettel anzukreuzen, jedoch insgesamt höchstens drei. Stimmenhäufung ist erlaubt. Die Sitze werden nach der Zahl der erreichten Stimmen zugeteilt. Bei Stimmengleichheit entscheidet das Los. Alle danach nicht zum Zuge gekommenen Personen mit gültigen Stimmen sind in absteigender Reihenfolge nach der von ihnen erreichten Stimmenzahl in die Reserveliste aufgenommen. Bei Stimmengleichheit entscheidet das Los über die Reihenfolge.
 
@@ -80,7 +80,7 @@ Der Einsatz elektronischer Systeme für die Stimmabgabe bei Wahlen der Studieren
 
 ## § 10 Wahlausschuss
 
-(1) Für die ordnungsgemäße Vorbereitung und Durchführung der Wahlen wird ein Studentischer Wahlausschuss (StWA) gemäß § 17 der Satzung der Studierendenschaft bestellt. Das StuPa und der AStA haben den Wahlausschuss organisatorisch bei der Erfüllung seiner Aufgaben zu unterstützen.
+(1) Für die ordnungsgemäße Vorbereitung und Durchführung der Wahlen wird ein Studentischer Wahlausschuss (StWA) gemäß § 24 der Satzung der Studierendenschaft bestellt. Das StuPa und der AStA haben den Wahlausschuss organisatorisch bei der Erfüllung seiner Aufgaben zu unterstützen.
 
 (2) Die Amtszeit des StWA endet mit dem Zusammentritt des neu gewählten StWA für die turnusmäßig durchzuführenden Wahlen.
 
@@ -122,16 +122,16 @@ Der StWA bestimmt für die Beaufsichtigung der Wahlhandlung sowie für die Ausz�
 
 (3) Das Wahlberechtigtenverzeichnis wird für die Dauer von drei Wochen bis zum 35. Tag vor dem ersten Wahltag im zentralen Wahlbüro ausgelegt. Einwendungen gegen das Wahlberechtigtenverzeichnis und Erklärungen zur Fakultätszugehörigkeit nach § 5 Abs. 2 müssen bis zu diesem Tag gegenüber dem StWA geltend gemacht bzw. abgegeben werden. Nach Ablauf dieser Frist kann die Fehlerhaftigkeit des Wahlberechtigtenverzeichnisses nicht mehr geltend gemacht werden, auch nicht im Wege der Wahlanfechtung.
 
-(4) Die Mitglieder des StWA können das Wahlberechtigtenverzeichnis von Amts wegen berichtigen.
+(4) Die  Mitglieder  des  StWA  können  das  Wahlberechtigtenverzeichnis von Amts wegen gemäß dem Immatrikulationsverzeichnis oder § 3 Abs. 2 aktualisieren.
 
 (5) Die Bestimmungen der Absätze 1 bis 4 finden auf die Wahlen zum autonomen Referat für Studentische Beschäftigte entsprechende Anwendung.
 
 
 ## § 14 Kandidaturen und Wahllisten
 
-(1) Eine Wahlliste besteht aus der Auflistung von mindestens zwei Kandidaturen. Die Wahlliste ist von der Listensprecherin bzw. dem Listensprecher zu unterzeichnen. Die Kandidaturen sind der Wahlliste beizufügen.
+(1) Eine Wahlliste besteht aus der geordneten Auflistung von mindestens zwei Kandidaturen. Die Wahlliste ist von der Listensprecherin bzw. dem Listensprecher zu unterzeichnen. Die Kandidaturen sind der Wahlliste beizufügen.
 
-(2) Jede Kandidatur muss in erkennbarer Reihenfolge:
+(2) Jede Kandidatur muss deutlich erkennbar und vollständig die folgenden Angaben:
 
 1. den Namen und Vornamen,
 2. die Matrikelnummer,
@@ -142,11 +142,11 @@ Der StWA bestimmt für die Beaufsichtigung der Wahlhandlung sowie für die Ausz�
 
 (3) Wahllisten
 
-1. Eine Wahlliste ist bis zum 28. Tag vor dem ersten Wahltag bis 12:00 Uhr schriftlich beim StWA über dessen Briefkasten oder an einem anderen vom StWA bestimmten Ort einzureichen.
+1. Eine Wahlliste ist bis zum 28. Tag vor dem ersten Wahltag bis 12:00 Uhr schriftlich beim StWA über dessen Briefkasten oder Mitgliedern  des StWA persönlich einzureichen.
 
-2. Jede Wahlliste soll eine eindeutige Bezeichnung oder ein Kennwort enthalten. Das Kennwort darf keine rechtswidrigen, beleidigenden oder zu Verwechslungen führenden Begriffe enthalten. Soweit nicht ausdrücklich eine Listensprecherin bzw. ein Listensprecher genannt ist, gilt die auf der Wahlliste erstgenannte Person als berechtigt, die Wahlliste gegenüber dem StWA zu vertreten und Erläuterungen und Entscheidungen entgegenzunehmen (Listensprecherin bzw. Listensprecher).
+2. Jede Wahlliste soll eine eindeutige Bezeichnung oder ein Kennwort enthalten. Das Kennwort darf keine rechtswidrigen, beleidigenden oder zu Verwechslungen führenden Begriffe enthalten. Soweit nicht ausdrücklich ein_e Listensprecher_in genannt ist, gilt die auf der Wahlliste erstgenannte Person als berechtigt, die Wahlliste gegenüber dem StWA zu vertreten und Erläuterungen und Entscheidungen entgegenzunehmen (Listensprecher_in).
 
-(4) Alle Kandidierenden können sich zur Wahl nur auf einer Wahlliste bewerben; Kandidierende, die auf mehreren Wahllisten genannt sind, werden auf allen Wahllisten gestrichen.
+(4) Kandidierende können sich zur Wahl nur auf einer Wahlliste bewerben; Kandidierende, die auf mehreren Wahllisten genannt sind, werden auf allen Wahllisten gestrichen.
 
 
 ## § 15 Prüfung und Veröffentlichung der Kandidaturen und Wahllisten
@@ -171,11 +171,11 @@ Der StWA bestimmt für die Beaufsichtigung der Wahlhandlung sowie für die Ausz�
 
 ## § 17 Wahlgang
 
-(1) Die Stimmabgabe richtet sich nach dem Verfahren nach § 8 dieser Rahmenwahlordnung. Die Stimmabgabe ist geheim. Wählende, die körperlich beeinträchtigt sind, können sich der Hilfe einer Vertrauensperson bedienen, die den Stimmzettel kennzeichnen und/oder in die Wahlurne werfen kann.
+(1) Die Stimmabgabe richtet sich nach dem Verfahren nach §8. Wählende, die körperlich beeinträchtigt sind, können sich der Hilfe einer Vertrauensperson bedienen, die den Stimmzettel kennzeichnen und/oder in die Wahlurne werfen kann.
 
 (2) Bevor die Wählenden ihr Stimmrecht ausüben, ist ihre Identität zu überprüfen und festzustellen, ob sie im Wahlberechtigtenverzeichnis geführt werden. Ist dies der Fall, so werden ihnen die Wahlunterlagen ausgehändigt und die Stimmabgabe im Wahlberechtigtenverzeichnis vermerkt, damit eine nochmalige Aushändigung der Wahlunterlagen ausgeschlossen ist.
 
-(3) Bei der Wahl sind nur die dafür vorgesehenen Wahlunterlagen zu verwenden. Die Wählenden geben ihre Stimme ab, indem sie ihre Entscheidung auf dem Stimmzettel eindeutig kenntlich machen. Die Wählenden sind gehalten, dafür die Wahlkabinen zu benutzen.
+(3) Bei der Wahl sind nur die dafür vorgesehenen Wahlunterlagen zu verwenden. Die Wählenden geben ihre Stimme ab, indem sie ihre Entscheidung auf dem Stimmzettel eindeutig kenntlich machen. Die Wählenden müssen die dafür die hierfür bereitgestellten Wahlkabinen benutzen.
 
 (4) Wird die Wahlhandlung unterbrochen (in der Regel über Nacht), ist die Wahlurne zu verschließen und vor Missbrauch geschützt aufzubewahren. Unregelmäßigkeiten werden der Wahlleiterin oder dem Wahlleiter umgehend mitgeteilt.
 
