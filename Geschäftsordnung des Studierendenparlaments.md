@@ -46,7 +46,7 @@ Die Geschäftsordnung gilt für das Studierendenparlament (StuPa) der Universit�
 
 ## § 5 Präsidium
 
-(1) Das Präsidium besteht gemäß § 10 Abs. 3 der Satzung der Studierendenschaft aus drei Personen, die die gleichen Rechte und Pflichten innehaben.
+(1) Das Präsidium besteht gemäß § 11 Abs. 3 der Satzung der Studierendenschaft aus drei Personen, die die gleichen Rechte und Pflichten innehaben.
 
 (2) Das Präsidium leitet die Arbeit des Studierendenparlaments und vertritt das Studierendenparlament nach außen. Es ist dabei an die Beschlusslage des Studierendenparlaments gebunden.
 
