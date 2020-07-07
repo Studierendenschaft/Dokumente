@@ -32,6 +32,8 @@ Die Geschäftsordnung gilt für das Studierendenparlament (StuPa) der Universit�
 
 (8) Wenn durch den zweiten Wahlgang nicht alle Mandate vergeben wurden, erfolgt nach demselben Vorgehen ein dritter Wahlgang.
 
+(9) Ein konstruktives Misstrauensvotum kann auf Antrag von mindestens einem Viertel der Mitglieder des Studierendenparlaments durchgeführt werden. Das Misstrauen wird durch die Wahl einer nachfolgenden Person mit den Stimmen der Mehrheit der Mitglieder des Studierendenparlaments ausgesprochen. Es wird nur ein Wahlgang durchgeführt. Zwischen der Ankündigung des konstruktiven Misstrauensvotums an die Mitglieder des Studierendenparlaments und dem Beginn der Sitzung müssen mindestens 72 Stunden liegen.
+
 
 ## § 4 Wahl des Präsidiums
 
@@ -165,7 +167,7 @@ Weitere Anträge zum Verfahren bedürfen einer Zweidrittelmehrheit der anwesende
 
 ## § 16 Schlussbestimmungen
 
-(1) Anträge zur Änderung der Geschäftsordnung, der Wahl-, Finanz- und Beitragsordnung der Studierendenschaft der Universität Potsdam sind fristgemäß, sofern sie zehn Werktage vor der Sitzung beim Präsidium des Studierendenparlaments eingereicht wurden.
+(1) Anträge zur Änderung der Geschäftsordnung, der Rahmenwahl- und Finanzordnung der Studierendenschaft der Universität Potsdam können initiativ nur vor Beginn der Sitzung beim Präsidium des Studierendenparlaments eingereicht werden. Initiativanträge zur Änderung der Geschäftsordnung, der Rahmenwahl- und Finanzordnung der Studierendenschaft der Universität Potsdam können nur mit der Mehrheit der Mitglieder des Studierendenparlaments zur Behandlung angenommen werden.
 
 (2) Die Geschäftsordnung kann auf Antrag nach einer zeitlich begrenzten Aussprache mit einer Zweidrittelmehrheit der anwesenden Mitglieder des Studierendenparlaments geändert werden.
 
