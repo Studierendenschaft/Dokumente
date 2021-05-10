@@ -74,19 +74,18 @@ Die Geschäftsordnung gilt für das Studierendenparlament (StuPa) der Universit�
 
 ## § 8 Bilinguale Partizipation im Studierendenparlament
 
-(1) Das Studierendenparlament wählt auf Verlangen mindestens eines Mitglieds eine&#42;n Verantwortliche&#42;n für bilinguale Partizipation im Studierendenparlament. Diese Person soll Mitglied des Studierendenparlaments sein.
+(1) Das Studierendenparlament wählt auf Verlangen mindestens eines Mitglieds eine verantwortliche Person für bilinguale Partizipation, die selbst Mitglied des Studierendenparlaments sein soll.
 
-(2) Aufgaben des&#42;der Verantwortlichen sind:
+(2) Die verantwortliche Person ist zuständig für
 
-- Die schriftliche Simultanübersetzung von Redebeiträgen in einem für alle Sitzungsteilnehmenden zugänglichen Chat.
-- Auf Wunsch des Präsidiums das Protokollieren von den Redebeiträgen, die auf einer der beiden Sprachen Deutsch und Englisch erfolgen.
-- Das Bereitstellen von Übersetzungen beschlossener Satzungs- und Ordnungsänderungen.
-- Die Übersetzung von Anträgen an das Studierendenparlament, sofern diese nicht durch die Antragsstellenden selbst erfolgen kann.
-- Die Aktualisierung des Leitfadens "Bilinguale StuPa-Partizipation".
-- Die Verfügbarkeit als Ansprechperson zu Fragen der bilingualen Partizipation.
+1. die schriftliche Simultanübersetzung von Redebeiträgen in einem für alle Sitzungsteilnehmenden zugänglichen digitalen Textübermittlungsprogramm,
+2. auf Wunsch des Präsidiums das Protokollieren von den Redebeiträgen, die auf einer der beiden Sprachen Deutsch und Englisch erfolgen,
+3. das Bereitstellen von Übersetzungen beschlossener Satzungs- und Ordnungsänderungen,
+4. die Übersetzung von Anträgen an das Studierendenparlament, sofern diese nicht durch die Antragsstellenden selbst erfolgen kann,
+5. die Aktualisierung des Leitfadens „Bilinguale StuPa-Partizipation“ sowie
+6. die Verfügbarkeit als Ansprechperson zu Fragen der bilingualen Partizipation.
 
-(3) Bei Ausfall des&#42;der Verantwortlichen soll das Studierendenparlament eine Vertretung
-aus der Mitte der Sitzungsteilnehmenden bestimmen.
+(3) Bei Ausfall der verantwortlichen Person soll das Studierendenparlament eine Vertretung aus der Mitte der Sitzungsteilnehmenden bestimmen.
 
 ## § 9 Stimm-, Rede- und Antragsrecht
 
