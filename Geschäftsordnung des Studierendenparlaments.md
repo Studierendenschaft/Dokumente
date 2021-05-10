@@ -72,8 +72,23 @@ Die Geschäftsordnung gilt für das Studierendenparlament (StuPa) der Universit�
 
 (4) Das Präsidium kann jederzeit das Wort zu Verfahrensfragen ergreifen. Es erteilt das Wort, kann zur Ordnung und Redende zur Sache aufrufen und ihnen das Wort entziehen, wenn sie die Redezeit überschreiten oder vom aufgerufenen Thema abweichen. Über die Redezeiten beschließt das Studierendenparlament am Beginn jedes Tagesordnungspunktes auf Vorschlag des Präsidiums.
 
+## § 8 Bilinguale Partizipation im Studierendenparlament
 
-## § 8 Stimm-, Rede- und Antragsrecht
+(1) Das Studierendenparlament wählt auf Verlangen mindestens eines Mitglieds eine&#42;n Verantwortliche&#42;n für bilinguale Partizipation im Studierendenparlament. Diese Person soll Mitglied des Studierendenparlaments sein.
+
+(2) Aufgaben des&#42;der Verantwortlichen sind:
+
+- Die schriftliche Simultanübersetzung von Redebeiträgen in einem für alle Sitzungsteilnehmenden zugänglichen Chat.
+- Auf Wunsch des Präsidiums das Protokollieren von den Redebeiträgen, die auf einer der beiden Sprachen Deutsch und Englisch erfolgen.
+- Das Bereitstellen von Übersetzungen beschlossener Satzungs- und Ordnungsänderungen.
+- Die Übersetzung von Anträgen an das Studierendenparlament, sofern diese nicht durch die Antragsstellenden selbst erfolgen kann.
+- Die Aktualisierung des Leitfadens "Bilinguale StuPa-Partizipation".
+- Die Verfügbarkeit als Ansprechperson zu Fragen der bilingualen Partizipation.
+
+(3) Bei Ausfall des&#42;der Verantwortlichen soll das Studierendenparlament eine Vertretung
+aus der Mitte der Sitzungsteilnehmenden bestimmen.
+
+## § 9 Stimm-, Rede- und Antragsrecht
 
 (1) Stimm-, Rede- und Antragsrecht haben die gewählten Mitglieder des Studierendenparlaments. Anträge sind schriftlich zu verfassen und beim Präsidium des Studierendenparlaments einzureichen.
 
@@ -88,7 +103,7 @@ Die Geschäftsordnung gilt für das Studierendenparlament (StuPa) der Universit�
 (6) Alle im Studierendenparlament vertretenen Listen haben darüber hinaus das Recht, eine Fraktionspause von jeweils maximal 5 Minuten pro Tagesordnungspunkt zu nehmen. Eine Fraktionspause muss mit der Mehrheit der Mitglieder einer Fraktion beschlossen und dem Präsidium des Studierendenparlaments angezeigt werden. Während einer Abstimmung ist keine Fraktionspause möglich.
 
 
-## § 9 Redeliste
+## § 10 Redeliste
 
 (1) Die Sitzungsleitung führt nach Geschlechtern getrennte Redelisten. Sie erteilt das Wort in der Reihenfolge der Meldungen abwechselnd je einer Frau und einem Mann.
 
@@ -97,7 +112,7 @@ Die Geschäftsordnung gilt für das Studierendenparlament (StuPa) der Universit�
 (3) Wurde die Redeliste geschlossen und weist die Redeliste eines Geschlechts mehr Wortmeldungen auf als die des anderen, so werden auf ihre Meldung hin solange Personen des zuletzt genannten Geschlechtes in die Redeliste aufgenommen, bis beide Redelisten die gleiche Anzahl von Wortmeldungen aufweisen.
 
 
-## § 10 Beschlüsse
+## § 11 Beschlüsse
 
 (1) Beschlüsse des Studierendenparlaments werden grundsätzlich offen mit einfacher Mehrheit der anwesenden Mitglieder des Studierendenparlaments gefasst, sofern die Satzung der Studierendenschaft oder diese Geschäftsordnung nichts anderes vorschreiben. Eine einfache Mehrheit ist erreicht, wenn die Anzahl der Ja-Stimmen die der Nein-Stimmen überwiegt. Werden mehr Enthaltungsstimmen als Ja- und Nein-Stimmen zusammen abgegeben, gilt der Antrag als abgelehnt (Enthaltungsmehrheit). Stimmengleichheit gilt als Ablehnung. Abstimmungen erfolgen durch Handzeichen.
 
@@ -113,31 +128,31 @@ Die Geschäftsordnung gilt für das Studierendenparlament (StuPa) der Universit�
 (3) Bestehen Zweifel über das Auszählergebnis einer offenen Abstimmung, so erfolgt auf Verlangen eines Mitglieds des Studierendenparlaments eine einmalige Wiederholung der Abstimmung direkt im Anschluss. In diesem Fall kann das Präsidium des Studierendenparlaments eine Abstimmung mit Namensaufruf durchführen.
 
 
-## § 11 Persönliche Erklärung
+## § 12 Persönliche Erklärung
 
 Mitglieder des Studierendenparlaments können außerhalb von Debatten und Abstimmungen persönliche Erklärungen abgeben. Sie sind bei der Sitzungsleitung anzumelden. Die Redezeit beträgt maximal drei Minuten. Auf Verlangen der Person, die die Erklärung abgibt, wird die Persönliche Erklärung in das Protokoll aufgenommen. Die Erklärung ist von der betroffenen Person innerhalb von 72 Stunden in Schriftform an das Präsidium zu senden (Datum des Poststempels bzw. Sendezeitpunkt der E-Mail). Es dürfen keine weiterführenden Aussagen gemacht werden. In Zweifelsfragen werden die eingereichte Version sowie ein Kommentar des Präsidiums ins Protokoll aufgenommen.
 
 
-## § 12 Änderungsanträge
+## § 13 Änderungsanträge
 
 Änderungsanträge sind auf Verlangen des Präsidiums schriftlich beim Präsidium des Studierendenparlaments einzureichen. Berechtigt, Änderungsanträge zu stellen, sind nur Mitglieder des Studierendenparlaments sowie des AStA. Das Präsidium unterbreitet die Änderungsanträge abstimmungsreif dem Parlament. Umfangreiche Änderungsanträge sind den Mitgliedern des Studierendenparlaments zur Beratung und Beschlussfassung schriftlich zu unterbreiten. Die Antragstellerin bzw. der Antragsteller kann die Übernahme von Änderungsanträgen erklären.
 
 
-## § 13 Wahl des Allgemeinen Studierendenausschusses (AStA)
+## § 14 Wahl des Allgemeinen Studierendenausschusses (AStA)
 
 (1) Das Studierendenparlament beschließt die Referatsstruktur und die Größe für jedes Referat des Allgemeinen Studierendenausschusses. Anschließend wählt es die Mitglieder des Allgemeinen Studierendenausschusses pro Referat in Einzelwahl gemäß § 3.
 
 (2) Wählbar sind alle Mitglieder der Studierendenschaft der Universität Potsdam.
 
 
-## § 14 Protokoll
+## § 15 Protokoll
 
 (1) Von den Sitzungen des Studierendenparlaments wird ein Beschlussprotokoll erstellt und archiviert. Beschluss- und Wahlprotokolle sind schriftlich anzufertigen. Die Beschlüsse des Studierendenparlaments sind innerhalb von zehn Tagen auf der Homepage des Studierendenparlaments vorbehaltlich der Bestätigung durch das Studierendenparlament auf seiner nächstfolgenden Sitzung zu veröffentlichen und auf Verlangen jedem Mitglied der Studierendenschaft auszuhändigen.
 
 (2) Das Protokoll ist ein Ergebnisprotokoll und enthält die Tagesordnung, die Anwesenheitsliste, die gestellten Anträge und deren Abstimmungsergebnisse. Nach Ermessen des Präsidiums können einzelne Argumente und Aussagen, die während der Sitzung geäußert werden, in das Protokoll aufgenommen werden.
 
 
-## § 15 Anträge zur Geschäftsordnung
+## § 16 Anträge zur Geschäftsordnung
 
 (1) Anträge zur Geschäftsordnung dürfen sich ausschließlich mit dem Ablauf der Sitzung befassen und werden durch das Heben beider Hände oder durch Zuruf angezeigt. Anträge zur Geschäftsordnung werden außerhalb der Redeliste sofort behandelt. Sie können nur von Mitgliedern des Studierendenparlaments oder des Allgemeinen Studierendenausschusses gestellt werden. Vor der Abstimmung erhält je eine antragsberechtigte Person für bzw. gegen den Antrag das Wort.
 
@@ -165,14 +180,14 @@ Weitere Anträge zum Verfahren bedürfen einer Zweidrittelmehrheit der anwesende
 (3) Werden mehrere Anträge zur Geschäftsordnung nebeneinander gestellt, so sollen sie in der Reihenfolge dieser Liste zur Abstimmung gestellt werden.
 
 
-## § 16 Schlussbestimmungen
+## § 17 Schlussbestimmungen
 
 (1) Anträge zur Änderung der Geschäftsordnung, der Rahmenwahl- und Finanzordnung der Studierendenschaft der Universität Potsdam können initiativ nur vor Beginn der Sitzung beim Präsidium des Studierendenparlaments eingereicht werden. Initiativanträge zur Änderung der Geschäftsordnung, der Rahmenwahl- und Finanzordnung der Studierendenschaft der Universität Potsdam können nur mit der Mehrheit der Mitglieder des Studierendenparlaments zur Behandlung angenommen werden.
 
 (2) Die Geschäftsordnung kann auf Antrag nach einer zeitlich begrenzten Aussprache mit einer Zweidrittelmehrheit der anwesenden Mitglieder des Studierendenparlaments geändert werden.
 
 
-## § 17 Inkrafttreten
+## § 18 Inkrafttreten
 
 (1) Diese Geschäftsordnung tritt mit ihrer Verabschiedung in Kraft und ist hochschulöffentlich bekannt zu machen.
 
