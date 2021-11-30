@@ -1,6 +1,6 @@
 # Geschäftsordnung des Studierendenparlaments
 
-Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vom 13. Juli 2005 in der Fassung der Dritten Änderungssatzung der Satzung der Studierendenschaft der Universität Potsdam vom 12. Januar 2016 gibt sich das Studierendenparlament am 09. Februar 2021 die nachfolgende Geschäftsordnung.
+Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vom 13. Juli 2005 in der Fassung der Dritten Änderungssatzung der Satzung der Studierendenschaft der Universität Potsdam vom 12. Januar 2016 hat sich das Studierendenparlament am 09. Februar 2021 die nachfolgende Geschäftsordnung gegeben, die durch Beschluss vom 09. November 2021 zuletzt geändert worden ist.
 
 ## § 1 Geltungsbereich
 
@@ -161,7 +161,7 @@ Mitglieder des Studierendenparlaments können außerhalb von Debatten und Abstim
 2. Antrag auf Feststellung der Beschlussfähigkeit (auf Verlangen eines Mitglieds),
 3. Antrag auf Vertagung vor Eintritt in die Tagesordnung,
 4. Änderung der Reihenfolge der Beratung,
-5. Schluss der Sitzung (mit Zweidrittelmehrheit),
+5. Schluss der Sitzung (mit Zweidrittelmehrheit der anwesenden Mitglieder),
 6. Unterbrechung der Sitzung,
 7. Verbindung der Beratung zweier Tagesordnungspunkte,
 8. Durchführung von zwei Lesungen zu einem Tagesordnungspunkt,
