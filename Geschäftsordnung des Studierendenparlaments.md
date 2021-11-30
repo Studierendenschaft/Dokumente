@@ -161,7 +161,7 @@ Mitglieder des Studierendenparlaments können außerhalb von Debatten und Abstim
 2. Antrag auf Feststellung der Beschlussfähigkeit (auf Verlangen eines Mitglieds),
 3. Antrag auf Vertagung vor Eintritt in die Tagesordnung,
 4. Änderung der Reihenfolge der Beratung,
-5. Schluss der Sitzung (mit Zweidrittelmehrheit),
+5. Schluss der Sitzung (mit Zweidrittelmehrheit der anwesenden Mitglieder),
 6. Unterbrechung der Sitzung,
 7. Verbindung der Beratung zweier Tagesordnungspunkte,
 8. Durchführung von zwei Lesungen zu einem Tagesordnungspunkt,
