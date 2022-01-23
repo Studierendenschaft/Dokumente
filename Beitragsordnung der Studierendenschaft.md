@@ -23,7 +23,7 @@ Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 4 des 
 
 1. 7,80 Euro Beitrag zum Teilhaushalt der sonstigen Studierendenschaft
 2. 2,20 Euro Beitrag zum Teilhaushalt der Fachschaften
-3. 0,50 Euro Beitrag zum Semesterticketsozialfond
+3. 1,00 Euro Beitrag zum Semesterticketsozialfond
 4. 4,00 Euro Beitrag für das Kulturzentrum in den Elfleinhöfen
 5. Semesterticketbeitrag gemäß § 6 Abs. 2
 
