@@ -1,6 +1,6 @@
 # Geschäftsordnung des Studierendenparlaments
 
-Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vom 13. Juli 2005 in der Fassung der Dritten Änderungssatzung der Satzung der Studierendenschaft der Universität Potsdam vom 12. Januar 2016 hat sich das Studierendenparlament am 09. Februar 2021 die nachfolgende Geschäftsordnung gegeben, die durch Beschluss vom 09. November 2021 zuletzt geändert worden ist.
+Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vom 13. Juli 2005 in der Fassung der Dritten Änderungssatzung der Satzung der Studierendenschaft der Universität Potsdam vom 12. Januar 2016 hat sich das Studierendenparlament am 09. Februar 2021 die nachfolgende Geschäftsordnung gegeben, die durch Beschluss vom 15. Februar 2022 zuletzt geändert worden ist.
 
 ## § 1 Geltungsbereich
 
@@ -16,7 +16,7 @@ Die Geschäftsordnung gilt für das Studierendenparlament (StuPa) der Universit�
 
 ## § 3 Personenwahlen
 
-(1) Alle Personenwahlen durch das Studierendenparlament laufen nach dem in den Absätzen 2 bis 8 beschriebenen Muster ab, soweit nichts Anderes vorgeschrieben ist.
+(1) Alle Personenwahlen durch das Studierendenparlament laufen nach dem in den Absätzen 2 bis 8 beschriebenen Muster ab, soweit nichts Anderes vorgeschrieben ist. Es kann nach § 11 Absatz 4 verfahren werden.
 
 (2) Die Wahl wird als Einzelwahl durchgeführt.
 
@@ -110,6 +110,20 @@ Die Geschäftsordnung gilt für das Studierendenparlament (StuPa) der Universit�
 
 (3) Wurde die Redeliste geschlossen und weist die Redeliste eines Geschlechts mehr Wortmeldungen auf als die des anderen, so werden auf ihre Meldung hin solange Personen des zuletzt genannten Geschlechtes in die Redeliste aufgenommen, bis beide Redelisten die gleiche Anzahl von Wortmeldungen aufweisen.
 
+## § 10a Zwischenfragen
+
+(1) Auf an sie gerichtete Fragen können
+
+1. die Mitglieder des Allgemeinen Studierendenausschusses
+2. das Präsidium des Studierendenparlaments sowie
+3. Antragstellende, Wahlbewerbende, Berichterstattende und vergleichbare Personen
+
+sofort und außerhalb der Redeliste antworten. Die Antwort ist auf das Notwendige zu beschränken. Anschließend geht das Rederecht an die Person zurück, die die Frage gestellt hat.
+
+(2) Weiteren Personen kann das Präsidium des Studierendenparlaments erlauben, auf an sie gerichtete Fragen sofort zu antworten. Das Präsidium soll die Erlaubnis erteilen, wenn die Personen, die auf der Redeliste stehen, nicht widersprechen. Die Antwortrede wird bei der Quotierung der Redeliste (§ 10 Absätze 1 und 3) berücksichtigt.
+
+(3) Wird die Antwort nicht auf das Notwendige beschränkt oder wird das Antwortrecht für einen gegenseitigen Dialog missbraucht, kann das Präsidium den Beteiligten das Wort entziehen und mit der Redeliste fortfahren.
+
 
 ## § 11 Beschlüsse
 
@@ -126,6 +140,7 @@ Die Geschäftsordnung gilt für das Studierendenparlament (StuPa) der Universit�
 
 (3) Bestehen Zweifel über das Auszählergebnis einer offenen Abstimmung, so erfolgt auf Verlangen eines Mitglieds des Studierendenparlaments eine einmalige Wiederholung der Abstimmung direkt im Anschluss. In diesem Fall kann das Präsidium des Studierendenparlaments eine Abstimmung mit Namensaufruf durchführen.
 
+(4) Beschlüsse, die eine einfache Mehrheit erfordern, können ohne Abstimmung gefasst werden, wenn kein Mitglied des Studierendenparlaments widerspricht. Das Präsidium kann auch ohne Antrag nach Satz 1 verfahren. Der Widerspruch muss unverzüglich auf die Frage des Präsidiums erfolgen, andernfalls ist er ausgeschlossen, wenn das Mitglied nicht ohne Verschulden an der Ausübung des Widerspruchsrechts verhindert war.
 
 ## § 12 Persönliche Erklärung
 
@@ -172,7 +187,7 @@ Mitglieder des Studierendenparlaments können außerhalb von Debatten und Abstim
 13. Ausschluss der Öffentlichkeit (Beratung ist nicht-öffentlich, Beschluss mit Zweidrittelmehrheit der anwesenden Mitglieder),
 14. Getrennte Abstimmung (auf Verlangen eines Mitglieds),
 15. Geheime Abstimmung (auf Verlangen eines Mitglieds),
-16. Wahl ohne Abstimmung (kein Mitglied darf widersprechen).
+16. Antrag auf Verfahren nach § 11 Absatz 4 oder nach § 3 Absatz 1 Satz 2.
 
 Weitere Anträge zum Verfahren bedürfen einer Zweidrittelmehrheit der anwesenden Mitglieder des Studierendenparlaments.
 
