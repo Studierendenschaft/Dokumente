@@ -223,7 +223,33 @@ Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vo
 (4) Das Präsidium hat einen Prüfungsvorbehalt der formalen Richtigkeit von 7 Tagen ab Eingang des Initiativantrages.
 
 
-## § 17 Schlussbestimmungen
+## § 17 Referat für Fachschaften & Fachschaftsräte
+
+(1) Die Versammlung der Fachschaften kann zur weiteren Interessenvertretung und Koordination von Belangen der Fachschaftsräte bis zu vier gleichberechtigte und gegenseitig vertretungsberechtigte Referatspersonen für Fachschaften und Fachschaftsräte wählen.
+
+(2) Wählbar sind alle Studierenden der Universität Potsdam, die ordentlich gewählte Mitglieder mind. eines Fachschaftsrats sind oder waren.
+
+(3) Die Amtszeit beträgt ein Jahr. Unabhängig davon können Referatspersonen für Fachschaften und Fachschaftsräte aus dem Amt scheiden
+
+* durch Exmatrikulation,  
+* durch Tod,  
+* durch Rücktritt, der dem Präsidium der Versammlung der Fachschaften schriftlich oder per E-Mail anzuzeigen ist, 
+* durch Annahme der Wahl in den allgemeinen Studierendenausschuss, 
+* durch ein konstruktives Misstrauensvotum mit absoluter Mehrheit der Versammlung der Fachschaften. 
+
+(4) Referatspersonen für Fachschaften und Fachschaftsräte führen sie betreffende Beschlüsse der Versammlung der Fachschaften aus und sind ihr gegenüber rechenschaftspflichtig. Zu diesem Zweck reichen sie zu jeder Sitzung der Versammlung der Fachschaften einen Rechenschaftsbericht ein. Referatspersonen für Fachschaften und Fachschaftsräte sind ferner zuständig für
+
+* Unterstützung der Fachschaftsräte bei Veranstaltungen, Wahldurchführung, Beratung bei Ordnungsbelangen, Konflikten mit Dozierenden falls erwünscht,  
+* Vernetzung der Fachschaftsräte im Allgemeinen oder in Gruppen,  
+* Entwicklung und Pflege des Internetauftritts der Versammlung der Fachschaften in Absprache mit der Versammlung der Fachschaften, mindestens aber dem Präsidium, 
+* die Vertretung der Belange der Fachschaftsräte und der Versammlung der Fachschaften auf Sitzungen weiterer Gremien, 
+* Unterstützung des Präsidiums der Versammlung der Fachschaften bei der Vor- und Nachbereitung der Sitzungen falls erwünscht.
+* Weitere Aufgaben können von der VeFa bestimmt bzw. beschlossen werden. 
+
+(5) Die Versammlung der Fachschaften kann eine Aufwandsentschädigung für Referatspersonen für Fachschaften und Fachschaftsräte beschließen. Die Höhe der monatlichen Aufwandsentschädigung pro Person darf 65% des Beitrages des höchstmöglichen BAföG-Satzes nicht überschreiten. Sollte eine Finanzierung durch den Projektmittelfonds nicht möglich sein, muss diese beim Studierendenparlament beantragt werden, das zu diesem Zweck einen eigenen Haushaltstitel einrichten kann.
+
+
+## § 18 Schlussbestimmungen
 
 (1) Über alle Änderungen der Geschäftsordnung beschließt die Versammlung der Fachschaften selbst.
 
@@ -232,7 +258,7 @@ Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vo
 (3) Die Änderung der Geschäftsordnung bedarf einer Zweidrittelmehrheit der anwesenden Mitglieder.
 
 
-## § 18 Inkrafttreten
+## § 19 Inkrafttreten
 
 (1) Diese Geschäftsordnung tritt mit ihrer Verabschiedung in Kraft und ist hochschulöffentlich bekannt zu machen.
 
