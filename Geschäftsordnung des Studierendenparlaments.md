@@ -1,6 +1,6 @@
 # Geschäftsordnung des Studierendenparlaments
 
-Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vom 13. Juli 2005 in der Fassung der Dritten Änderungssatzung der Satzung der Studierendenschaft der Universität Potsdam vom 12. Januar 2016 hat sich das Studierendenparlament am 09. Februar 2021 die nachfolgende Geschäftsordnung gegeben, die durch Beschluss vom 15. Februar 2022 zuletzt geändert worden ist.
+Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vom 13. Juli 2005 in der Fassung der Dritten Änderungssatzung der Satzung der Studierendenschaft der Universität Potsdam vom 12. Januar 2016 hat sich das Studierendenparlament am 09. Februar 2021 die nachfolgende Geschäftsordnung gegeben, die durch Beschluss vom 23. Mai 2022 zuletzt geändert worden ist.
 
 ## § 1 Geltungsbereich
 
@@ -104,11 +104,11 @@ Die Geschäftsordnung gilt für das Studierendenparlament (StuPa) der Universit�
 
 ## § 10 Redeliste
 
-(1) Die Sitzungsleitung führt nach Geschlechtern getrennte Redelisten. Sie erteilt das Wort in der Reihenfolge der Meldungen abwechselnd je einer Frau und einem Mann.
+(1) Die Sitzungsleitung führt nach Geschlechtern getrennte Redelisten. Sie erteilt das Wort in der Reihenfolge der Meldungen abwechselnd je einer FLINTA-Person und einem cis-Mann.
 
-(2) Meldet sich eine Person zu einem Tagesordnungspunkt zum ersten Mal, so wird sie als nächstes aufgerufen, wenn ihr jeweiliges Geschlecht an der Reihe ist.
+(2) Meldet sich eine Person zu einem Tagesordnungspunkt zum ersten Mal, so wird sie als nächstes aufgerufen, wenn Personen ihrer Redeliste an der Reihe sind.
 
-(3) Wurde die Redeliste geschlossen und weist die Redeliste eines Geschlechts mehr Wortmeldungen auf als die des anderen, so werden auf ihre Meldung hin solange Personen des zuletzt genannten Geschlechtes in die Redeliste aufgenommen, bis beide Redelisten die gleiche Anzahl von Wortmeldungen aufweisen.
+(3) Wurde die Redeliste geschlossen und weist eine Redeliste mehr Wortmeldungen auf als die andere, so werden auf ihre Meldung hin so lange Personen in die Redeliste mit weniger Personen aufgenommen, bis beide Redelisten die gleiche Anzahl von Wortmeldungen aufweisen.
 
 ## § 10a Zwischenfragen
 
