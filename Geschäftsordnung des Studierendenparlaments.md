@@ -54,6 +54,29 @@ Die Geschäftsordnung gilt für das Studierendenparlament (StuPa) der Universit�
 
 (3) Das Präsidium kann weitere Personen zu seinen Beratungen hinzuziehen.
 
+## § 5a Ausschüsse
+
+(1) Das Studierendenparlament kann zur Vorbereitung seiner Beschlussfassung oder zur Untersuchung bestimmter Sachverhalte Ausschüsse berufen. Ein Ausschuss kann auch für die Durchführung eines Projekts im  Auftrag des Studierendenparlaments begründet werden (Projektausschuss).
+
+(2) Ausschüsse werden durch die Wahl eines vorsitzenden Mitglieds aus der Mitte des Studierendenparlaments errichtet. Das vorsitzende Mitglied hat die Sitzungen des Ausschusses einzuberufen, seine Arbeit zu leiten und die Berichte und Beschlussempfehlungen des Ausschusses an das Studierendenparlament zu übergeben.
+
+(3) Zu Sitzungen der Ausschüsse ist auf einem für Sitzungen des Studierendenparlaments zulässigen Wege unter Beachtung einer Ladungsfrist von drei Tagen einzuladen. Ordnungsgemäß eingeladene Sitzungen sind ohne Rücksicht auf die Zahl der erschienenen Mitglieder des Studierendenparlaments beschlussfähig.
+
+(4) Ausschüsse treffen Entscheidungen mit der Mehrheit der jeweils anwesenden Zahl der Mitglieder des Studierendenparlaments. Sie können Berichte und Beschlussempfehlungen an das Studierendenparlament verabschieden. Projektausschüsse können außerdem über die zweckmäßige Verwendung der ihnen vom Studierendenparlament bewilligten Geldmittel entscheiden.
+
+(5) Anträge und sonstige Beschlussgegenstände können von dem Studierendenparlament jederzeit an einen Ausschuss verwiesen werden. Die Verweisung kann aufgehoben werden, andernfalls endet die Verweisung mit der Vorlage einer Beschlussempfehlung.
+
+## § 5b Ständige Ausschüsse
+
+(1) Es werden die folgenden ständigen Ausschüsse festgelegt, die auf der konstituierenden Sitzung oder spätestens der ersten ordentlichen Sitzung errichtet werden sollen:
+
+1. ein Finanzausschuss  
+   für Fragen des Haushalts und für weitere grundsätzliche Finanzangelegenheiten, sowie
+
+2. ein Satzungsausschuss  
+   für Fragen der Fortbildung des Satzungsrechts sowie der weiteren vom Studierendenparlament zu erlassenden Ordnungen.
+
+(2) Das Präsidium kann Anträge und sonstige Beschlussgegenstände mit Ausnahme von Initiativanträgen und als dringlich bezeichneten Anträgen von Amts wegen an einen sachlich zuständigen Ausschuss gemäß Absatz 1 verweisen.
 
 ## § 6 Sitzungstermine und Tagesordnung
 
